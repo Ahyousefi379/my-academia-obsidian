@@ -1,0 +1,73 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 24,
+    "emojiStyle": "twemoji",
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "BoBxsReport",
+      "📚",
+      "FabAffiliatetheme",
+      "Fab500px",
+      "📂"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "icon": "RiMap2Line",
+        "rule": "MOCs\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "everything",
+        "order": 0,
+        "useFilePath": true,
+        "color": "#249436"
+      },
+      {
+        "icon": "FabBuromobelexperte",
+        "rule": "templates\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "everything",
+        "order": 1,
+        "useFilePath": true
+      },
+      {
+        "rule": ".pdf",
+        "icon": "FarFilePdf",
+        "for": "everything",
+        "order": 2
+      }
+    ],
+    "extraMargin": {
+      "top": 3,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "MOCs/🐍Python MOC.md": "RiMap2Line",
+  "MOCs/👨🏻‍🏫Mathematics MOC.md": "RiMap2Line",
+  "Canvas": "🌳",
+  "notes/what is a neural network.md": "RiStickyNoteFill",
+  "media/books": "📕",
+  "media/pictures": "🖼",
+  "notes/دوره یوتیوب بیزینس": "👨‍🏫",
+  "کانال حکایت": "FabYoutube",
+  "media/100 Color Palettes": "🎨",
+  "کانال حکایت/داستان ها": "📚",
+  "مشخصات کانال/نقشه راه حکایت  فارسی": "RiTreasureMapLine",
+  "مشخصات کانال/تحلیل رقبا": "✍",
+  "مشخصات کانال/تحلیل رقبا/کانال های رقیب.md": "RiListCheck",
+  "کانال حکایت/ویدیوها": "RiVideoFill",
+  "کانال حکایت/ابزار": "FabStudiovinari",
+  "کانال حکایت/ابزار/prompts.md": "🤖",
+  "templates": "FabBuromobelexperte",
+  "MOCs": "🌍",
+  "files": "📂",
+  "Books": "📚",
+  "papers": "BoBxsReport"
+}

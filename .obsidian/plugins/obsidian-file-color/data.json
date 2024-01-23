@@ -1,0 +1,62 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "Zl9a46fck-HMXDNQfpwFZ",
+      "name": "red",
+      "value": "#ff7070"
+    },
+    {
+      "id": "A6_GXmNU5GzTnHX9Dbwsz",
+      "name": "blue",
+      "value": "#92abf7"
+    },
+    {
+      "id": "ilWCHMShqa8IoaIZ-XOqE",
+      "name": "green",
+      "value": "#aef99a"
+    },
+    {
+      "id": "JY7km-r6Fx7tsxWoqc4zg",
+      "name": "white",
+      "value": "#ffffff"
+    },
+    {
+      "id": "0XnRaKbsopOVyPKBIb6aD",
+      "name": "pink",
+      "value": "#f787e8"
+    },
+    {
+      "id": "EuI8WFGYXkXgvxJAnTmUA",
+      "name": "yellow",
+      "value": "#f7f990"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "MOCs/🐍Python MOC.md",
+      "color": "ilWCHMShqa8IoaIZ-XOqE"
+    },
+    {
+      "path": "کانال حکایت/ابزار",
+      "color": "A6_GXmNU5GzTnHX9Dbwsz"
+    },
+    {
+      "path": "کانال حکایت/داستان ها/فهرست منابع داستان ها.md",
+      "color": "Zl9a46fck-HMXDNQfpwFZ"
+    },
+    {
+      "path": "کانال حکایت/ویدیوها",
+      "color": "0XnRaKbsopOVyPKBIb6aD"
+    },
+    {
+      "path": "مشخصات کانال/تحلیل رقبا/کانال های رقیب.md",
+      "color": "Zl9a46fck-HMXDNQfpwFZ"
+    },
+    {
+      "path": "کانال حکایت/ابزار/prompts.md",
+      "color": "EuI8WFGYXkXgvxJAnTmUA"
+    }
+  ]
+}

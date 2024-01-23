@@ -1,0 +1,14 @@
+{
+  "folder": "Books",
+  "fileNameFormat": "({{DATE:YYYY}}) {{title}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": false,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "templates/Book MOC.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "en",
+  "openPageOnCompletion": true
+}
