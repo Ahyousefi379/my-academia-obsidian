@@ -48,14 +48,17 @@
 
 
 
-> [!question] 
 
+> [!question] 
+>- [ ] 
+>- [ ]  
+>- [ ] 
 
 
 > [!idea] 
->  
+> - [ ] 
+>- [ ] 
+>- [ ] 
 
-
-
-
+#concept_note
 

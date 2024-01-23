@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "🔷",
+      "RiListCheck2",
+      "💡",
       "🖼",
-      "BoBxsReport",
-      "📚",
-      "FabAffiliatetheme",
-      "Fab500px"
+      "BoBxsReport"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -71,5 +71,8 @@
   "Books/Books files": "📂",
   "Papers": "BoBxsReport",
   "Papers/Papers files": "📂",
-  "media": "🖼"
+  "media": "🖼",
+  "Ideas.md": "💡",
+  "To-Do.md": "RiListCheck2",
+  "راهنما.md": "🔷"
 }

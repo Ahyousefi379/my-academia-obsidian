@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "339bf56d9ba6d8f8",
+        "id": "972b24c309f04e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "a17a1e70a4116bef",
+            "id": "5aa07907a917d985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "راهنما.md",
+                "file": "Ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "b5bcde04cc43ce4b",
+            "id": "a955c1e44e3f8491",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Article review.md",
+                "file": "Ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "راهنما.md",
+                "file": "Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "راهنما.md"
+                "file": "Ideas.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "راهنما.md",
+                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,21 +177,29 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "a17a1e70a4116bef",
+  "active": "a955c1e44e3f8491",
   "lastOpenFiles": [
-    "media/Pasted image 20240123222725.png",
+    "README.md",
+    "Ideas.md",
+    "To-Do.md",
     "راهنما.md",
+    "Papers/arrtt.md",
+    "Papers/eweqe.md",
+    "templates/Conclusion note.md",
+    "templates/Book chapter.md",
+    "arrtt^Question.md",
     "media/Pasted image 20240123231934.png",
+    "Questions Bank.md",
     "media/Pasted image 20240123230145.png",
+    "media/Pasted image 20240123222725.png",
     "media/Pasted image 20240123222421.png",
-    "media",
-    "Pasted image 20240123222347.png",
-    "templates/Concept.md",
+    "templates/Goal.md",
     "templates/Article review.md",
     "templates/Book MOC.md",
-    "templates/Book chapter.md",
-    "README.md",
+    "templates/Concept.md",
     "Untitled.canvas",
+    "media",
+    "Pasted image 20240123222347.png",
     "Papers/Papers files",
     "Books/Books files",
     "Books/(publishDateYYYY) Markus Helfert Andreas Holzinger Orlando Belo Chiara Francalanci.md",
@@ -204,18 +212,11 @@
     "Books/(2024) Application of Big Data Deep Learning Machine Learning and Other Advanced Analytical Techniques in Environmental Economics and Policy.md",
     "Books/(2024) Deep Learning for Data Analytics.md",
     "templates/cover enhance.md",
-    "Untitled.md",
     "notes",
     "notes.md",
     "Papers",
     "Books",
     "(2024) Fundamentals of Pattern Recognition and Machine Learning.md",
-    "(2024) Computational Methods for Deep Learning.md",
-    "(2024) Tyrone Energy Park Unit 1 Construction Northern States Power Company of MN and Northern States Power Company of WI.md",
-    "(2024) Deep Learning.md",
-    "(2024) Ending Discrimination Against People with Mental and Substance Use Disorders.md",
-    "(2024) P-p and P-t Final State Interactions in the Reaction 3He(d Tp)p.md",
-    "(2024) Euripides Freud and the Romance of Belonging.md",
     "files/AI",
     "files/materials",
     "files",
