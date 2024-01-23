@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Book chapter.md",
+                "file": "templates/Concept.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,14 +79,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "94f8685cec94dc05",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
@@ -108,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "راهنما.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes.md"
+                "file": "راهنما.md"
               }
             }
           },
@@ -140,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "راهنما.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,23 +168,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "b1d12392487200a3",
+  "active": "2fb9da226a3fab43",
   "lastOpenFiles": [
+    "templates/Concept.md",
+    "templates/Book chapter.md",
     "README.md",
     "notes",
     "راهنما.md",
     "notes.md",
-    "templates/Book chapter.md",
-    "templates/Concept.md",
     "templates/Article review.md",
     "papers",
     "Books",
