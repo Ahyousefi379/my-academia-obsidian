@@ -1,9 +1,49 @@
 {
   "callouts": {
     "custom": [
-      "question"
+      "question",
+      "idea"
     ],
-    "settings": {}
+    "settings": {
+      "question": [
+        {
+          "changes": {
+            "color": "213, 63, 135"
+          }
+        }
+      ],
+      "ایده ": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb",
+            "color": "233, 237, 44"
+          }
+        }
+      ],
+      "idea": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "241, 255, 41"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "243, 255, 77"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidianFallbackForced": false,

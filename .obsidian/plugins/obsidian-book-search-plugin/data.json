@@ -1,6 +1,6 @@
 {
   "folder": "Books",
-  "fileNameFormat": "({{DATE:YYYY}}) {{title}}",
+  "fileNameFormat": "({{publishDate}}) {{title}}}}",
   "frontmatter": "",
   "content": "",
   "useDefaultFrontmatter": false,

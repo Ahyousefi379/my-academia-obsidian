@@ -23,10 +23,6 @@
     {
       "basename": "Book MOC",
       "path": "templates/Book MOC.md"
-    },
-    {
-      "basename": "cover enhance",
-      "path": "templates/cover enhance.md"
     }
   ],
   "omittedPaths": [],

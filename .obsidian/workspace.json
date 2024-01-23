@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e829f26a580b9d7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Concept.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be02abae52a3b95b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Book chapter.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a17a1e70a4116bef",
             "type": "leaf",
             "state": {
@@ -45,9 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5bcde04cc43ce4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Article review.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Book chapter.md",
+                "file": "راهنما.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Book chapter.md"
+                "file": "راهنما.md"
               }
             }
           },
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Book chapter.md",
+                "file": "راهنما.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +145,7 @@
             }
           },
           {
-            "id": "6064c87cc856737c",
+            "id": "6ca91c798e0f0bc7",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -170,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,37 +177,45 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "be02abae52a3b95b",
+  "active": "a17a1e70a4116bef",
   "lastOpenFiles": [
+    "media/Pasted image 20240123222725.png",
     "راهنما.md",
-    "templates/Book chapter.md",
+    "media/Pasted image 20240123231934.png",
+    "media/Pasted image 20240123230145.png",
+    "media/Pasted image 20240123222421.png",
+    "media",
+    "Pasted image 20240123222347.png",
     "templates/Concept.md",
-    "Untitled.canvas",
-    "Untitled.md",
+    "templates/Article review.md",
+    "templates/Book MOC.md",
+    "templates/Book chapter.md",
     "README.md",
+    "Untitled.canvas",
+    "Papers/Papers files",
+    "Books/Books files",
+    "Books/(publishDateYYYY) Markus Helfert Andreas Holzinger Orlando Belo Chiara Francalanci.md",
+    "Books/(2020) Stanley Cohen.md",
+    "Books/(2020) Big Data – BigData 2020.md",
+    "Books/Repertorium der literarischen Arbeiten aus dem Gebiete der reinen und angewandten Mathematik - Leo Koenigsberger Gustav Zeuner.md",
+    "Books/(1995) Spencer G Lucas Andrew B Heckert.md",
+    "Books/(2023) International Monetary Fund.md",
+    "Books/(2013-11-27) Andrew Gelman John B Carlin Hal S Stern David B Dunson Aki Vehtari Donald B Rubin.md",
+    "Books/(2024) Application of Big Data Deep Learning Machine Learning and Other Advanced Analytical Techniques in Environmental Economics and Policy.md",
+    "Books/(2024) Deep Learning for Data Analytics.md",
+    "templates/cover enhance.md",
+    "Untitled.md",
     "notes",
     "notes.md",
-    "templates/Article review.md",
-    "papers",
+    "Papers",
     "Books",
-    "templates/Book MOC.md",
     "(2024) Fundamentals of Pattern Recognition and Machine Learning.md",
     "(2024) Computational Methods for Deep Learning.md",
     "(2024) Tyrone Energy Park Unit 1 Construction Northern States Power Company of MN and Northern States Power Company of WI.md",
     "(2024) Deep Learning.md",
-    "templates/cover enhance.md",
     "(2024) Ending Discrimination Against People with Mental and Substance Use Disorders.md",
     "(2024) P-p and P-t Final State Interactions in the Reaction 3He(d Tp)p.md",
     "(2024) Euripides Freud and the Romance of Belonging.md",
-    "(2024) Bioinspired Materials Science and Engineering.md",
-    "(2024) Harry Potter and the Goblet of Fire.md",
-    "(2024) Python Machine Learning by Railey Brandon.md",
-    "(2024) Machine Learning Safety by Xiaowei Huang Gaojie Jin Wenjie Ruan.md",
-    "(2024) Statistics for Machine Learning by Pratap Dangeti.md",
-    "(2024) Understanding Machine Learning by Dr Pinaki Ghosh Dr SKiran Dr J Mahalakshmi Dr SK Althaf Hussain Basha.md",
-    "(2024) Petter Adolf Karsten (1834-1917) Collected Mycological Papers by Petter Adolf Karsten.md",
-    "(2024) Introduction to Pattern Recognition by Menahem Friedman Abraham Kandel.md",
-    "(2024) Harry Potter and the Philosopher's Stone by JK Rowling (Book Analysis) by Bright Summaries.md",
     "files/AI",
     "files/materials",
     "files",

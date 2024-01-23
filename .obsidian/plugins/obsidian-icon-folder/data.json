@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "🖼",
       "BoBxsReport",
       "📚",
       "FabAffiliatetheme",
-      "Fab500px",
-      "📂"
+      "Fab500px"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -67,7 +67,9 @@
   "کانال حکایت/ابزار/prompts.md": "🤖",
   "templates": "FabBuromobelexperte",
   "MOCs": "🌍",
-  "files": "📂",
   "Books": "📚",
-  "papers": "BoBxsReport"
+  "Books/Books files": "📂",
+  "Papers": "BoBxsReport",
+  "Papers/Papers files": "📂",
+  "media": "🖼"
 }
