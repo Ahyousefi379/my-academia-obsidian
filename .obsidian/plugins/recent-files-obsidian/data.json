@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Ideas",
-      "path": "Ideas.md"
-    },
-    {
-      "basename": "Concept",
-      "path": "templates/Concept.md"
-    },
-    {
-      "basename": "راهنما",
-      "path": "راهنما.md"
-    },
-    {
       "basename": "Book chapter",
       "path": "templates/Book chapter.md"
     },
@@ -23,6 +11,18 @@
     {
       "basename": "Book MOC",
       "path": "templates/Book MOC.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "Ideas.md"
+    },
+    {
+      "basename": "Concept",
+      "path": "templates/Concept.md"
+    },
+    {
+      "basename": "راهنما",
+      "path": "راهنما.md"
     }
   ],
   "omittedPaths": [],

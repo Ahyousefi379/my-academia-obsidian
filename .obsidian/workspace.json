@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,17 +79,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "7189288b66e70ef8",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas.md"
+                "file": "README.md"
               }
             }
           },
@@ -142,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +165,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
@@ -186,16 +176,18 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7189288b66e70ef8",
+  "active": "a955c1e44e3f8491",
   "lastOpenFiles": [
+    "راهنما.md",
     "To-Do.md",
+    "templates/Book chapter.md",
+    "templates/Article review.md",
+    "templates/Book MOC.md",
     "Ideas.md",
     "README.md",
-    "راهنما.md",
     "Papers/arrtt.md",
     "Papers/eweqe.md",
     "templates/Conclusion note.md",
-    "templates/Book chapter.md",
     "arrtt^Question.md",
     "media/Pasted image 20240123231934.png",
     "Questions Bank.md",
@@ -203,8 +195,6 @@
     "media/Pasted image 20240123222725.png",
     "media/Pasted image 20240123222421.png",
     "templates/Goal.md",
-    "templates/Article review.md",
-    "templates/Book MOC.md",
     "templates/Concept.md",
     "Untitled.canvas",
     "media",
