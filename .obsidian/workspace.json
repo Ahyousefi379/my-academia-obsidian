@@ -79,8 +79,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "7189288b66e70ef8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,7 +186,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "a955c1e44e3f8491",
+  "active": "7189288b66e70ef8",
   "lastOpenFiles": [
     "To-Do.md",
     "Ideas.md",
