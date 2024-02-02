@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "FiTarget",
+      "FiClock",
       "🔷",
       "RiListCheck2",
-      "💡",
-      "🖼",
-      "BoBxsReport"
+      "💡"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -74,5 +74,7 @@
   "media": "🖼",
   "Ideas.md": "💡",
   "To-Do.md": "RiListCheck2",
-  "راهنما.md": "🔷"
+  "راهنما.md": "🔷",
+  "Books/reading List.md": "FiClock",
+  "Goals": "FiTarget"
 }

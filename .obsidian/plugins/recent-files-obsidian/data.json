@@ -1,28 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Book chapter",
-      "path": "templates/Book chapter.md"
+      "basename": "Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis",
+      "path": "Goals/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md"
+    },
+    {
+      "basename": "بررسی موضوع مناسب برای تحقیق ارشد",
+      "path": "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md"
+    },
+    {
+      "basename": "Quantitative Detection of Gastrointestinal Tumor Markers Using a Machine Learning Algorithm and Multicolor Quantum Dot Biosensor",
+      "path": "Goals/Quantitative Detection of Gastrointestinal Tumor Markers Using a Machine Learning Algorithm and Multicolor Quantum Dot Biosensor.md"
+    },
+    {
+      "basename": "Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields",
+      "path": "Goals/Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields.md"
+    },
+    {
+      "basename": "Machine learning guided microwave-assisted quantum dot synthesis and an indication of residual H2O2 in human teeth.",
+      "path": "Goals/Machine learning guided microwave-assisted quantum dot synthesis and an indication of residual H2O2 in human teeth..md"
+    },
+    {
+      "basename": "Highly accurate heart failure classification using carbon nanotube thin film biosensors and machine learning assisted data analysis",
+      "path": "Goals/Highly accurate heart failure classification using carbon nanotube thin film biosensors and machine learning assisted data analysis.md"
+    },
+    {
+      "basename": "Artificial Intelligence and Machine Learning Empower Advanced Biomedical Material Design to Toxicity Prediction",
+      "path": "Goals/Artificial Intelligence and Machine Learning Empower Advanced Biomedical Material Design to Toxicity Prediction.md"
+    },
+    {
+      "basename": "راهنما",
+      "path": "راهنما.md"
+    },
+    {
+      "basename": "3D volume segmentation and reconstruction. Supervised image classification and automated quantification of superparamagnetic iron oxide nanoparticles in histology slides for safety assessment",
+      "path": "Papers/3D volume segmentation and reconstruction. Supervised image classification and automated quantification of superparamagnetic iron oxide nanoparticles in histology slides for safety assessment.md"
+    },
+    {
+      "basename": "Gaussian process classification of superparamagnetic relaxometry data Phantom study",
+      "path": "Papers/Gaussian process classification of superparamagnetic relaxometry data Phantom study.md"
+    },
+    {
+      "basename": "Deep learning for improving the spatial resolution of magnetic particle imaging",
+      "path": "Papers/Deep learning for improving the spatial resolution of magnetic particle imaging.md"
+    },
+    {
+      "basename": "Machine learning assisted phase and size-controlled synthesis of iron oxides",
+      "path": "Papers/Machine learning assisted phase and size-controlled synthesis of iron oxides.md"
+    },
+    {
+      "basename": "Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review",
+      "path": "Papers/Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review.md"
+    },
+    {
+      "basename": "Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review",
+      "path": "Papers/Papers files/Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review.pdf"
+    },
+    {
+      "basename": "The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research",
+      "path": "Papers/Papers files/The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research.pdf"
+    },
+    {
+      "basename": "The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research",
+      "path": "Papers/The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research.md"
+    },
+    {
+      "basename": "Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermia",
+      "path": "Papers/Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermia.md"
+    },
+    {
+      "basename": "Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks",
+      "path": "Papers/Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks.md"
+    },
+    {
+      "basename": "Investigating the Parameters Affecting the Stability of -- Gholamreza Ahmadi Lakalayeh, Reza Faridi-Majidi, Reza Saber,",
+      "path": "Papers/Papers files/Investigating the Parameters Affecting the Stability of -- Gholamreza Ahmadi Lakalayeh, Reza Faridi-Majidi, Reza Saber,.pdf"
     },
     {
       "basename": "Article review",
       "path": "templates/Article review.md"
     },
     {
-      "basename": "Book MOC",
-      "path": "templates/Book MOC.md"
+      "basename": "Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermi",
+      "path": "Papers/Papers files/Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermi.pdf"
+    },
+    {
+      "basename": "reading List",
+      "path": "Books/reading List.md"
+    },
+    {
+      "basename": "To-Do",
+      "path": "To-Do.md"
+    },
+    {
+      "basename": "(2023) Debugging Machine Learning Models with Python",
+      "path": "Books/(2023) Debugging Machine Learning Models with Python.md"
     },
     {
       "basename": "Ideas",
       "path": "Ideas.md"
     },
     {
-      "basename": "Concept",
-      "path": "templates/Concept.md"
+      "basename": "Debugging_Machine_Learning_Models_with_Python_Develop_high_performance",
+      "path": "Books/Books files/Debugging_Machine_Learning_Models_with_Python_Develop_high_performance.pdf"
     },
     {
-      "basename": "راهنما",
-      "path": "راهنما.md"
+      "basename": "Book MOC",
+      "path": "templates/Book MOC.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Book chapter",
+      "path": "templates/Book chapter.md"
+    },
+    {
+      "basename": "Concept",
+      "path": "templates/Concept.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,6 @@
 ![{{title}}](<%=book.coverUrl ? `https://books.google.com/books/publisher/content/images/frontcover/${[...book.coverUrl.split("&")[0].matchAll(/id.?(.*)/g)][0][1]}?fife=w600-h900&source=gbs_api` : ''%>> )
 
-
+[[|file]] 
 
 ---
 > [!info] 
