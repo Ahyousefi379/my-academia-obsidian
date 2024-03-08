@@ -1,56 +1,140 @@
 {
   "recentFiles": [
     {
-      "basename": "Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis",
-      "path": "Goals/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md"
+      "basename": "بررسی MOF و CQD برای پروژه ارشد",
+      "path": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
+    },
+    {
+      "basename": "Big-Data Science in Porous Materials Materials Genomics and Machine Learning",
+      "path": "Goals/Big-Data Science in Porous Materials Materials Genomics and Machine Learning.md"
+    },
+    {
+      "basename": "Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis",
+      "path": "Goals/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md"
+    },
+    {
+      "basename": "Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis",
+      "path": "Papers/Papers files/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.pdf"
+    },
+    {
+      "basename": "Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach",
+      "path": "Goals/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
+    },
+    {
+      "basename": "Goal",
+      "path": "templates/Goal.md"
+    },
+    {
+      "basename": "Book chapter",
+      "path": "templates/Book chapter.md"
+    },
+    {
+      "basename": "Conclusion note",
+      "path": "templates/Conclusion note.md"
+    },
+    {
+      "basename": "Concept",
+      "path": "templates/Concept.md"
+    },
+    {
+      "basename": "Article review",
+      "path": "templates/Article review.md"
+    },
+    {
+      "basename": "Pasted image 20240123231934",
+      "path": "media/Pasted image 20240123231934.png"
     },
     {
       "basename": "بررسی موضوع مناسب برای تحقیق ارشد",
       "path": "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md"
     },
     {
-      "basename": "Quantitative Detection of Gastrointestinal Tumor Markers Using a Machine Learning Algorithm and Multicolor Quantum Dot Biosensor",
-      "path": "Goals/Quantitative Detection of Gastrointestinal Tumor Markers Using a Machine Learning Algorithm and Multicolor Quantum Dot Biosensor.md"
+      "basename": "reading List",
+      "path": "Books/reading List.md"
     },
     {
-      "basename": "Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields",
-      "path": "Goals/Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields.md"
+      "basename": "(2016) Algorithms to Live By",
+      "path": "Books/(2016) Algorithms to Live By.md"
     },
     {
-      "basename": "Machine learning guided microwave-assisted quantum dot synthesis and an indication of residual H2O2 in human teeth.",
-      "path": "Goals/Machine learning guided microwave-assisted quantum dot synthesis and an indication of residual H2O2 in human teeth..md"
+      "basename": "Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis",
+      "path": "Papers/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md"
     },
     {
-      "basename": "Highly accurate heart failure classification using carbon nanotube thin film biosensors and machine learning assisted data analysis",
-      "path": "Goals/Highly accurate heart failure classification using carbon nanotube thin film biosensors and machine learning assisted data analysis.md"
+      "basename": "Machine-Learning-Assisted and Real-Time-Feedback-Controlled Growth of InAs-GaAs Quantum Dots",
+      "path": "Papers/Machine-Learning-Assisted and Real-Time-Feedback-Controlled Growth of InAs-GaAs Quantum Dots.md"
+    },
+    {
+      "basename": "The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research",
+      "path": "Papers/The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research.md"
+    },
+    {
+      "basename": "Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review",
+      "path": "Papers/Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review.md"
     },
     {
       "basename": "Artificial Intelligence and Machine Learning Empower Advanced Biomedical Material Design to Toxicity Prediction",
-      "path": "Goals/Artificial Intelligence and Machine Learning Empower Advanced Biomedical Material Design to Toxicity Prediction.md"
+      "path": "Papers/Artificial Intelligence and Machine Learning Empower Advanced Biomedical Material Design to Toxicity Prediction.md"
     },
     {
-      "basename": "راهنما",
-      "path": "راهنما.md"
+      "basename": "Machine learning assisted dual-channel carbon quantum dots-based fluorescence sensor array for detection of tetracyclines.",
+      "path": "Papers/Machine learning assisted dual-channel carbon quantum dots-based fluorescence sensor array for detection of tetracyclines..md"
+    },
+    {
+      "basename": "Deep-Learning-Assisted Discriminative Detection of Vitamin B12 and Vitamin B9 by Fluorescent MoSe2 Quantum Dots.",
+      "path": "Papers/Deep-Learning-Assisted Discriminative Detection of Vitamin B12 and Vitamin B9 by Fluorescent MoSe2 Quantum Dots..md"
+    },
+    {
+      "basename": "Quantitative Detection of Gastrointestinal Tumor Markers Using a Machine Learning Algorithm and Multicolor Quantum Dot Biosensor",
+      "path": "Papers/Quantitative Detection of Gastrointestinal Tumor Markers Using a Machine Learning Algorithm and Multicolor Quantum Dot Biosensor.md"
+    },
+    {
+      "basename": "Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields",
+      "path": "Papers/Papers files/Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields.pdf"
+    },
+    {
+      "basename": "Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields",
+      "path": "Papers/Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields.md"
+    },
+    {
+      "basename": "Machine learning guided microwave-assisted quantum dot synthesis and an indication of residual H2O2 in human teeth.",
+      "path": "Papers/Machine learning guided microwave-assisted quantum dot synthesis and an indication of residual H2O2 in human teeth..md"
     },
     {
       "basename": "3D volume segmentation and reconstruction. Supervised image classification and automated quantification of superparamagnetic iron oxide nanoparticles in histology slides for safety assessment",
       "path": "Papers/3D volume segmentation and reconstruction. Supervised image classification and automated quantification of superparamagnetic iron oxide nanoparticles in histology slides for safety assessment.md"
     },
     {
-      "basename": "Gaussian process classification of superparamagnetic relaxometry data Phantom study",
-      "path": "Papers/Gaussian process classification of superparamagnetic relaxometry data Phantom study.md"
+      "basename": "Machine learning assisted phase and size-controlled synthesis of iron oxides",
+      "path": "Papers/Machine learning assisted phase and size-controlled synthesis of iron oxides.md"
     },
     {
       "basename": "Deep learning for improving the spatial resolution of magnetic particle imaging",
       "path": "Papers/Deep learning for improving the spatial resolution of magnetic particle imaging.md"
     },
     {
-      "basename": "Machine learning assisted phase and size-controlled synthesis of iron oxides",
-      "path": "Papers/Machine learning assisted phase and size-controlled synthesis of iron oxides.md"
+      "basename": "Deep learning for improving the spatial resolution of magnetic particle imaging",
+      "path": "Papers/Papers files/Deep learning for improving the spatial resolution of magnetic particle imaging.pdf"
     },
     {
-      "basename": "Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review",
-      "path": "Papers/Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review.md"
+      "basename": "Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks",
+      "path": "Papers/Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks.md"
+    },
+    {
+      "basename": "Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermia",
+      "path": "Papers/Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermia.md"
+    },
+    {
+      "basename": "Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermi",
+      "path": "Papers/Papers files/Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermi.pdf"
+    },
+    {
+      "basename": "Highly accurate heart failure classification using carbon nanotube thin film biosensors and machine learning assisted data analysis",
+      "path": "Papers/Highly accurate heart failure classification using carbon nanotube thin film biosensors and machine learning assisted data analysis.md"
+    },
+    {
+      "basename": "راهنما",
+      "path": "راهنما.md"
     },
     {
       "basename": "Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review",
@@ -61,32 +145,8 @@
       "path": "Papers/Papers files/The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research.pdf"
     },
     {
-      "basename": "The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research",
-      "path": "Papers/The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research.md"
-    },
-    {
-      "basename": "Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermia",
-      "path": "Papers/Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermia.md"
-    },
-    {
-      "basename": "Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks",
-      "path": "Papers/Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks.md"
-    },
-    {
       "basename": "Investigating the Parameters Affecting the Stability of -- Gholamreza Ahmadi Lakalayeh, Reza Faridi-Majidi, Reza Saber,",
       "path": "Papers/Papers files/Investigating the Parameters Affecting the Stability of -- Gholamreza Ahmadi Lakalayeh, Reza Faridi-Majidi, Reza Saber,.pdf"
-    },
-    {
-      "basename": "Article review",
-      "path": "templates/Article review.md"
-    },
-    {
-      "basename": "Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermi",
-      "path": "Papers/Papers files/Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermi.pdf"
-    },
-    {
-      "basename": "reading List",
-      "path": "Books/reading List.md"
     },
     {
       "basename": "To-Do",
@@ -111,14 +171,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Book chapter",
-      "path": "templates/Book chapter.md"
-    },
-    {
-      "basename": "Concept",
-      "path": "templates/Concept.md"
     }
   ],
   "omittedPaths": [],

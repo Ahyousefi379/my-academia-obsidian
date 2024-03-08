@@ -10,10 +10,10 @@ article type: "#research_article"
 
 ```
 
-[[Quantitative Detection of Gastrointestinal Tumor Markers Using a Machine Learning Algorithm and Multicolor Quantum Dot Biosensor.pdf|PDF]]
+[[Machine learning assisted dual-channel carbon quantum dots-based fluorescence sensor array for detection of tetracyclines.pdf|PDF]]
 
 **<span style="color:#00b0f0">سوال یا هدف:</span>**
-
+[[بررسی موضوع مناسب برای تحقیق ارشد]]
 
 
 ## <span style="color:#64ff61">خلاصه موارد پژوهش</span>
