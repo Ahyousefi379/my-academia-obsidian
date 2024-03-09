@@ -1,10 +1,7 @@
  عنوان اصلی:
  پروژه در حیطه ی انجام ماشین لرنینگ روی نانوذرات درمانی خواهد بود
- نانوذرات MOF و ذرات کوانتومی کربنی برای sensing و drug delivery بررسی بشن و پروژ های ماشین لرنینگی شون بررسی بشه
+ پروژه های ماشین لرنینیگی با نانوذرات MOF و ذرات کوانتومی کربنی برای sensing و drug delivery بررسی بشن
 
-
- سوالات یا اهداف کوچک تر:
-بررسی پروژه های هر سه ماده
 
 
 
@@ -15,27 +12,36 @@
 
 ### MOFs
 
-- [ ] [[Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach]]
+- [?] [[Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach]]
+
 - [ ] [[Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis]]
+
 - [ ] [[Big-Data Science in Porous Materials Materials Genomics and Machine Learning]]
+
 - [ ] [[Applications of machine learning in metal-organic frameworks]]
+
 - [ ] [[Recent advances in computational modeling of MOFs From molecular simulations to machine learning]]
-- [ ] 
+
+- [ ] [[Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning]]
+
 
 
 
 ### CQDs
+
 - [?] [[Carbon Dots: A Future Blood-Brain Barrier Penetrating Nanomedicine and Drug Nanocarrier]]
+
 - [ ] [[Utilizing machine learning to expedite the fabrication and biological application of carbon dots]]
+
 - [ ] [[Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning]]
 
-
+![[بررسی موضوع مناسب برای تحقیق ارشد#quantum dots]]
 
 ---
 
 پاسخ:
 
-## LLM talk
+## LLM conversation
 In materials science, generative AI can be used in various ways to aid in the design, discovery, and optimization of new materials. Here are some potential project ideas that leverage generative AI techniques:
 
 1. Materials design using generative models:

@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "2fd457a94f82fa27",
+            "id": "c0c1902ca02fbe8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md",
+                "file": "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,38 @@
             }
           },
           {
-            "id": "23dfa125de2f88c2",
+            "id": "f44fed471f0d0aa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning.md",
+                "file": "Papers/Applications of machine learning in metal-organic frameworks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05d5272b7640fa79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Big-Data Science in Porous Materials Materials Genomics and Machine Learning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ce1f889a625e894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -134,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md",
+                "file": "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md"
+                "file": "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md"
               }
             }
           },
@@ -167,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md",
+                "file": "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,28 +236,32 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "2fd457a94f82fa27",
+  "active": "c0c1902ca02fbe8c",
   "lastOpenFiles": [
-    "Goals/Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning.md",
-    "Goals/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md",
     "Goals/بررسی MOF و CQD برای پروژه ارشد.md",
-    "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md",
+    "Papers/Applications of machine learning in metal-organic frameworks.md",
     "Papers/Big-Data Science in Porous Materials Materials Genomics and Machine Learning.md",
+    "Papers/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md",
+    "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
+    "Goals/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
+    "Papers/Papers files/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.pdf",
+    "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md",
+    "Papers/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md",
+    "Papers/Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning.md",
+    "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md",
+    "Papers/Papers files/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.pdf",
+    "Papers/Papers files/d3ma00443k.pdf",
+    "Papers/Papers files/Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning.pdf",
     "Ideas.md",
     "Papers/reading list.md",
-    "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md",
     "Papers/Papers files/Recent advances in computational modeling of MOFs.pdf",
-    "Papers/Applications of machine learning in metal-organic frameworks.md",
     "Papers/Papers files/Applications of machine learning in metal-organic frameworks.pdf",
     "Papers/Papers files/10.1016@j.ccr.2020.213487.pdf",
     "media/Pasted image 20240308233031.png",
-    "Papers/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md",
     "Papers/Papers files/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.pdf",
     "Papers/Papers files/niki-pouyanfar-drug-delivery-system-tailoring-via (1).pdf",
-    "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
     "Goals/Metal–Organic Frameworks (MOFs) for Cancer Therapy.md",
     "Papers/Papers files/Metal–Organic Frameworks (MOFs) for Cancer Therapy.pdf",
-    "Papers/Papers files/materials-14-07277-v2.pdf",
     "templates/Goal.md",
     "templates/Book chapter.md",
     "templates/Conclusion note.md",
@@ -245,11 +275,6 @@
     "Papers/Machine-Learning-Assisted and Real-Time-Feedback-Controlled Growth of InAs-GaAs Quantum Dots.md",
     "Papers/The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research.md",
     "Papers/Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review.md",
-    "Papers/Artificial Intelligence and Machine Learning Empower Advanced Biomedical Material Design to Toxicity Prediction.md",
-    "Papers/Machine learning assisted dual-channel carbon quantum dots-based fluorescence sensor array for detection of tetracyclines..md",
-    "Papers/Papers files/Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields.pdf",
-    "Papers/Papers files/Deep learning for improving the spatial resolution of magnetic particle imaging.pdf",
-    "Papers/Papers files/Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermi.pdf",
     "media/Pasted image 20240123230145.png",
     "media/Pasted image 20240123222725.png",
     "media/Pasted image 20240123222421.png",
