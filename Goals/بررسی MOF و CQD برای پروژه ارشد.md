@@ -16,23 +16,18 @@
 ### MOFs
 
 - [ ] [[Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach]]
-- [?] [[Machine Learning Meets with Metal Organic Frameworks for Gas Storage and Separation]]
 - [ ] [[Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis]]
 - [ ] [[Big-Data Science in Porous Materials Materials Genomics and Machine Learning]]
 - [ ] [[Applications of machine learning in metal-organic frameworks]]
+- [ ] [[Recent advances in computational modeling of MOFs From molecular simulations to machine learning]]
 - [ ] 
-- [ ] 
-- [ ] 
 
 
 
-### CQD for drug delivery 
-
-
-
-### CQD for sensing
-
-
+### CQDs
+- [?] [[Carbon Dots: A Future Blood-Brain Barrier Penetrating Nanomedicine and Drug Nanocarrier]]
+- [ ] [[Utilizing machine learning to expedite the fabrication and biological application of carbon dots]]
+- [ ] [[Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning]]
 
 
 

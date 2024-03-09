@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Utilizing machine learning to expedite the fabrication and biological application of carbon dots",
+      "path": "Goals/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md"
+    },
+    {
+      "basename": "Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning",
+      "path": "Goals/Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning.md"
+    },
+    {
       "basename": "بررسی MOF و CQD برای پروژه ارشد",
       "path": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
     },
     {
+      "basename": "بررسی موضوع مناسب برای تحقیق ارشد",
+      "path": "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md"
+    },
+    {
       "basename": "Big-Data Science in Porous Materials Materials Genomics and Machine Learning",
-      "path": "Goals/Big-Data Science in Porous Materials Materials Genomics and Machine Learning.md"
+      "path": "Papers/Big-Data Science in Porous Materials Materials Genomics and Machine Learning.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "Ideas.md"
+    },
+    {
+      "basename": "reading list",
+      "path": "Papers/reading list.md"
+    },
+    {
+      "basename": "Recent advances in computational modeling of MOFs From molecular simulations to machine learning",
+      "path": "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md"
+    },
+    {
+      "basename": "Applications of machine learning in metal-organic frameworks",
+      "path": "Papers/Applications of machine learning in metal-organic frameworks.md"
     },
     {
       "basename": "Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis",
-      "path": "Goals/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md"
+      "path": "Papers/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md"
     },
     {
       "basename": "Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis",
@@ -18,7 +46,7 @@
     },
     {
       "basename": "Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach",
-      "path": "Goals/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
+      "path": "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
     },
     {
       "basename": "Goal",
@@ -43,10 +71,6 @@
     {
       "basename": "Pasted image 20240123231934",
       "path": "media/Pasted image 20240123231934.png"
-    },
-    {
-      "basename": "بررسی موضوع مناسب برای تحقیق ارشد",
-      "path": "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md"
     },
     {
       "basename": "reading List",
@@ -155,10 +179,6 @@
     {
       "basename": "(2023) Debugging Machine Learning Models with Python",
       "path": "Books/(2023) Debugging Machine Learning Models with Python.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "Ideas.md"
     },
     {
       "basename": "Debugging_Machine_Learning_Models_with_Python_Develop_high_performance",

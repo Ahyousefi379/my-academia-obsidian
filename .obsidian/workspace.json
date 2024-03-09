@@ -21,19 +21,46 @@
             }
           },
           {
-            "id": "57a59dd5f8a25767",
+            "id": "2fd457a94f82fa27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Big-Data Science in Porous Materials Materials Genomics and Machine Learning.md",
+                "file": "Goals/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23dfa125de2f88c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2652317b7752ed0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -108,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/بررسی MOF و CQD برای پروژه ارشد.md",
+                "file": "Goals/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
+                "file": "Goals/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md"
               }
             }
           },
@@ -141,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/بررسی MOF و CQD برای پروژه ارشد.md",
+                "file": "Goals/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,15 +210,25 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "bd8fb4495e56eba1",
+  "active": "2fd457a94f82fa27",
   "lastOpenFiles": [
-    "Goals/Big-Data Science in Porous Materials Materials Genomics and Machine Learning.md",
+    "Goals/Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning.md",
+    "Goals/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md",
     "Goals/بررسی MOF و CQD برای پروژه ارشد.md",
+    "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md",
+    "Papers/Big-Data Science in Porous Materials Materials Genomics and Machine Learning.md",
+    "Ideas.md",
+    "Papers/reading list.md",
+    "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md",
+    "Papers/Papers files/Recent advances in computational modeling of MOFs.pdf",
+    "Papers/Applications of machine learning in metal-organic frameworks.md",
+    "Papers/Papers files/Applications of machine learning in metal-organic frameworks.pdf",
+    "Papers/Papers files/10.1016@j.ccr.2020.213487.pdf",
     "media/Pasted image 20240308233031.png",
-    "Goals/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md",
+    "Papers/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md",
     "Papers/Papers files/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.pdf",
     "Papers/Papers files/niki-pouyanfar-drug-delivery-system-tailoring-via (1).pdf",
-    "Goals/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
+    "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
     "Goals/Metal–Organic Frameworks (MOFs) for Cancer Therapy.md",
     "Papers/Papers files/Metal–Organic Frameworks (MOFs) for Cancer Therapy.pdf",
     "Papers/Papers files/materials-14-07277-v2.pdf",
@@ -203,7 +239,6 @@
     "templates/Article review.md",
     "media/Pasted image 20240123231934.png",
     "Books/Books files/Untitled.md",
-    "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md",
     "Books/reading List.md",
     "Books/(2016) Algorithms to Live By.md",
     "Papers/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md",
@@ -212,17 +247,9 @@
     "Papers/Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review.md",
     "Papers/Artificial Intelligence and Machine Learning Empower Advanced Biomedical Material Design to Toxicity Prediction.md",
     "Papers/Machine learning assisted dual-channel carbon quantum dots-based fluorescence sensor array for detection of tetracyclines..md",
-    "Papers/Deep-Learning-Assisted Discriminative Detection of Vitamin B12 and Vitamin B9 by Fluorescent MoSe2 Quantum Dots..md",
-    "Papers/Quantitative Detection of Gastrointestinal Tumor Markers Using a Machine Learning Algorithm and Multicolor Quantum Dot Biosensor.md",
     "Papers/Papers files/Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields.pdf",
-    "Papers/Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields.md",
-    "Papers/Machine learning guided microwave-assisted quantum dot synthesis and an indication of residual H2O2 in human teeth..md",
-    "Papers/Gaussian process classification of superparamagnetic relaxometry data Phantom study.md",
     "Papers/Papers files/Deep learning for improving the spatial resolution of magnetic particle imaging.pdf",
     "Papers/Papers files/Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermi.pdf",
-    "Machine-Learning-Assisted and Real-Time-Feedback-Controlled Growth of InAs",
-    "Papers/Papers files/Machine learning assisted dual-channel carbon quantum dots-based fluorescence sensor array for detection of tetracyclines.pdf",
-    "Papers/Papers files/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.pdf",
     "media/Pasted image 20240123230145.png",
     "media/Pasted image 20240123222725.png",
     "media/Pasted image 20240123222421.png",
