@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "🤖",
+      "📕",
+      "🖊",
       "FiTarget",
-      "FiClock",
-      "🔷",
-      "RiListCheck2",
-      "💡"
+      "FiClock"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -77,5 +77,10 @@
   "راهنما.md": "🔷",
   "Books/reading List.md": "FiClock",
   "Goals": "FiTarget",
-  "Papers/reading list.md": "FiClock"
+  "Papers/reading list.md": "FiClock",
+  "Concept notes": "🖊",
+  "Books/(2016) Algorithms to Live By.md": "📕",
+  "Books/(2023) Debugging Machine Learning Models with Python.md": "📕",
+  "Books/(2012-11-09) Pattern Classification.md": "📕",
+  "Useful prompts": "🤖"
 }

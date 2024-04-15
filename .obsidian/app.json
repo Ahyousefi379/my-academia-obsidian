@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "media",
-  "rightToLeft": false
+  "rightToLeft": false,
+  "newFileFolderPath": "Concept notes"
 }

@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1710152195815,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1710152200842,
+          "items": [],
+          "title": "Goals"
+        },
+        {
+          "type": "group",
+          "ctime": 1710152200842,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1710152587819,
+              "items": [],
+              "title": "Books files"
+            },
+            {
+              "type": "file",
+              "ctime": 1710152587819,
+              "path": "Books/reading List.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Books"
+        },
+        {
+          "type": "group",
+          "ctime": 1710152200842,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1710152632134,
+              "items": [],
+              "title": "Papers files"
+            },
+            {
+              "type": "file",
+              "ctime": 1710152623734,
+              "path": "Papers/reading list.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Papers"
+        },
+        {
+          "type": "group",
+          "ctime": 1710152200842,
+          "items": [],
+          "title": "Concept notes"
+        },
+        {
+          "type": "group",
+          "ctime": 1710152200842,
+          "items": [],
+          "title": "templates"
+        },
+        {
+          "type": "group",
+          "ctime": 1710152200842,
+          "items": [],
+          "title": "media"
+        },
+        {
+          "type": "group",
+          "ctime": 1713149479389,
+          "items": [],
+          "title": "Useful prompts"
+        },
+        {
+          "type": "file",
+          "ctime": 1710152200842,
+          "path": "To-Do.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1710152200842,
+          "path": "Ideas.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1710152195815,
+          "path": "راهنما.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1710152200842,
+          "path": "README.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

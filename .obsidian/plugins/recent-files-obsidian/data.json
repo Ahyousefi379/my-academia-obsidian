@@ -1,16 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Recent advances in computational modeling of MOFs From molecular simulations to machine learning",
-      "path": "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md"
+      "basename": "note taking",
+      "path": "Useful prompts/note taking.md"
+    },
+    {
+      "basename": "prompt for prompts",
+      "path": "Useful prompts/prompt for prompts.md"
+    },
+    {
+      "basename": "To-Do",
+      "path": "To-Do.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "قانون بیز Bayes' rule",
+      "path": "Concept notes/قانون بیز Bayes' rule.md"
+    },
+    {
+      "basename": "Debugging_Machine_Learning_Models_with_Python_Develop_high_performance",
+      "path": "Books/Books files/Debugging_Machine_Learning_Models_with_Python_Develop_high_performance.pdf"
+    },
+    {
+      "basename": "(2023) Debugging Machine Learning Models with Python",
+      "path": "Books/(2023) Debugging Machine Learning Models with Python.md"
+    },
+    {
+      "basename": "(2016) Algorithms to Live By",
+      "path": "Books/(2016) Algorithms to Live By.md"
+    },
+    {
+      "basename": "Richard O. Duda, Peter E. Hart, David G. Stork - Pattern classification-Wiley (2001)",
+      "path": "Books/Books files/Richard O. Duda, Peter E. Hart, David G. Stork - Pattern classification-Wiley (2001).pdf"
+    },
+    {
+      "basename": "(2012-11-09) Pattern Classification",
+      "path": "Books/(2012-11-09) Pattern Classification.md"
+    },
+    {
+      "basename": "UT Machine learning introduction",
+      "path": "Concept notes/UT Machine learning introduction.md"
+    },
+    {
+      "basename": "راهنما",
+      "path": "راهنما.md"
+    },
+    {
+      "basename": "یادگیری ماشین دانشگاه تهران",
+      "path": "Concept notes/other notes/یادگیری ماشین دانشگاه تهران.md"
+    },
+    {
+      "basename": "Conclusion note",
+      "path": "templates/Conclusion note.md"
+    },
+    {
+      "basename": "Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach",
+      "path": "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
+    },
+    {
+      "basename": "reading list",
+      "path": "Papers/reading list.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "Ideas.md"
     },
     {
       "basename": "بررسی MOF و CQD برای پروژه ارشد",
       "path": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
     },
     {
+      "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
+      "path": "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md"
+    },
+    {
       "basename": "Applications of machine learning in metal-organic frameworks",
       "path": "Papers/Applications of machine learning in metal-organic frameworks.md"
+    },
+    {
+      "basename": "Recent advances in computational modeling of MOFs From molecular simulations to machine learning",
+      "path": "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md"
     },
     {
       "basename": "Big-Data Science in Porous Materials Materials Genomics and Machine Learning",
@@ -19,14 +91,6 @@
     {
       "basename": "Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis",
       "path": "Papers/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md"
-    },
-    {
-      "basename": "Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach",
-      "path": "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
-    },
-    {
-      "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
-      "path": "Goals/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md"
     },
     {
       "basename": "بررسی موضوع مناسب برای تحقیق ارشد",
@@ -41,14 +105,6 @@
       "path": "Papers/Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning.md"
     },
     {
-      "basename": "Ideas",
-      "path": "Ideas.md"
-    },
-    {
-      "basename": "reading list",
-      "path": "Papers/reading list.md"
-    },
-    {
       "basename": "Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis",
       "path": "Papers/Papers files/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.pdf"
     },
@@ -59,10 +115,6 @@
     {
       "basename": "Book chapter",
       "path": "templates/Book chapter.md"
-    },
-    {
-      "basename": "Conclusion note",
-      "path": "templates/Conclusion note.md"
     },
     {
       "basename": "Concept",
@@ -79,10 +131,6 @@
     {
       "basename": "reading List",
       "path": "Books/reading List.md"
-    },
-    {
-      "basename": "(2016) Algorithms to Live By",
-      "path": "Books/(2016) Algorithms to Live By.md"
     },
     {
       "basename": "Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis",
@@ -151,50 +199,6 @@
     {
       "basename": "Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermia",
       "path": "Papers/Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermia.md"
-    },
-    {
-      "basename": "Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermi",
-      "path": "Papers/Papers files/Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermi.pdf"
-    },
-    {
-      "basename": "Highly accurate heart failure classification using carbon nanotube thin film biosensors and machine learning assisted data analysis",
-      "path": "Papers/Highly accurate heart failure classification using carbon nanotube thin film biosensors and machine learning assisted data analysis.md"
-    },
-    {
-      "basename": "راهنما",
-      "path": "راهنما.md"
-    },
-    {
-      "basename": "Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review",
-      "path": "Papers/Papers files/Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review.pdf"
-    },
-    {
-      "basename": "The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research",
-      "path": "Papers/Papers files/The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research.pdf"
-    },
-    {
-      "basename": "Investigating the Parameters Affecting the Stability of -- Gholamreza Ahmadi Lakalayeh, Reza Faridi-Majidi, Reza Saber,",
-      "path": "Papers/Papers files/Investigating the Parameters Affecting the Stability of -- Gholamreza Ahmadi Lakalayeh, Reza Faridi-Majidi, Reza Saber,.pdf"
-    },
-    {
-      "basename": "To-Do",
-      "path": "To-Do.md"
-    },
-    {
-      "basename": "(2023) Debugging Machine Learning Models with Python",
-      "path": "Books/(2023) Debugging Machine Learning Models with Python.md"
-    },
-    {
-      "basename": "Debugging_Machine_Learning_Models_with_Python_Develop_high_performance",
-      "path": "Books/Books files/Debugging_Machine_Learning_Models_with_Python_Develop_high_performance.pdf"
-    },
-    {
-      "basename": "Book MOC",
-      "path": "templates/Book MOC.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
