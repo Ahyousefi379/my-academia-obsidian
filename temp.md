@@ -271,3 +271,4 @@ where:
 - $K(\cdot)$ is the kernel function, which is a non-negative, symmetric, and integrable function that satisfies $\int_{-\infty}^{\infty} K(u) du = 1$
 - $x_i$ are the data points in the sample
 
+=
