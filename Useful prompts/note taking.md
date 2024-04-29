@@ -17,53 +17,40 @@ now i want another prompt to generate MOC for learning a specific subject. it sh
 
 ```copy
 
-Act as an expert researcher and educator in [subject]. I want you to generate comprehensive Zettelkasten literature notes on [subject], written in fluent and easy-to-understand [language]. Rather than relying on your own knowledge, base the notes on the content of the most reliable and authoritative sources available to ensure accuracy and avoid misinformation. Please cite these sources within the notes using markdown formatting.
+Act as an expert researcher and educator in ---- . I want you to generate comprehensive Zettelkasten literature notes on ---- , written in fluent and easy-to-understand English.
 
-Start the notes from a beginner level and progressively advance to a professional level, ensuring a logical flow and coherence throughout. Utilize markdown formatting to organize the notes effectively, and employ LaTeX notation for any mathematical expressions.
+Start the notes from a beginner level and progressively advance to a professional level, ensuring a logical flow and coherence throughout. Utilize markdown formatting to organize the notes effectively, and employ LaTeX format for any mathematical expressions.
 
-Focus the notes on defining, discussing, and covering only the main [subject]. If you mention related subjects or discuss their relationship to the main topic, do not define them in detail. However, at the end of the notes, provide two lists:
+Focus the notes on defining, discussing, and covering only the main subject. i don't need applications, introduction, etc. i want the note to be as professional as possible as if written by a full professor. If you mention related subjects or discuss their relationship to the main topic, do not define them in detail. However, when all the notes are sent, provide two lists:
 
-1. A list of important subjects mentioned in the notes that are crucial for a better understanding of the main [subject].
+1. A list of important subjects mentioned in the notes that are crucial for a better understanding of the main subject. name it the 'prerequisite list'.
 
-2. A list of related important topics that were not used in the notes but for which the main [subject] serves as a fundamental or key concept to understand those subjects. This will help me build a tree of knowledge.
+2. A list of related important topics that were not used in the notes but for which the main subject serves as a fundamental or key concept to understand those subjects. This will help me build a tree of knowledge. name it 'related topics list'.
 
-For example, if the main subject is Bayesian decision theory, you should mention and use Bayes' theorem in the notes without defining it, and then include it in the first list of related subjects at the end. In the second list, include topics such as machine learning or classification, as Bayesian decision theory is a fundamental concept in these fields.
+For example, if the main subject is Bayesian decision theory, you should mention and use Bayes' theorem in the notes without defining it, and then include it in the first list of related subjects at the end. In the second list, include topics such as machine learning or classification, as Bayesian decision theory is a fundamental concept in these fields. please generate the related topics list and prerequisite list more in details and subject-based rather than field base
 
-Aim to create notes that are informative, engaging, and accessible to readers with varying levels of expertise in [subject]. The final product should serve as a valuable resource for anyone seeking to learn about or deepen their understanding of [subject] while ensuring the information is reliable and well-sourced.
+Aim to create notes that are informative, engaging, and accessible to readers with varying levels of expertise in ---- . The final product should serve as a valuable resource for anyone seeking to learn about or deepen their understanding of the subject while ensuring the information is reliable and well-sourced. i want the skeletun of the note to be like a book not like and llm generated text. if you think the note is gonna be long, you can send them in 10 parts, more or less. but keep the numbering and content uniform. first tell me how many parts it will be and then send me the first part. then i will ask for the later parts. use the following as the toc to take idea from:
+ 
 ```
 
 
 #### پرامپت تولید MOC
 
+
 ```copy
 
-Act as an expert in [subject] and create a comprehensive Map of Content (MOC) to guide learners through the subject. Break down the subject into its main topics and subtopics, organizing them in a hierarchical tree-like or mind map-like structure.
+Act as an expert educator creating a detailed table of contents for learning ----. Begin by listing the main topics of ---- in a hierarchical structure, similar to a mind map. Break down each main topic into smaller components, and continue breaking down the components into even smaller sub-components until a reasonable level of detail is reached. Use markdown formatting to clearly organize the hierarchy, wrapping each topic or component in [[double square brackets]].
 
-Start with the main overarching topics, then break each topic down into smaller components. Continue breaking down the components into even smaller parts until you reach a beginner level detail that is a most for learning the subject.
+The table of contents should cover everything from beginner to advanced levels, ensuring a complete learning path from 0 to 100. Keep in mind that I will be creating individual notes for each section of the table of contents, focusing on discussing one subject per note and connecting related subjects across notes. Each note will serve as a single, independent node in my knowledge network, with connections between them helping to perfect the network.
 
-Use markdown formatting to create a visually clear and easily navigable structure. Wrap each topic or component in double square brackets [[like this]] to make them stand out and easy to identify.
+When creating the table of contents, consider the following prompt I will use to generate the actual notes:
 
-For example, if the subject is "Machine Learning," the MOC might start like this:
+"The notes should progress from a beginner level to a professional level, ensuring a logical flow and coherence throughout. Utilize markdown formatting to organize the notes effectively, and employ LaTeX notation for any mathematical expressions. Additionally, place a star (⭐) in front of the most important or fundamental subjects that learners should focus on.
 
-- [[Machine Learning]]
-  - [[Supervised Learning]]
-    - [[Regression]]
-      - [[Linear Regression]]
-      - [[Polynomial Regression]]
-      - [[Logistic Regression]]
-    - [[Classification]]
-      - [[Decision Trees]]
-      - [[Random Forests]]
-      - [[Support Vector Machines (SVM)]]
-      - [[Naive Bayes]]
-  - [[Unsupervised Learning]]
-    - [[Clustering]]
-      - [[K-Means]]
-      - [[Hierarchical Clustering]]
-    - [[Dimensionality Reduction]]
-      - [[Principal Component Analysis (PCA)]]
-      - [[t-SNE]]
-  - ...
+Focus the notes on defining, discussing, and covering only the main subject. If you mention related subjects or discuss their relationship to the main topic, do not define them in detail. However, at the end of the notes, provide two lists:
 
-Continue breaking down the topics until you have covered all the important aspects of [subject] in a clear, organized manner. The final MOC should provide learners with a comprehensive overview of the subject and serve as a roadmap for their learning journey.
+1. A list of important subjects mentioned in the notes that are crucial for a better understanding of the main subject.
+2. A list of related important topics that were not used in the notes but for which the main subject serves as a fundamental or key concept to understand those subjects. This will help me build a tree of knowledge."
+
+Design the table of contents in a way that aligns with this note-taking approach, ensuring a smooth transition from the table of contents to the individual notes. The final table of contents should be comprehensive, well-structured, and suitable for learning the subject from the ground up.use the following as the toc to take idea from:
 ```

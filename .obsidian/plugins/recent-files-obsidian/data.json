@@ -1,20 +1,168 @@
 {
   "recentFiles": [
     {
-      "basename": "note taking",
-      "path": "Useful prompts/note taking.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "prompt for prompts",
-      "path": "Useful prompts/prompt for prompts.md"
+      "basename": "temp",
+      "path": "temp.md"
+    },
+    {
+      "basename": "tags",
+      "path": "tags.md"
+    },
+    {
+      "basename": "راهنما",
+      "path": "راهنما.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "Ideas.md"
+    },
+    {
+      "basename": "تحقیق درباره ML و MOF",
+      "path": "Goals/تحقیق درباره ML و MOF.md"
+    },
+    {
+      "basename": "Applications of machine learning in metal-organic frameworks",
+      "path": "Papers/Applications of machine learning in metal-organic frameworks.md"
+    },
+    {
+      "basename": "Applications of machine learning in metal-organic frameworks",
+      "path": "Papers/Papers files/Applications of machine learning in metal-organic frameworks.pdf"
+    },
+    {
+      "basename": "Recent progress in nanoscale metal-organic frameworks for drug release and cancer therapy",
+      "path": "Papers/Recent progress in nanoscale metal-organic frameworks for drug release and cancer therapy.md"
+    },
+    {
+      "basename": "Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74",
+      "path": "Papers/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.md"
+    },
+    {
+      "basename": "Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74",
+      "path": "Papers/Papers files/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.pdf"
+    },
+    {
+      "basename": "Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs",
+      "path": "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md"
+    },
+    {
+      "basename": "Combined experimental and theoretical insight into the drug delivery of nanoporous metal–organic frameworks",
+      "path": "Papers/Combined experimental and theoretical insight into the drug delivery of nanoporous metal–organic frameworks.md"
+    },
+    {
+      "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
+      "path": "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md"
+    },
+    {
+      "basename": "Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach",
+      "path": "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
+    },
+    {
+      "basename": "Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine",
+      "path": "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf"
+    },
+    {
+      "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
+      "path": "Papers/Papers files/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.pdf"
+    },
+    {
+      "basename": "bioengineering-1838678 - Supplemental Material(s1)",
+      "path": "media/bioengineering-1838678 - Supplemental Material(s1).pdf"
+    },
+    {
+      "basename": "Predicting efficacy of drug-carrier nanoparticle designs for cancer treatment a machine learning-based solution",
+      "path": "Papers/Predicting efficacy of drug-carrier nanoparticle designs for cancer treatment a machine learning-based solution.md"
+    },
+    {
+      "basename": "A review of using data mining and machine learning for predicting drug loading modeling in solid lipid nanoparticles containing curcumin",
+      "path": "Papers/A review of using data mining and machine learning for predicting drug loading modeling in solid lipid nanoparticles containing curcumin.md"
+    },
+    {
+      "basename": "Prediction of Drug Loading in the Gelatin Matrix Using Computational Methods",
+      "path": "Papers/Prediction of Drug Loading in the Gelatin Matrix Using Computational Methods.md"
+    },
+    {
+      "basename": "Machine learning improves metal–organic frameworks design and discovery",
+      "path": "Papers/Machine learning improves metal–organic frameworks design and discovery.md"
+    },
+    {
+      "basename": "Diversifying Databases of Metal Organic Frameworks for High-Throughput Computational Screening",
+      "path": "Papers/Diversifying Databases of Metal Organic Frameworks for High-Throughput Computational Screening.md"
+    },
+    {
+      "basename": "Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning",
+      "path": "Papers/Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning.md"
+    },
+    {
+      "basename": "On the Shoulders of High-Throughput Computational Screening and Machine Learning Design and Discovery of MOFs for H2 Storage and Purification",
+      "path": "Papers/On the Shoulders of High-Throughput Computational Screening and Machine Learning Design and Discovery of MOFs for H2 Storage and Purification.md"
+    },
+    {
+      "basename": "Review of computer simulations on anti-cancer drug delivery in MOFs",
+      "path": "Papers/Review of computer simulations on anti-cancer drug delivery in MOFs.md"
+    },
+    {
+      "basename": "Leveraging Machine Learning for Metal-Organic Frameworks A Perspective",
+      "path": "Papers/Leveraging Machine Learning for Metal-Organic Frameworks A Perspective.md"
+    },
+    {
+      "basename": "Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis",
+      "path": "Papers/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md"
+    },
+    {
+      "basename": "reading list",
+      "path": "Papers/reading list.md"
+    },
+    {
+      "basename": "MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks",
+      "path": "Papers/MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks.md"
     },
     {
       "basename": "To-Do",
       "path": "To-Do.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Recent advances in computational modeling of MOFs From molecular simulations to machine learning",
+      "path": "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md"
+    },
+    {
+      "basename": "Recent advances in computational modeling of MOFs",
+      "path": "Papers/Papers files/Recent advances in computational modeling of MOFs.pdf"
+    },
+    {
+      "basename": "بررسی MOF و CQD برای پروژه ارشد",
+      "path": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
+    },
+    {
+      "basename": "امید ریاضی mathematical expectation",
+      "path": "Concept notes/امید ریاضی mathematical expectation.md"
+    },
+    {
+      "basename": "note taking",
+      "path": "Useful prompts/note taking.md"
+    },
+    {
+      "basename": "(2008-03-13) Introduction to the Thermodynamics of Materials Fifth Edition",
+      "path": "Books/(2008-03-13) Introduction to the Thermodynamics of Materials Fifth Edition.md"
+    },
+    {
+      "basename": "Book MOC",
+      "path": "templates/Book MOC.md"
+    },
+    {
+      "basename": "Concept",
+      "path": "templates/Concept.md"
+    },
+    {
+      "basename": "prompt for prompts",
+      "path": "Useful prompts/prompt for prompts.md"
+    },
+    {
+      "basename": "شروط استفاده از ML",
+      "path": "Concept notes/شروط استفاده از ML.md"
     },
     {
       "basename": "قانون بیز Bayes' rule",
@@ -41,164 +189,16 @@
       "path": "Books/(2012-11-09) Pattern Classification.md"
     },
     {
-      "basename": "UT Machine learning introduction",
-      "path": "Concept notes/UT Machine learning introduction.md"
-    },
-    {
-      "basename": "راهنما",
-      "path": "راهنما.md"
-    },
-    {
-      "basename": "یادگیری ماشین دانشگاه تهران",
-      "path": "Concept notes/other notes/یادگیری ماشین دانشگاه تهران.md"
-    },
-    {
       "basename": "Conclusion note",
       "path": "templates/Conclusion note.md"
-    },
-    {
-      "basename": "Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach",
-      "path": "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
-    },
-    {
-      "basename": "reading list",
-      "path": "Papers/reading list.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "Ideas.md"
-    },
-    {
-      "basename": "بررسی MOF و CQD برای پروژه ارشد",
-      "path": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
-    },
-    {
-      "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
-      "path": "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md"
-    },
-    {
-      "basename": "Applications of machine learning in metal-organic frameworks",
-      "path": "Papers/Applications of machine learning in metal-organic frameworks.md"
-    },
-    {
-      "basename": "Recent advances in computational modeling of MOFs From molecular simulations to machine learning",
-      "path": "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md"
     },
     {
       "basename": "Big-Data Science in Porous Materials Materials Genomics and Machine Learning",
       "path": "Papers/Big-Data Science in Porous Materials Materials Genomics and Machine Learning.md"
     },
     {
-      "basename": "Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis",
-      "path": "Papers/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md"
-    },
-    {
       "basename": "بررسی موضوع مناسب برای تحقیق ارشد",
       "path": "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md"
-    },
-    {
-      "basename": "Utilizing machine learning to expedite the fabrication and biological application of carbon dots",
-      "path": "Papers/Utilizing machine learning to expedite the fabrication and biological application of carbon dots.md"
-    },
-    {
-      "basename": "Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning",
-      "path": "Papers/Customized Carbon Dots with Predictable Optical Properties Synthesized at Room Temperature Guided by Machine Learning.md"
-    },
-    {
-      "basename": "Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis",
-      "path": "Papers/Papers files/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.pdf"
-    },
-    {
-      "basename": "Goal",
-      "path": "templates/Goal.md"
-    },
-    {
-      "basename": "Book chapter",
-      "path": "templates/Book chapter.md"
-    },
-    {
-      "basename": "Concept",
-      "path": "templates/Concept.md"
-    },
-    {
-      "basename": "Article review",
-      "path": "templates/Article review.md"
-    },
-    {
-      "basename": "Pasted image 20240123231934",
-      "path": "media/Pasted image 20240123231934.png"
-    },
-    {
-      "basename": "reading List",
-      "path": "Books/reading List.md"
-    },
-    {
-      "basename": "Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis",
-      "path": "Papers/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md"
-    },
-    {
-      "basename": "Machine-Learning-Assisted and Real-Time-Feedback-Controlled Growth of InAs-GaAs Quantum Dots",
-      "path": "Papers/Machine-Learning-Assisted and Real-Time-Feedback-Controlled Growth of InAs-GaAs Quantum Dots.md"
-    },
-    {
-      "basename": "The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research",
-      "path": "Papers/The Application of Artificial Intelligence in Magnetic Hyperthermia Based Research.md"
-    },
-    {
-      "basename": "Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review",
-      "path": "Papers/Predicting the toxicity of nanoparticles using artificial intelligence tools a systematic review.md"
-    },
-    {
-      "basename": "Artificial Intelligence and Machine Learning Empower Advanced Biomedical Material Design to Toxicity Prediction",
-      "path": "Papers/Artificial Intelligence and Machine Learning Empower Advanced Biomedical Material Design to Toxicity Prediction.md"
-    },
-    {
-      "basename": "Machine learning assisted dual-channel carbon quantum dots-based fluorescence sensor array for detection of tetracyclines.",
-      "path": "Papers/Machine learning assisted dual-channel carbon quantum dots-based fluorescence sensor array for detection of tetracyclines..md"
-    },
-    {
-      "basename": "Deep-Learning-Assisted Discriminative Detection of Vitamin B12 and Vitamin B9 by Fluorescent MoSe2 Quantum Dots.",
-      "path": "Papers/Deep-Learning-Assisted Discriminative Detection of Vitamin B12 and Vitamin B9 by Fluorescent MoSe2 Quantum Dots..md"
-    },
-    {
-      "basename": "Quantitative Detection of Gastrointestinal Tumor Markers Using a Machine Learning Algorithm and Multicolor Quantum Dot Biosensor",
-      "path": "Papers/Quantitative Detection of Gastrointestinal Tumor Markers Using a Machine Learning Algorithm and Multicolor Quantum Dot Biosensor.md"
-    },
-    {
-      "basename": "Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields",
-      "path": "Papers/Papers files/Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields.pdf"
-    },
-    {
-      "basename": "Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields",
-      "path": "Papers/Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields.md"
-    },
-    {
-      "basename": "Machine learning guided microwave-assisted quantum dot synthesis and an indication of residual H2O2 in human teeth.",
-      "path": "Papers/Machine learning guided microwave-assisted quantum dot synthesis and an indication of residual H2O2 in human teeth..md"
-    },
-    {
-      "basename": "3D volume segmentation and reconstruction. Supervised image classification and automated quantification of superparamagnetic iron oxide nanoparticles in histology slides for safety assessment",
-      "path": "Papers/3D volume segmentation and reconstruction. Supervised image classification and automated quantification of superparamagnetic iron oxide nanoparticles in histology slides for safety assessment.md"
-    },
-    {
-      "basename": "Machine learning assisted phase and size-controlled synthesis of iron oxides",
-      "path": "Papers/Machine learning assisted phase and size-controlled synthesis of iron oxides.md"
-    },
-    {
-      "basename": "Deep learning for improving the spatial resolution of magnetic particle imaging",
-      "path": "Papers/Deep learning for improving the spatial resolution of magnetic particle imaging.md"
-    },
-    {
-      "basename": "Deep learning for improving the spatial resolution of magnetic particle imaging",
-      "path": "Papers/Papers files/Deep learning for improving the spatial resolution of magnetic particle imaging.pdf"
-    },
-    {
-      "basename": "Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks",
-      "path": "Papers/Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks.md"
-    },
-    {
-      "basename": "Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermia",
-      "path": "Papers/Heat induction of iron oxide nanoparticles with rational artificial neural network design-based particle swarm optimization for magnetic cancer hyperthermia.md"
     }
   ],
   "omittedPaths": [],

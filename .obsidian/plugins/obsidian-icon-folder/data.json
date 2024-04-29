@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "FabConnectdevelop",
       "🤖",
       "📕",
       "🖊",
-      "FiTarget",
-      "FiClock"
+      "FiTarget"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -47,7 +47,11 @@
     "iconsBackgroundCheckEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "debugMode": false
   },
   "MOCs/🐍Python MOC.md": "RiMap2Line",
   "MOCs/👨🏻‍🏫Mathematics MOC.md": "RiMap2Line",
@@ -67,7 +71,7 @@
   "کانال حکایت/ابزار/prompts.md": "🤖",
   "templates": "FabBuromobelexperte",
   "MOCs": "🌍",
-  "Books": "📚",
+  "Books": "📕",
   "Books/Books files": "📂",
   "Papers": "BoBxsReport",
   "Papers/Papers files": "📂",

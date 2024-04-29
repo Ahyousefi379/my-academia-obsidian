@@ -28,9 +28,14 @@ Unique-ID = {WOS:000874254700001},
 
 [[Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.pdf|PDF]]
 
+[[bioengineering-1838678 - Supplementary Material(s2).xlsx| دیتاست]]
+ [[bioengineering-1838678 - Supplemental Material(s1).pdf|توضیحات دیتاست]]
+
+
 **<span style="color:#00b0f0">سوال یا هدف:</span>**
 
 [[بررسی MOF و CQD برای پروژه ارشد]]
+[[تحقیق درباره ML و MOF]]
 
 ## <span style="color:#64ff61">خلاصه موارد پژوهش</span>
 ---

@@ -27,7 +27,7 @@ Unique-ID = {WOS:001152946700001},
 
 ```
 
-[[|PDF]]
+[[Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf|PDF]]
 
 **<span style="color:#00b0f0">سوال یا هدف:</span>**
 

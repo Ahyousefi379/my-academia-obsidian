@@ -1,6 +1,5 @@
 [
   "omnisearch",
-  "obsidian-rtl",
   "text-extractor",
   "obsidian-style-settings",
   "simple-embeds",
@@ -26,5 +25,5 @@
   "mrj-text-expand",
   "obsidian-pretty-bibtex",
   "custom-sort",
-  "obsidian-tts"
+  "obsidian-rtl"
 ]
