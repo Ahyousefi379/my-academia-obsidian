@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp.md",
+                "file": "Goals/سمینار مهندسی بافت.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4e6474950955067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbb451c949e33ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/Mussel-inspired adhesive and polypeptide-based antibacterial thermo-sensitive hydroxybutyl chitosan hydrogel as BMSCs 3D culture matrix for wound healing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -94,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temp.md",
+                "file": "Goals/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp.md"
+                "file": "Goals/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds.md"
               }
             }
           },
@@ -127,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temp.md",
+                "file": "Goals/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,44 +199,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6b550eec7fc0b585",
+  "active": "f4e6474950955067",
   "lastOpenFiles": [
-    "README.md",
+    "Goals/Mussel-inspired adhesive and polypeptide-based antibacterial thermo-sensitive hydroxybutyl chitosan hydrogel as BMSCs 3D culture matrix for wound healing.md",
+    "Goals/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds.md",
+    "Goals/سمینار مهندسی بافت.md",
+    "Goals/Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells.md",
+    "Thermosensitive Injectable Chitosan/Collagen/β-Glycerophosphate Composite Hydrogels for Enhancing Wound Healing by Encapsulating Mesenchymal Stem Cell Spheroids.md",
+    "Papers/Papers files/Thermosensitive Injectable ChitosanCollagenβ-Glycerophosphate Composite Hydrogels for Enhancing Wound Healing by Encapsulating Mesenchymal Stem Cell Spheroids.pdf",
+    "Thermosensitive Injectable Chitosan/Collagen",
+    "Thermosensitive Injectable Chitosan",
+    "Goals/Bone marrow-derived mesenchymal stem cells laden novel thermo-sensitive hydrogel for the management of severe skin wound healing.md",
+    "Goals/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md",
+    "Papers/Papers files/Research progress related to thermosensitive hydrogel dressings in wound healing a review.pdf",
+    "Papers/Papers files/d3na00407d.pdf",
+    "Papers/Papers files/Bone marrow-derived mesenchymal stem cells laden novel thermo-sensitive hydrogel for the management of severe skin wound healing.pdf",
+    "Papers/Papers files/Multifunctional hydrogel as wound dressing for intelligent wound monitoring.pdf",
+    "Papers/Papers files/Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells.pdf",
+    "Papers/Papers files/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds..pdf",
+    "Papers/Papers files/Mussel-inspired adhesive and polypeptide-based antibacterial thermo-sensitive hydroxybutyl chitosan hydrogel as BMSCs 3D culture matrix for wound healing.pdf",
     "temp.md",
+    "README.md",
     "tags.md",
     "راهنما.md",
     "Ideas.md",
     "Goals/تحقیق درباره ML و MOF.md",
     "Papers/Applications of machine learning in metal-organic frameworks.md",
-    "Papers/Papers files/Applications of machine learning in metal-organic frameworks.pdf",
     "Papers/Recent progress in nanoscale metal-organic frameworks for drug release and cancer therapy.md",
     "Papers/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.md",
-    "Papers/Papers files/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.pdf",
     "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md",
     "Papers/Combined experimental and theoretical insight into the drug delivery of nanoporous metal–organic frameworks.md",
     "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
     "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
-    "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf",
-    "Papers/Papers files/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.pdf",
-    "media/~$bioengineering-1838678 - Supplementary Material(s2).xlsx",
-    "media/bioengineering-1838678 - Supplemental Material(s1).pdf",
     "Papers/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.md",
-    "media/bioengineering-1838678 - Supplementary Material(s2).xlsx",
     "Papers/Predicting efficacy of drug-carrier nanoparticle designs for cancer treatment a machine learning-based solution.md",
     "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning 1.md",
     "Papers/A review of using data mining and machine learning for predicting drug loading modeling in solid lipid nanoparticles containing curcumin.md",
     "Papers/Prediction of Drug Loading in the Gelatin Matrix Using Computational Methods.md",
     "Papers/Machine learning improves metal–organic frameworks design and discovery.md",
-    "Papers/Diversifying Databases of Metal Organic Frameworks for High-Throughput Computational Screening.md",
-    "Papers/Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning.md",
-    "Papers/On the Shoulders of High-Throughput Computational Screening and Machine Learning Design and Discovery of MOFs for H2 Storage and Purification.md",
-    "Papers/Review of computer simulations on anti-cancer drug delivery in MOFs.md",
-    "Highlights for Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
-    "Ourinitialresultsindicatethatthismethodologyisawellgeneralized,straightforward,andcost-effectivemethodthatcanbeappliednotonlyforthepredictionofIBUloadingcapacity,butalsoinmanyotherbiomaterialsprojects. (Page 1).md",
-    "Papers/Leveraging Machine Learning for Metal-Organic Frameworks A Perspective.md",
-    "Papers/Papers files/Combined experimental and theoretical insight into the drug delivery of nanoporous metal–organic frameworks.pdf",
-    "Papers/Papers files/10.1039_c5ra12543j_czi5.pdf",
-    "Papers/Papers files/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.pdf",
     "media/Pasted image 20240308233031.png",
     "media/Pasted image 20240123231934.png",
     "media/Pasted image 20240123230145.png",
