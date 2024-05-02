@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/تحقیق درباره ML و MOF.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/تحقیق درباره ML و MOF.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/تحقیق درباره ML و MOF.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/تحقیق درباره ML و MOF.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,12 +173,12 @@
   },
   "active": "02dae257d77c70c2",
   "lastOpenFiles": [
+    "Goals/تحقیق درباره ML و MOF.md",
     "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
     "temp.md",
     "Papers/Papers files/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.pdf",
     "Papers/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md",
     "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf",
-    "Goals/تحقیق درباره ML و MOF.md",
     "Useful prompts/note taking.md",
     "Untitled.md",
     "Concept notes/امید ریاضی mathematical expectation.md",
