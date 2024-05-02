@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful prompts/note taking.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "587f10ded699a608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5b795ec332f5b87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Goals/تحقیق درباره ML و MOF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -120,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful prompts/note taking.md",
+                "file": "Goals/تحقیق درباره ML و MOF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful prompts/note taking.md"
+                "file": "Goals/تحقیق درباره ML و MOF.md"
               }
             }
           },
@@ -153,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful prompts/note taking.md",
+                "file": "Goals/تحقیق درباره ML و MOF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,10 +174,15 @@
   },
   "active": "02dae257d77c70c2",
   "lastOpenFiles": [
+    "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
     "temp.md",
+    "Papers/Papers files/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.pdf",
+    "Papers/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md",
+    "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf",
+    "Goals/تحقیق درباره ML و MOF.md",
+    "Useful prompts/note taking.md",
     "Untitled.md",
     "Concept notes/امید ریاضی mathematical expectation.md",
-    "Useful prompts/note taking.md",
     "Useful prompts/prompt for prompts.md",
     "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md",
     "Goals/سمینار مهندسی بافت.md",
@@ -219,22 +199,16 @@
     "Papers/Papers files/Bone marrow-derived mesenchymal stem cells laden novel thermo-sensitive hydrogel for the management of severe skin wound healing.pdf",
     "Papers/Papers files/Multifunctional hydrogel as wound dressing for intelligent wound monitoring.pdf",
     "Papers/Papers files/Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells.pdf",
-    "Papers/Papers files/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds..pdf",
-    "Papers/Papers files/Mussel-inspired adhesive and polypeptide-based antibacterial thermo-sensitive hydroxybutyl chitosan hydrogel as BMSCs 3D culture matrix for wound healing.pdf",
     "README.md",
     "tags.md",
     "راهنما.md",
     "Ideas.md",
-    "Goals/تحقیق درباره ML و MOF.md",
     "Papers/Applications of machine learning in metal-organic frameworks.md",
     "Papers/Recent progress in nanoscale metal-organic frameworks for drug release and cancer therapy.md",
     "Papers/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.md",
     "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md",
     "Papers/Combined experimental and theoretical insight into the drug delivery of nanoporous metal–organic frameworks.md",
     "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
-    "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
-    "Papers/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.md",
-    "Papers/Predicting efficacy of drug-carrier nanoparticle designs for cancer treatment a machine learning-based solution.md",
     "media/Pasted image 20240308233031.png",
     "media/Pasted image 20240123231934.png",
     "media/Pasted image 20240123230145.png",

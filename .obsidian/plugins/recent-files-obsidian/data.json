@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "note taking",
-      "path": "Useful prompts/note taking.md"
+      "basename": "تحقیق درباره ML و MOF",
+      "path": "Goals/تحقیق درباره ML و MOF.md"
+    },
+    {
+      "basename": "Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach",
+      "path": "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
     },
     {
       "basename": "temp",
       "path": "temp.md"
+    },
+    {
+      "basename": "Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis",
+      "path": "Papers/Papers files/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.pdf"
+    },
+    {
+      "basename": "Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis",
+      "path": "Papers/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md"
+    },
+    {
+      "basename": "Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine",
+      "path": "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf"
+    },
+    {
+      "basename": "note taking",
+      "path": "Useful prompts/note taking.md"
     },
     {
       "basename": "Untitled",
@@ -69,10 +89,6 @@
       "path": "Ideas.md"
     },
     {
-      "basename": "تحقیق درباره ML و MOF",
-      "path": "Goals/تحقیق درباره ML و MOF.md"
-    },
-    {
       "basename": "Applications of machine learning in metal-organic frameworks",
       "path": "Papers/Applications of machine learning in metal-organic frameworks.md"
     },
@@ -103,14 +119,6 @@
     {
       "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
       "path": "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md"
-    },
-    {
-      "basename": "Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach",
-      "path": "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
-    },
-    {
-      "basename": "Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine",
-      "path": "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf"
     },
     {
       "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
@@ -191,14 +199,6 @@
     {
       "basename": "Book MOC",
       "path": "templates/Book MOC.md"
-    },
-    {
-      "basename": "Concept",
-      "path": "templates/Concept.md"
-    },
-    {
-      "basename": "شروط استفاده از ML",
-      "path": "Concept notes/شروط استفاده از ML.md"
     }
   ],
   "omittedPaths": [],

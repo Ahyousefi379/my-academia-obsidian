@@ -42,6 +42,7 @@ Aim to create notes that are informative, engaging, and accessible to readers wi
 
 ### 2
 ``` copy
+
 Act as a subject matter expert tasked with creating a comprehensive Zettelkasten literature note on --- for university students. The note should be written in english using clear, academic language that progresses from beginner to advanced level. Utilize markdown formatting to organize the content, and LaTeX notation for any mathematical formulas.
 
 The note must focus solely and deeply on the main subject, defining and discussing it in depth. Avoid tangents, broad overviews, or digressions into related branches. Instead, write the note in the style of a well-written, concise book section that covers the key aspects of the subject at an appropriate level of detail for university students.
