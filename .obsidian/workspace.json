@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "prompts/prompt for prompts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "prompts/prompt for prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "prompts/prompt for prompts.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "prompts/prompt for prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,16 +173,17 @@
   },
   "active": "02dae257d77c70c2",
   "lastOpenFiles": [
+    "To-Do.md",
+    "temp.md",
+    "Untitled.md",
     "Goals/تحقیق درباره ML و MOF.md",
     "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
-    "temp.md",
     "Papers/Papers files/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.pdf",
     "Papers/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md",
     "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf",
-    "Useful prompts/note taking.md",
-    "Untitled.md",
+    "prompts/note taking.md",
     "Concept notes/امید ریاضی mathematical expectation.md",
-    "Useful prompts/prompt for prompts.md",
+    "prompts/prompt for prompts.md",
     "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md",
     "Goals/سمینار مهندسی بافت.md",
     "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md",

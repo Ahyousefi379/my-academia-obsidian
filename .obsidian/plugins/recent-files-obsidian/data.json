@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "prompt for prompts",
+      "path": "prompts/prompt for prompts.md"
+    },
+    {
+      "basename": "To-Do",
+      "path": "To-Do.md"
+    },
+    {
+      "basename": "temp",
+      "path": "temp.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach",
       "path": "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
-    },
-    {
-      "basename": "temp",
-      "path": "temp.md"
     },
     {
       "basename": "Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis",
@@ -30,15 +38,11 @@
     },
     {
       "basename": "note taking",
-      "path": "Useful prompts/note taking.md"
+      "path": "prompts/note taking.md"
     },
     {
       "basename": "امید ریاضی mathematical expectation",
       "path": "Concept notes/امید ریاضی mathematical expectation.md"
-    },
-    {
-      "basename": "prompt for prompts",
-      "path": "Useful prompts/prompt for prompts.md"
     },
     {
       "basename": "Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids",
@@ -175,10 +179,6 @@
     {
       "basename": "MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks",
       "path": "Papers/MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks.md"
-    },
-    {
-      "basename": "To-Do",
-      "path": "To-Do.md"
     },
     {
       "basename": "Recent advances in computational modeling of MOFs From molecular simulations to machine learning",
