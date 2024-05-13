@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "reading List",
+      "path": "Books/reading List.md"
+    },
+    {
+      "basename": "temp",
+      "path": "temp.md"
+    },
+    {
+      "basename": "translate",
+      "path": "prompts/translate.md"
+    },
+    {
       "basename": "prompt for prompts",
       "path": "prompts/prompt for prompts.md"
     },
     {
       "basename": "To-Do",
       "path": "To-Do.md"
-    },
-    {
-      "basename": "temp",
-      "path": "temp.md"
     },
     {
       "basename": "Untitled",
@@ -191,14 +199,6 @@
     {
       "basename": "بررسی MOF و CQD برای پروژه ارشد",
       "path": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
-    },
-    {
-      "basename": "(2008-03-13) Introduction to the Thermodynamics of Materials Fifth Edition",
-      "path": "Books/(2008-03-13) Introduction to the Thermodynamics of Materials Fifth Edition.md"
-    },
-    {
-      "basename": "Book MOC",
-      "path": "templates/Book MOC.md"
     }
   ],
   "omittedPaths": [],

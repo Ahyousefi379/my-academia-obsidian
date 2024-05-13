@@ -272,3 +272,124 @@ where:
 - $x_i$ are the data points in the sample
 
 =
+
+$$\sum^{n}_{i=\frac{n+1}{2}} \binom{n}{i} p^i q^{n-i} $$
+
+The limit of the equation as $n \to \infty$ is:
+
+$$\lim_{n \to \infty} \sum_{i=\lceil\frac{n+1}{2}\rceil}^{n} {n \choose i} (0.7)^i (0.3)^{n-i} = 1$$
+
+This is because the sum represents the probability of getting at least $\lceil\frac{n+1}{2}\rceil$ successes in $n$ trials, with a probability of success $p=0.7$ and probability of failure $q=0.3$.
+
+As $n \to \infty$, the binomial distribution approaches the normal distribution, and the sum approaches the probability of getting more than half of the trials correct, which is equal to 1.
+
+In other words, as the number of trials increases without bound, the probability of getting at least half of the trials correct approaches 1.
+
+This result can be formally proven using the Central Limit Theorem (CLT) and the properties of the normal distribution.
+
+To prove that the limit of the equation as $n \to \infty$ is 1, we can use the following steps:
+
+1. First, we can rewrite the sum as:
+
+$$\sum_{i=\lceil\frac{n+1}{2}\rceil}^{n} {n \choose i} (0.7)^i (0.3)^{n-i} = 1 - \sum_{i=0}^{\lfloor\frac{n-1}{2}\rfloor} {n \choose i} (0.7)^i (0.3)^{n-i}$$
+
+This is because the sum of all binomial coefficients for a given $n$ is equal to 1, and we are subtracting the sum of the coefficients for $i=0$ to $\lfloor\frac{n-1}{2}\rfloor$ from 1.
+
+2. Next, we can use the fact that the binomial distribution converges to the normal distribution as $n \to \infty$. Specifically, we can use the De Moivre-Laplace theorem, which states that:
+
+$$\lim_{n \to \infty} \sum_{i=0}^{k} {n \choose i} p^i q^{n-i} = \Phi\left(\frac{k-np}{\sqrt{npq}}\right)$$
+
+where $\Phi(x)$ is the cumulative distribution function of the standard normal distribution, and $k$ is an integer such that $k/n \to x$ as $n \to \infty$.
+
+In our case, we have $p=0.7$, $q=0.3$, and $k=\lfloor\frac{n-1}{2}\rfloor$. As $n \to \infty$, we have $k/n \to 0.5$, so we can apply the De Moivre-Laplace theorem to get:
+
+$$\lim_{n \to \infty} \sum_{i=0}^{\lfloor\frac{n-1}{2}\rfloor} {n \choose i} (0.7)^i (0.3)^{n-i} = \Phi\left(\frac{0.5-0.7}{\sqrt{0.7\cdot0.3}}\right) = \Phi(-1.45)$$
+
+3. Finally, we can use the fact that $\Phi(-x) = 1 - \Phi(x)$ to get:
+
+$$\lim_{n \to \infty} \sum_{i=\lceil\frac{n+1}{2}\rceil}^{n} {n \choose i} (0.7)^i (0.3)^{n-i} = 1 - \Phi(-1.45) = 1 - (1 - \Phi(1.45)) = \Phi(1.45)$$
+
+Using a standard normal distribution table or calculator, we can find that $\Phi(1.45) \approx 0.9265$. However, as $n \to \infty$, the value of $\Phi(1.45)$ approaches 1, because the normal distribution becomes more concentrated around the mean as $n$ increases.
+
+Therefore, we can conclude that:
+
+$$\lim_{n \to \infty} \sum_{i=\lceil\frac{n+1}{2}\rceil}^{n} {n \choose i} (0.7)^i (0.3)^{n-i} = 1$$
+
+This proves that the limit of the equation as $n \to \infty$ is indeed 1.
+
+---
+
+Certainly! Here's the corrected proof:
+
+To find the limit of the given expression, we can use the Central Limit Theorem and the properties of the binomial distribution.
+
+First, let's recall that for a binomial distribution with parameters $n$ and $p$, the mean is $\mu = np$ and the variance is $\sigma^2 = np(1-p)$.
+
+In this case, $n$ is the number of trials, $p = 0.7$, and $q = 1-p = 0.3$.
+
+The given expression represents the probability of getting at least $\lceil\frac{n+1}{2}\rceil$ successes out of $n$ trials.
+
+As $n$ approaches infinity, the Central Limit Theorem states that the binomial distribution can be approximated by a normal distribution with mean $\mu$ and variance $\sigma^2$.
+
+Therefore, we can write:
+$$\lim_{n \to \infty} \sum_{i=\lceil\frac{n+1}{2}\rceil}^{n} {n \choose i} (0.7)^i (0.3)^{n-i} = P\left(X \geq \frac{n+1}{2}\right)$$
+where $X \sim N(\mu, \sigma^2)$.
+
+Standardizing the normal distribution:
+$$P\left(X \geq \frac{n+1}{2}\right) = P\left(\frac{X-\mu}{\sigma} \geq \frac{\frac{n+1}{2} - \mu}{\sigma}\right)$$
+
+As $n \to \infty$:
+$$\frac{\frac{n+1}{2} - \mu}{\sigma} = \frac{\frac{n+1}{2} - 0.7n}{\sqrt{0.21n}} = \frac{0.5 - 0.2n}{\sqrt{0.21n}}$$
+
+The numerator grows faster than the denominator, so this expression tends to $-\infty$ as $n \to \infty$.
+
+Therefore:
+$$\lim_{n \to \infty} P\left(\frac{X-\mu}{\sigma} \geq \frac{\frac{n+1}{2} - \mu}{\sigma}\right) = P(Z \geq -\infty)$$
+where $Z$ is the standard normal distribution.
+
+We know that $P(Z \geq -\infty) = 1$.
+
+Thus, the limit of the given expression is:
+$$\lim_{n \to \infty} \sum_{i=\lceil\frac{n+1}{2}\rceil}^{n} {n \choose i} (0.7)^i (0.3)^{n-i} = 1$$
+
+In conclusion, as $n$ approaches infinity, the probability of getting at least $\lceil\frac{n+1}{2}\rceil$ successes out of $n$ trials, with a success probability of 0.7, converges to 1.
+
+---
+
+Another great question!
+
+As the number of judges $n$ increases without bound, the probability that the majority vote is correct approaches a limiting value. To find this limit, we can use the Central Limit Theorem (CLT) to approximate the distribution of the sum $S$.
+
+Recall that $S = X_1 + X_2 + ... + X_n$, where each $X_i$ is a Bernoulli random variable with $P(X_i = 1) = 0.7$ and $P(X_i = 0) = 0.3$. The mean and variance of each $X_i$ are:
+
+$$E(X_i) = 0.7, \quad Var(X_i) = 0.7 \cdot 0.3 = 0.21$$
+
+By the CLT, the standardized sum $(S - n \cdot 0.7) / \sqrt{n \cdot 0.21}$ converges in distribution to a standard normal random variable $Z$ as $n \to \infty$.
+
+We want to find the probability that the majority vote is correct, which means that at least half of the judges are correct. Let's define the threshold $t_n = \lceil n/2 \rceil$, where $\lceil \cdot \rceil$ denotes the ceiling function. We want to find:
+
+$$\lim_{n \to \infty} P(S \geq t_n)$$
+
+Using the CLT, we can approximate this probability as:
+
+$$P(S \geq t_n) \approx P\left(\frac{S - n \cdot 0.7}{\sqrt{n \cdot 0.21}} \geq \frac{t_n - n \cdot 0.7}{\sqrt{n \cdot 0.21}}\right)$$
+
+As $n \to \infty$, the threshold $t_n$ grows like $n/2$, so:
+
+$$\frac{t_n - n \cdot 0.7}{\sqrt{n \cdot 0.21}} \to \frac{n/2 - n \cdot 0.7}{\sqrt{n \cdot 0.21}} = \frac{n (0.5 - 0.7)}{\sqrt{n \cdot 0.21}} = -\sqrt{\frac{n}{0.42}}$$
+
+Since $Z$ is a standard normal random variable, we have:
+
+$$\lim_{n \to \infty} P(S \geq t_n) \approx \lim_{n \to \infty} P\left(Z \geq -\sqrt{\frac{n}{0.42}}\right) = 1 - \lim_{n \to \infty} \Phi\left(-\sqrt{\frac{n}{0.42}}\right)$$
+
+where $\Phi(z)$ is the cumulative distribution function of the standard normal distribution.
+
+As $n \to \infty$, the argument of $\Phi$ grows without bound, so:
+
+$$\lim_{n \to \infty} \Phi\left(-\sqrt{\frac{n}{0.42}}\right) = 0$$
+
+Therefore, the limiting probability that the majority vote is correct is:
+
+$$\lim_{n \to \infty} P(S \geq t_n) = 1 - 0 = 1$$
+
+In other words, as the number of judges increases without bound, the probability that the majority vote is correct approaches 1. This makes sense, since the law of large numbers suggests that the average behavior of the judges should converge to the true probability of correctness (0.7) as the number of judges increases.
