@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing",
+      "path": "Goals/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md"
+    },
+    {
+      "basename": "automatic data extraction",
+      "path": "Goals/automatic data extraction.md"
+    },
+    {
+      "basename": "Automating data extraction in systematic reviews a systematic review",
+      "path": "Goals/Automating data extraction in systematic reviews a systematic review.md"
+    },
+    {
+      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
+      "path": "Concept notes/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
+    },
+    {
       "basename": "reading List",
       "path": "Books/reading List.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "reading list",
       "path": "Papers/reading list.md"
-    },
-    {
-      "basename": "MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks",
-      "path": "Papers/MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks.md"
-    },
-    {
-      "basename": "Recent advances in computational modeling of MOFs From molecular simulations to machine learning",
-      "path": "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md"
-    },
-    {
-      "basename": "Recent advances in computational modeling of MOFs",
-      "path": "Papers/Papers files/Recent advances in computational modeling of MOFs.pdf"
-    },
-    {
-      "basename": "بررسی MOF و CQD برای پروژه ارشد",
-      "path": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
     }
   ],
   "omittedPaths": [],
