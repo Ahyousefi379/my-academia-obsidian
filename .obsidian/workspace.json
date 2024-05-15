@@ -11,51 +11,13 @@
             "id": "02dae257d77c70c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Goals/automatic data extraction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99fec1f80556cd1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ccbc39b8cbab52b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bc661015694ebd0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Automating data extraction in systematic reviews a systematic review.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md",
+                "file": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md"
+                "file": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf"
               }
             }
           },
@@ -162,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md",
+                "file": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,15 +168,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "99fec1f80556cd1d",
+  "active": "02dae257d77c70c2",
   "lastOpenFiles": [
-    "Papers/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf",
-    "Goals/automatic data extraction.md",
-    "Goals/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md",
-    "Goals/Automating data extraction in systematic reviews a systematic review.md",
-    "Papers/Automating data extraction in systematic reviews a systematic review.pdf",
+    "Papers/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md",
+    "Papers/Papers files/Automating data extraction in systematic reviews a systematic review.pdf",
+    "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf",
+    "Papers/Automating data extraction in systematic reviews a systematic review.md",
+    "Papers/automatic data extraction.md",
     "Concept notes/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
-    "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf",
+    "Papers/Papers files/Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf",
     "Papers/s41467-024-45914-8.pdf",
     "Books/reading List.md",
     "media/Pasted image 20240513124540.png",
@@ -241,7 +203,6 @@
     "Thermosensitive Injectable Chitosan",
     "Papers/Bone marrow-derived mesenchymal stem cells laden novel thermo-sensitive hydrogel for the management of severe skin wound healing.md",
     "Papers/Papers files/Research progress related to thermosensitive hydrogel dressings in wound healing a review.pdf",
-    "Papers/Papers files/d3na00407d.pdf",
     "README.md",
     "tags.md",
     "راهنما.md",

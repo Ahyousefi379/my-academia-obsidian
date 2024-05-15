@@ -4,9 +4,7 @@ article type:
 ---
 
 ```bibtex
-
-@article{Liu_Shah_2023, title={ReviewerGPT? An exploratory study on using large language models for paper reviewing}, url={https://www.semanticscholar.org/paper/ReviewerGPT-An-Exploratory-Study-on-Using-Large-for-Liu-Shah/62729cff7dda7614f648a84e8967076d8878a5ff}, author={Liu, Ryan and Shah, Nihar B.}, year={2023} }
-
+@article{Liu2023ReviewerGPTAE, title={ReviewerGPT? An Exploratory Study on Using Large Language Models for Paper Reviewing}, author={Ryan Liu and Nihar B. Shah}, journal={ArXiv}, year={2023}, volume={abs/2306.00622}, url={https://api.semanticscholar.org/CorpusID:258999338} }
 
 ```
 

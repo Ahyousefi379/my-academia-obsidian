@@ -2,15 +2,23 @@
   "recentFiles": [
     {
       "basename": "ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing",
-      "path": "Goals/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md"
+      "path": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf"
     },
     {
-      "basename": "automatic data extraction",
-      "path": "Goals/automatic data extraction.md"
+      "basename": "ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing",
+      "path": "Papers/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md"
     },
     {
       "basename": "Automating data extraction in systematic reviews a systematic review",
-      "path": "Goals/Automating data extraction in systematic reviews a systematic review.md"
+      "path": "Papers/Papers files/Automating data extraction in systematic reviews a systematic review.pdf"
+    },
+    {
+      "basename": "Automating data extraction in systematic reviews a systematic review",
+      "path": "Papers/Automating data extraction in systematic reviews a systematic review.md"
+    },
+    {
+      "basename": "automatic data extraction",
+      "path": "Papers/automatic data extraction.md"
     },
     {
       "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
@@ -191,14 +199,6 @@
     {
       "basename": "Leveraging Machine Learning for Metal-Organic Frameworks A Perspective",
       "path": "Papers/Leveraging Machine Learning for Metal-Organic Frameworks A Perspective.md"
-    },
-    {
-      "basename": "Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis",
-      "path": "Papers/Machine learning accelerates the investigation of targeted MOFs Performance prediction, rational design and intelligent synthesis.md"
-    },
-    {
-      "basename": "reading list",
-      "path": "Papers/reading list.md"
     }
   ],
   "omittedPaths": [],
