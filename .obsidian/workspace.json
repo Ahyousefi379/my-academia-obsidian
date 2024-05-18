@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d966ff57d39182c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concept notes/numPy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a8e1efb8c19383b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/note taking.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6463308aad1c8267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Concept notes/Python/Matrix Operations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concept notes/numPy.md",
+                "file": "Concept notes/Python/Matrix Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concept notes/numPy.md"
+                "file": "Concept notes/Python/Matrix Operations.md"
               }
             }
           },
@@ -153,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concept notes/numPy.md",
+                "file": "Concept notes/Python/Matrix Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,11 +171,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6d966ff57d39182c",
+  "active": "a8e1efb8c19383b1",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Concept notes/numPy.md",
+    "Concept notes/Python/ndarray attributes.md",
+    "Concept notes/Python/numPy MOC.md",
+    "media/Numpy_Python_Cheat_Sheet.pdf",
+    "media/numpy-user.pdf",
+    "media/bioengineering-1838678 - Supplemental Material(s1).pdf",
+    "Concept notes/Python",
+    "Concept notes/Python/Matrix Operations.md",
+    "Concept notes/Python/Array Indexing and Slicing.md",
+    "Concept notes/Python/Mathematical Operations.md",
+    "Concept notes/Python/Array Creation.md",
+    "Concept notes/Python/Array Manipulation.md",
+    "Concept notes/Python/Random Number Generation.md",
     "prompts/note taking.md",
+    "Untitled.md",
+    "Concept notes/شروط استفاده از ML.md",
+    "Concept notes/قانون بیز Bayes' rule.md",
+    "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
+    "Concept notes/امید ریاضی mathematical expectation.md",
     "prompts/prompt for prompts.md",
     "prompts/translate.md",
     "link_to_figure_1.md",
@@ -211,7 +200,6 @@
     "Papers/Papers files/Automating data extraction in systematic reviews a systematic review.pdf",
     "Papers/Automating data extraction in systematic reviews a systematic review.md",
     "Papers/automatic data extraction.md",
-    "Concept notes/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
     "Papers/Papers files/Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf",
     "Papers/s41467-024-45914-8.pdf",
     "Books/reading List.md",
@@ -219,23 +207,8 @@
     "temp.md",
     "To-Do.md",
     "Goals/تحقیق درباره ML و MOF.md",
-    "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
     "Papers/Papers files/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.pdf",
-    "Papers/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md",
     "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf",
-    "Concept notes/امید ریاضی mathematical expectation.md",
-    "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md",
-    "Goals/سمینار مهندسی بافت.md",
-    "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md",
-    "Papers/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds.md",
-    "Papers/Mussel-inspired adhesive and polypeptide-based antibacterial thermo-sensitive hydroxybutyl chitosan hydrogel as BMSCs 3D culture matrix for wound healing.md",
-    "Papers/Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells.md",
-    "Papers/Papers files/Thermosensitive Injectable ChitosanCollagenβ-Glycerophosphate Composite Hydrogels for Enhancing Wound Healing by Encapsulating Mesenchymal Stem Cell Spheroids.pdf",
-    "Thermosensitive Injectable Chitosan/Collagen",
-    "Thermosensitive Injectable Chitosan",
-    "Papers/Bone marrow-derived mesenchymal stem cells laden novel thermo-sensitive hydrogel for the management of severe skin wound healing.md",
-    "Papers/Papers files/Research progress related to thermosensitive hydrogel dressings in wound healing a review.pdf",
-    "README.md",
     "media/Pasted image 20240308233031.png",
     "media/Pasted image 20240123231934.png",
     "media/Pasted image 20240123230145.png",

@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "numPy",
-      "path": "Concept notes/numPy.md"
+      "basename": "Matrix Operations",
+      "path": "Concept notes/Python/Matrix Operations.md"
+    },
+    {
+      "basename": "ndarray attributes",
+      "path": "Concept notes/Python/ndarray attributes.md"
+    },
+    {
+      "basename": "numPy MOC",
+      "path": "Concept notes/Python/numPy MOC.md"
+    },
+    {
+      "basename": "Numpy_Python_Cheat_Sheet",
+      "path": "media/Numpy_Python_Cheat_Sheet.pdf"
+    },
+    {
+      "basename": "numpy-user",
+      "path": "media/numpy-user.pdf"
+    },
+    {
+      "basename": "bioengineering-1838678 - Supplemental Material(s1)",
+      "path": "media/bioengineering-1838678 - Supplemental Material(s1).pdf"
+    },
+    {
+      "basename": "Array Indexing and Slicing",
+      "path": "Concept notes/Python/Array Indexing and Slicing.md"
+    },
+    {
+      "basename": "Mathematical Operations",
+      "path": "Concept notes/Python/Mathematical Operations.md"
+    },
+    {
+      "basename": "Array Creation",
+      "path": "Concept notes/Python/Array Creation.md"
+    },
+    {
+      "basename": "Array Manipulation",
+      "path": "Concept notes/Python/Array Manipulation.md"
+    },
+    {
+      "basename": "Random Number Generation",
+      "path": "Concept notes/Python/Random Number Generation.md"
+    },
+    {
+      "basename": "note taking",
+      "path": "prompts/note taking.md"
     },
     {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
     {
-      "basename": "note taking",
-      "path": "prompts/note taking.md"
+      "basename": "شروط استفاده از ML",
+      "path": "Concept notes/شروط استفاده از ML.md"
+    },
+    {
+      "basename": "قانون بیز Bayes' rule",
+      "path": "Concept notes/قانون بیز Bayes' rule.md"
+    },
+    {
+      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
+      "path": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
     },
     {
       "basename": "prompt for prompts",
@@ -45,10 +97,6 @@
       "path": "Papers/automatic data extraction.md"
     },
     {
-      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
-      "path": "Concept notes/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
-    },
-    {
       "basename": "reading List",
       "path": "Books/reading List.md"
     },
@@ -79,10 +127,6 @@
     {
       "basename": "Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine",
       "path": "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf"
-    },
-    {
-      "basename": "امید ریاضی mathematical expectation",
-      "path": "Concept notes/امید ریاضی mathematical expectation.md"
     },
     {
       "basename": "Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids",
@@ -155,50 +199,6 @@
     {
       "basename": "Combined experimental and theoretical insight into the drug delivery of nanoporous metal–organic frameworks",
       "path": "Papers/Combined experimental and theoretical insight into the drug delivery of nanoporous metal–organic frameworks.md"
-    },
-    {
-      "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
-      "path": "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md"
-    },
-    {
-      "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
-      "path": "Papers/Papers files/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.pdf"
-    },
-    {
-      "basename": "bioengineering-1838678 - Supplemental Material(s1)",
-      "path": "media/bioengineering-1838678 - Supplemental Material(s1).pdf"
-    },
-    {
-      "basename": "Predicting efficacy of drug-carrier nanoparticle designs for cancer treatment a machine learning-based solution",
-      "path": "Papers/Predicting efficacy of drug-carrier nanoparticle designs for cancer treatment a machine learning-based solution.md"
-    },
-    {
-      "basename": "A review of using data mining and machine learning for predicting drug loading modeling in solid lipid nanoparticles containing curcumin",
-      "path": "Papers/A review of using data mining and machine learning for predicting drug loading modeling in solid lipid nanoparticles containing curcumin.md"
-    },
-    {
-      "basename": "Prediction of Drug Loading in the Gelatin Matrix Using Computational Methods",
-      "path": "Papers/Prediction of Drug Loading in the Gelatin Matrix Using Computational Methods.md"
-    },
-    {
-      "basename": "Machine learning improves metal–organic frameworks design and discovery",
-      "path": "Papers/Machine learning improves metal–organic frameworks design and discovery.md"
-    },
-    {
-      "basename": "Diversifying Databases of Metal Organic Frameworks for High-Throughput Computational Screening",
-      "path": "Papers/Diversifying Databases of Metal Organic Frameworks for High-Throughput Computational Screening.md"
-    },
-    {
-      "basename": "Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning",
-      "path": "Papers/Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning.md"
-    },
-    {
-      "basename": "On the Shoulders of High-Throughput Computational Screening and Machine Learning Design and Discovery of MOFs for H2 Storage and Purification",
-      "path": "Papers/On the Shoulders of High-Throughput Computational Screening and Machine Learning Design and Discovery of MOFs for H2 Storage and Purification.md"
-    },
-    {
-      "basename": "Review of computer simulations on anti-cancer drug delivery in MOFs",
-      "path": "Papers/Review of computer simulations on anti-cancer drug delivery in MOFs.md"
     }
   ],
   "omittedPaths": [],
