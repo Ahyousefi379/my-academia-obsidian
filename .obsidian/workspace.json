@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "065bf05225590d37",
+        "id": "55e6b74b1fd4a378",
         "type": "tabs",
         "children": [
           {
-            "id": "02dae257d77c70c2",
+            "id": "6d966ff57d39182c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf"
+                "file": "prompts/translate.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf",
+                "file": "prompts/translate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf"
+                "file": "prompts/translate.md"
               }
             }
           },
@@ -124,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf",
+                "file": "prompts/translate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,11 +171,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "02dae257d77c70c2",
+  "active": "6d966ff57d39182c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "prompts/note taking.md",
+    "prompts/prompt for prompts.md",
+    "link_to_figure_1.md",
+    "tags.md",
+    "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf",
     "Papers/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md",
     "Papers/Papers files/Automating data extraction in systematic reviews a systematic review.pdf",
-    "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf",
     "Papers/Automating data extraction in systematic reviews a systematic review.md",
     "Papers/automatic data extraction.md",
     "Concept notes/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
@@ -182,15 +190,12 @@
     "media/Pasted image 20240513124540.png",
     "temp.md",
     "prompts/translate.md",
-    "prompts/prompt for prompts.md",
     "To-Do.md",
-    "Untitled.md",
     "Goals/تحقیق درباره ML و MOF.md",
     "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
     "Papers/Papers files/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.pdf",
     "Papers/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md",
     "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf",
-    "prompts/note taking.md",
     "Concept notes/امید ریاضی mathematical expectation.md",
     "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md",
     "Goals/سمینار مهندسی بافت.md",
@@ -204,7 +209,6 @@
     "Papers/Bone marrow-derived mesenchymal stem cells laden novel thermo-sensitive hydrogel for the management of severe skin wound healing.md",
     "Papers/Papers files/Research progress related to thermosensitive hydrogel dressings in wound healing a review.pdf",
     "README.md",
-    "tags.md",
     "راهنما.md",
     "media/Pasted image 20240308233031.png",
     "media/Pasted image 20240123231934.png",

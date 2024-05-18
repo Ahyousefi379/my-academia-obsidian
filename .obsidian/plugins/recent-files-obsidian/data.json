@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "translate",
+      "path": "prompts/translate.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "note taking",
+      "path": "prompts/note taking.md"
+    },
+    {
+      "basename": "prompt for prompts",
+      "path": "prompts/prompt for prompts.md"
+    },
+    {
+      "basename": "tags",
+      "path": "tags.md"
+    },
+    {
       "basename": "ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing",
       "path": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf"
     },
@@ -33,20 +53,8 @@
       "path": "temp.md"
     },
     {
-      "basename": "translate",
-      "path": "prompts/translate.md"
-    },
-    {
-      "basename": "prompt for prompts",
-      "path": "prompts/prompt for prompts.md"
-    },
-    {
       "basename": "To-Do",
       "path": "To-Do.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "تحقیق درباره ML و MOF",
@@ -67,10 +75,6 @@
     {
       "basename": "Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine",
       "path": "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf"
-    },
-    {
-      "basename": "note taking",
-      "path": "prompts/note taking.md"
     },
     {
       "basename": "امید ریاضی mathematical expectation",
@@ -111,10 +115,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "tags",
-      "path": "tags.md"
     },
     {
       "basename": "راهنما",
@@ -195,10 +195,6 @@
     {
       "basename": "Review of computer simulations on anti-cancer drug delivery in MOFs",
       "path": "Papers/Review of computer simulations on anti-cancer drug delivery in MOFs.md"
-    },
-    {
-      "basename": "Leveraging Machine Learning for Metal-Organic Frameworks A Perspective",
-      "path": "Papers/Leveraging Machine Learning for Metal-Organic Frameworks A Perspective.md"
     }
   ],
   "omittedPaths": [],
