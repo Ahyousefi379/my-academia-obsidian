@@ -19,27 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9a88ca8c642e3d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concept notes/Python/numPy MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6c9023bacabb426",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -195,8 +174,16 @@
   },
   "active": "a8e1efb8c19383b1",
   "lastOpenFiles": [
-    "Concept notes/Python/numPy MOC.md",
     "Concept notes/Python/Matrix Operations.md",
+    "Concept notes/Python/numPy MOC.md",
+    "Untitled.md",
+    "Concept notes/انواع ضرب ماتریکس ها و وکتور ها.md",
+    "media/Pasted image 20240519005730.png",
+    "media/Pasted image 20240519005653.png",
+    "media/Pasted image 20240519005506.png",
+    "media/Pasted image 20240519005451.png",
+    "media/Pasted image 20240519005224.png",
+    "media/Pasted image 20240519005000.png",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/iframe.html",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/getuid",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/embed.js.download",
@@ -213,17 +200,10 @@
     "media/sync.md",
     "media/saved_resource.md",
     "media/Attachments/saved_resource.png",
-    "media/Attachments/narr.png",
-    "media/Attachments/avatar92 1.jpg",
-    "media/Attachments/avatar92.jpg",
-    "media/Attachments/love-512x512.png",
-    "media/Attachments/upvote-512x512.png",
     "media/saved_resource(1).md",
     "media/pixel.md",
-    "media/Attachments/receive.png",
     "media/iframe.md",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog.md",
-    "Untitled.md",
     "Papers/Machine learning assisted phase and size-controlled synthesis of iron oxides.md",
     "Concept notes/قانون بیز Bayes' rule.md",
     "Concept notes/شروط استفاده از ML.md",
