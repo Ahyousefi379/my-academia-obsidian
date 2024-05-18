@@ -1,4 +1,4 @@
-#### پرامپت تولید پرامت مناسبت برای تولید نوت های literature zettelkasten 
+## پرامپت تولید پرامت مناسبت برای تولید نوت های literature zettelkasten 
 
 ```copy
 
@@ -13,14 +13,14 @@ i want you to generate zettelkasten Literature notes for the specific subject th
 
 ```
 
-#### پرامپت تولید پرامپت تولید MOC
+## پرامپت تولید پرامپت تولید MOC
 
 ```copy
 
 now i want another prompt to generate MOC for learning a specific subject. it should write all the topics of the subject in a Hierarchy-tree like or mindmap like manner. the main topics first and then it should be broken down to smaller components, the components should also break into smaller and so on. the breaking down should go on until a reasonable level. you should also take advantage of markdowns. each topic or component should be wrapped in [[]]
 ```
 
-#### پرامپت تولید zettelkasten literature note
+## پرامپت تولید zettelkasten literature note
 ### 1
 ```copy
 
@@ -78,3 +78,96 @@ Focus the notes on defining, discussing, and covering only the main subject. If 
 
 Design the table of contents in a way that aligns with this note-taking approach, ensuring a smooth transition from the table of contents to the individual notes. The final table of contents should be comprehensive, well-structured, and suitable for learning the subject from the ground up.use the following as the toc to take idea from:
 ```
+
+## code doc
+### 1 
+```
+I have a list of attributes and methods from the NumPy . For each item, please provide a clear and concise explanation, a mathematical explanation using LaTeX, and a small example code. When defining a matrix for the first time in LaTeX, please use the format:
+
+$$
+\mathbf{A} = \begin{vmatrix}
+1 & 2 & 3\\
+5 & 4 & 6
+\end{vmatrix}
+$$
+
+
+Format your response as follows:
+
+1. Provide a brief explanation of what the attribute/method does.
+2. Include a mathematical explanation using LaTeX.
+3. Provide a small example code.
+
+Use this format for each item. For example:
+
+### `ndarray.ndim`
+
+Returns the number of dimensions (axes) of the array.
+
+For a matrix $\mathbf{A}$, $\text{ndim}(\mathbf{A})$ gives the number of dimensions $n$.
+
+python
+
+Copy code
+
+`import numpy as np  # Define a 2-dimensional array (matrix) matrix = np.array([[1, 2, 3], [4, 5, 6]]) print(matrix.ndim)  # Output: 2`
+
+here are the items:
+```
+
+### 2
+```
+
+Act as a Python documentation expert. I will provide you with a list of Python attributes, methods, and concepts. For each item, please provide a clear and concise explanation in the following format:
+
+1. Start with ### followed by the item name for markdown formatting.
+2. Provide a brief explanation of what the attribute/method does.
+3. Include a mathematical explanation using LaTeX between two $ symbols (if needed).
+4. If a table is needed, create it using obsidian formatting
+5. Provide a small example code.
+
+For example:
+
+###  `ndarray.shape`
+
+Returns the dimensions of the array as a tuple.
+
+For a matrix $\mathbf{A} \in \mathbb{R}^{m \times n}$:
+
+$$
+\mathbf{A} = \begin{vmatrix}
+1 & 2 & 3\\
+5 & 4 & 6
+\end{vmatrix}
+$$
+
+$\text{shape}(\mathbf{A}) = (m, n)$.
+
+```python
+# Define a 2-dimensional array (matrix)
+matrix = np.array([[1, 2, 3], [4, 5, 6]])
+print(matrix.shape)  # Output: (2, 3)```
+
+
+When defining a matrix for the first time in LaTeX, please use the format:
+
+$$
+\mathbf{A} = \begin{vmatrix}
+1 & 2 & 3\\
+5 & 4 & 6
+\end{vmatrix}
+$$
+
+when creating a table, use this obsidian foramt:
+| First name | Last name |
+| ---------- | --------- |
+| Max | Planck |
+| Marie | Curie |
+
+
+
+Here is the list of items I need you to document:
+
+[list of Python attributes, methods, and concepts]
+```
+

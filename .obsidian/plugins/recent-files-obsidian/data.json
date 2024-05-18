@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "translate",
-      "path": "prompts/translate.md"
+      "basename": "numPy",
+      "path": "Concept notes/numPy.md"
     },
     {
       "basename": "Untitled",
@@ -15,6 +15,10 @@
     {
       "basename": "prompt for prompts",
       "path": "prompts/prompt for prompts.md"
+    },
+    {
+      "basename": "translate",
+      "path": "prompts/translate.md"
     },
     {
       "basename": "tags",

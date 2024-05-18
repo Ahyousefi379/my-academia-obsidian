@@ -1,54 +1,203 @@
-Here are the important formulas from the document, written in  format with explanations:
 
-1. Gibbs Free Energy:
-$$
-G = U + PV - TS
-$$
-The Gibbs free energy (G) is a thermodynamic potential that is a function of the internal energy (U), pressure (P), volume (V), temperature (T), and entropy (S). It represents the maximum amount of non-expansion work that can be extracted from a closed system at constant temperature and pressure.
+### `np.reshape()`
 
-2. Molar Gibbs Free Energy of Mixing (Ideal Solution):
-$$
-\overline{G}_M^{id} = RT(X_A \ln X_A + X_B \ln X_B)
-$$
-For an ideal binary solution of components A and B, the molar Gibbs free energy of mixing ($\overline{G}_M^{id}$) is given by this expression, where R is the universal gas constant, T is the absolute temperature, and $X_A$ and $X_B$ are the mole fractions of components A and B, respectively.
+Reshapes an array into a new shape without changing its data.
 
-3. Molar Gibbs Free Energy of Mixing (Regular Solution):
-$$
-\overline{G}_M = \overline{G}_M^{id} + \Omega X_A X_B
-$$
-For a regular binary solution, the molar Gibbs free energy of mixing ($\overline{G}_M$) is expressed as the sum of the ideal term ($\overline{G}_M^{id}$) and a non-ideal term ($\Omega X_A X_B$), where $\Omega$ is a constant related to the heat of mixing and is independent of composition and temperature.
+For a matrix $\mathbf{A} \in \mathbb{R}^{m \times n}$:
 
-4. Critical Value of $\Omega$ for Immiscibility:
 $$
-\Omega_c = 2RT
+\mathbf{A} = \begin{vmatrix}
+1 & 2 & 3\\
+4 & 5 & 6
+\end{vmatrix}
 $$
-In a regular solution, the critical value of $\Omega$ above which immiscibility occurs (i.e., phase separation) is given by $\Omega_c = 2RT$.
 
-5. Activities of Components:
-$$
-a_A = X_A \exp\left(\frac{\partial \overline{G}_M}{\partial X_A}\right)
-$$
-$$
-a_B = X_B \exp\left(\frac{\partial \overline{G}_M}{\partial X_B}\right)
-$$
-The activities ($a_A$ and $a_B$) of components A and B in a solution are related to the Gibbs free energy of mixing ($\overline{G}_M$) through these expressions, where $X_A$ and $X_B$ are the mole fractions.
+$\text{reshape}(\mathbf{A}, (m \cdot n, 1))$ reshapes the matrix into a column vector.
 
-6. Criteria for Phase Equilibrium:
-$$
-\mu_A^\alpha = \mu_A^\beta
-$$
-$$
-\mu_B^\alpha = \mu_B^\beta
-$$
-For phases α and β to be in equilibrium, the chemical potentials of components A and B must be equal in both phases, as expressed by these equations.
+```python
+matrix = np.array([[1, 2, 3], [4, 5, 6]])
+reshaped_matrix = np.reshape(matrix, (6, 1))
+print(reshaped_matrix)
+# Output:
+# [[1]
+#  [2]
+#  [3]
+#  [4]
+#  [5]
+#  [6]]
+```
 
-7. Solidus and Liquidus Lines (Ideal Solutions):
-$$
-\ln X_A^{(s)} = \frac{\Delta H_m^A}{R}\left(\frac{1}{T_m^A} - \frac{1}{T}\right)
-$$
-$$
-\ln X_A^{(l)} = \frac{\Delta H_m^A}{R}\left(\frac{1}{T_m^A} - \frac{1}{T}\right) - \frac{\Delta H_m^B}{R}\left(\frac{1}{T_m^B} - \frac{1}{T}\right)
-$$
-For a binary system forming ideal solid and liquid solutions, the solidus and liquidus compositions ($X_A^{(s)}$ and $X_A^{(l)}$, respectively) are given by these equations, where $\Delta H_m^A$ and $\Delta H_m^B$ are the molar heats of melting, $T_m^A$ and $T_m^B$ are the melting temperatures of components A and B, respectively, and T is the temperature of interest.
+### `np.transpose()` or `.T`
 
-These formulas are essential for understanding the Gibbs free energy composition and phase diagrams of binary systems, as they relate to the thermodynamic stability, phase equilibria, and phase boundaries in these systems.
+Transposes a matrix, i.e., swaps the rows and columns.
+
+For a matrix $\mathbf{A} \in \mathbb{R}^{m \times n}$:
+
+$$
+\mathbf{A} = \begin{vmatrix}
+1 & 2 & 3\\
+4 & 5 & 6
+\end{vmatrix}
+$$
+
+$\mathbf{A}^T \in \mathbb{R}^{n \times m}$ is the transposed matrix.
+
+```python
+matrix = np.array([[1, 2, 3], [4, 5, 6]])
+transposed_matrix = np.transpose(matrix)
+# or transposed_matrix = matrix.T
+print(transposed_matrix)
+# Output:
+# [[1 4]
+#  [2 5]
+#  [3 6]]
+```
+
+### `np.concatenate()`
+
+Joins a sequence of arrays along an existing axis.
+
+For matrices $\mathbf{A} \in \mathbb{R}^{m \times n}$ and $\mathbf{B} \in \mathbb{R}^{m \times p}$:
+
+$$
+\mathbf{A} = \begin{vmatrix}
+1 & 2 & 3\\
+4 & 5 & 6
+\end{vmatrix},
+\mathbf{B} = \begin{vmatrix}
+7 & 8\\
+9 & 10
+\end{vmatrix}
+$$
+
+$\text{concatenate}((\mathbf{A}, \mathbf{B}), \text{axis}=1)$ concatenates the matrices horizontally.
+
+```python
+matrix_a = np.array([[1, 2, 3], [4, 5, 6]])
+matrix_b = np.array([[7, 8], [9, 10]])
+concatenated_matrix = np.concatenate((matrix_a, matrix_b), axis=1)
+print(concatenated_matrix)
+# Output:
+# [[ 1  2  3  7  8]
+#  [ 4  5  6  9 10]]
+```
+
+### `np.split()`
+
+Splits an array into multiple sub-arrays along a specified axis.
+
+For a matrix $\mathbf{A} \in \mathbb{R}^{m \times n}$:
+
+$$
+\mathbf{A} = \begin{vmatrix}
+1 & 2 & 3 & 4\\
+5 & 6 & 7 & 8
+\end{vmatrix}
+$$
+
+$\text{split}(\mathbf{A}, 2, \text{axis}=1)$ splits the matrix into two equal parts horizontally.
+
+```python
+matrix = np.array([[1, 2, 3, 4], [5, 6, 7, 8]])
+split_matrices = np.split(matrix, 2, axis=1)
+print(split_matrices)
+# Output:
+# [array([[1, 2],
+#         [5, 6]]),
+#  array([[3, 4],
+#        [7, 8]])]
+```
+
+### `np.hsplit()`
+
+Splits an array into multiple sub-arrays horizontally (column-wise).
+
+For a matrix $\mathbf{A} \in \mathbb{R}^{m \times n}$:
+
+$$
+\mathbf{A} = \begin{vmatrix}
+1 & 2 & 3 & 4\\
+5 & 6 & 7 & 8
+\end{vmatrix}
+$$
+
+$\text{hsplit}(\mathbf{A}, 2)$ splits the matrix into two equal parts horizontally.
+
+```python
+matrix = np.array([[1, 2, 3, 4], [5, 6, 7, 8]])
+hsplit_matrices = np.hsplit(matrix, 2)
+print(hsplit_matrices)
+# Output:
+# [array([[1, 2],
+#         [5, 6]]),
+#  array([[3, 4],
+#         [7, 8]])]
+```
+
+### `np.vsplit()`
+
+Splits an array into multiple sub-arrays vertically (row-wise).
+
+For a matrix $\mathbf{A} \in \mathbb{R}^{m \times n}$:
+
+$$
+\mathbf{A} = \begin{vmatrix}
+1 & 2 & 3 & 4\\
+5 & 6 & 7 & 8
+\end{vmatrix}
+$$
+
+$\text{vsplit}(\mathbf{A}, 2)$ splits the matrix into two equal parts vertically.
+
+```python
+matrix = np.array([[1, 2, 3, 4], [5, 6, 7, 8]])
+vsplit_matrices = np.vsplit(matrix, 2)
+print(vsplit_matrices)
+# Output:
+# [array([[1, 2, 3, 4]]),
+#  array([[5, 6, 7, 8]])]
+```
+
+### `np.squeeze()`
+
+Removes single-dimensional entries from the shape of an array.
+
+For a matrix $\mathbf{A} \in \mathbb{R}^{1 \times n}$:
+
+$$
+\mathbf{A} = \begin{vmatrix}
+1 & 2 & 3 & 4
+\end{vmatrix}
+$$
+
+$\text{squeeze}(\mathbf{A})$ removes the single-dimensional entry, resulting in a 1-D array.
+
+```python
+matrix = np.array([[1, 2, 3, 4]])
+squeezed_matrix = np.squeeze(matrix)
+print(squeezed_matrix)
+# Output:
+# [1 2 3 4]
+```
+
+### `np.expand_dims()`
+
+Expands the shape of an array by inserting a new axis at a specified position.
+
+For a 1-D array $\mathbf{a} \in \mathbb{R}^{n}$:
+
+$$
+\mathbf{a} = \begin{vmatrix}
+1 & 2 & 3 & 4
+\end{vmatrix}
+$$
+
+$\text{expand\_dims}(\mathbf{a}, \text{axis}=0)$ inserts a new axis at position 0, resulting in a matrix.
+
+```python
+array = np.array([1, 2, 3, 4])
+expanded_array = np.expand_dims(array, axis=0)
+print(expanded_array)
+# Output:
+# [[1 2 3 4]]
+```
