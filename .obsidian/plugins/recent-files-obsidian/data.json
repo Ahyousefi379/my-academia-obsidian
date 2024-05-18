@@ -5,12 +5,28 @@
       "path": "Concept notes/Python/Matrix Operations.md"
     },
     {
-      "basename": "ndarray attributes",
-      "path": "Concept notes/Python/ndarray attributes.md"
-    },
-    {
       "basename": "numPy MOC",
       "path": "Concept notes/Python/numPy MOC.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Machine learning assisted phase and size-controlled synthesis of iron oxides",
+      "path": "Papers/Machine learning assisted phase and size-controlled synthesis of iron oxides.md"
+    },
+    {
+      "basename": "قانون بیز Bayes' rule",
+      "path": "Concept notes/قانون بیز Bayes' rule.md"
+    },
+    {
+      "basename": "شروط استفاده از ML",
+      "path": "Concept notes/شروط استفاده از ML.md"
+    },
+    {
+      "basename": "ndarray attributes",
+      "path": "Concept notes/Python/ndarray attributes.md"
     },
     {
       "basename": "Numpy_Python_Cheat_Sheet",
@@ -47,18 +63,6 @@
     {
       "basename": "note taking",
       "path": "prompts/note taking.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "شروط استفاده از ML",
-      "path": "Concept notes/شروط استفاده از ML.md"
-    },
-    {
-      "basename": "قانون بیز Bayes' rule",
-      "path": "Concept notes/قانون بیز Bayes' rule.md"
     },
     {
       "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
@@ -191,14 +195,6 @@
     {
       "basename": "Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74",
       "path": "Papers/Papers files/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.pdf"
-    },
-    {
-      "basename": "Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs",
-      "path": "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md"
-    },
-    {
-      "basename": "Combined experimental and theoretical insight into the drug delivery of nanoporous metal–organic frameworks",
-      "path": "Papers/Combined experimental and theoretical insight into the drug delivery of nanoporous metal–organic frameworks.md"
     }
   ],
   "omittedPaths": [],
