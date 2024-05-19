@@ -5,12 +5,20 @@
       "path": "Concept notes/Python/Pandas.md"
     },
     {
-      "basename": "Matrix Operations",
-      "path": "Concept notes/Python/Matrix Operations.md"
+      "basename": "NumPy",
+      "path": "Concept notes/Python/NumPy.md"
     },
     {
-      "basename": "numPy MOC",
-      "path": "Concept notes/Python/numPy MOC.md"
+      "basename": "Matplotlib",
+      "path": "Concept notes/Python/Matplotlib.md"
+    },
+    {
+      "basename": "python for data science",
+      "path": "Concept notes/Python/python for data science.md"
+    },
+    {
+      "basename": "Matrix Operations",
+      "path": "Concept notes/Python/Matrix Operations.md"
     },
     {
       "basename": "Untitled",
@@ -191,14 +199,6 @@
     {
       "basename": "Applications of machine learning in metal-organic frameworks",
       "path": "Papers/Papers files/Applications of machine learning in metal-organic frameworks.pdf"
-    },
-    {
-      "basename": "Recent progress in nanoscale metal-organic frameworks for drug release and cancer therapy",
-      "path": "Papers/Recent progress in nanoscale metal-organic frameworks for drug release and cancer therapy.md"
-    },
-    {
-      "basename": "Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74",
-      "path": "Papers/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.md"
     }
   ],
   "omittedPaths": [],

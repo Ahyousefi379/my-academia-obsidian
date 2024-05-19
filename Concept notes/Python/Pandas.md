@@ -2,6 +2,8 @@
 [practical data analysis with python](https://wavedatalab.github.io/datawithpython/) 
 cheat sheet: [[Pandas_Cheat_Sheet.pdf]]
 cheat notes: [[Pandas DataFrame Notes_12pages.pdf]]
+[10 minutes to pandas — pandas 2.2.2 documentation (pydata.org)](https://pandas.pydata.org/docs/user_guide/10min.html)
+
 ## MOC
 ### 1. **Importing and Exporting Data**
 - **CSV**

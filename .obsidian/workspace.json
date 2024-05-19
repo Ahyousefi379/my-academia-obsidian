@@ -11,8 +11,13 @@
             "id": "d2e9e002da91fc1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Concept notes/Python/Pandas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concept notes/Python/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Concept notes/Python/Pandas.md"
+              }
             }
           },
           {
@@ -119,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concept notes/Python/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,11 +174,19 @@
   },
   "active": "d2e9e002da91fc1b",
   "lastOpenFiles": [
+    "Concept notes/Python/NumPy.md",
+    "Concept notes/Python/Matplotlib.md",
+    "Concept notes/Python/python for data science.md",
+    "media/matplotlib cheatsheets.pdf",
+    "media/Pasted image 20240519145016.png",
+    "media/Pasted image 20240519145002.png",
+    "media/Pasted image 20240519144949.png",
+    "media/Pasted image 20240519144918.png",
+    "media/Pasted image 20240519144927.png",
     "Concept notes/Python/Pandas.md",
     "media/Pandas DataFrame Notes_12pages.pdf",
     "media/Pandas_Cheat_Sheet.pdf",
     "Concept notes/Python/Matrix Operations.md",
-    "Concept notes/Python/numPy MOC.md",
     "Untitled.md",
     "Concept notes/انواع ضرب ماتریکس ها و وکتور ها.md",
     "media/Pasted image 20240519005730.png",
@@ -177,7 +194,6 @@
     "media/Pasted image 20240519005506.png",
     "media/Pasted image 20240519005451.png",
     "media/Pasted image 20240519005224.png",
-    "media/Pasted image 20240519005000.png",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/iframe.html",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/getuid",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/embed.js.download",
@@ -185,13 +201,8 @@
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/common.bundle.a59842d31742a609955eb402e17bb0c3.js.download",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/cm",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/cb=gapi.loaded_0",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog.html",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/upvote-512x512.png",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/noavatar92.png",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/love-512x512.png",
     "media/sync.md",
     "media/saved_resource.md",
-    "media/Attachments/saved_resource.png",
     "media/saved_resource(1).md",
     "media/pixel.md",
     "media/iframe.md",
@@ -209,7 +220,6 @@
     "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
     "Concept notes/امید ریاضی mathematical expectation.md",
     "prompts/prompt for prompts.md",
-    "prompts/translate.md",
     "Untitled.canvas"
   ]
 }
