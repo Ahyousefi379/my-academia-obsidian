@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "55e6b74b1fd4a378",
+        "id": "b927f96c3f7cd9bf",
         "type": "tabs",
         "children": [
           {
-            "id": "a8e1efb8c19383b1",
+            "id": "d2e9e002da91fc1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concept notes/Python/Matrix Operations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concept notes/Python/Matrix Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Concept notes/Python/Matrix Operations.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concept notes/Python/Matrix Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +163,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a8e1efb8c19383b1",
+  "active": "d2e9e002da91fc1b",
   "lastOpenFiles": [
+    "Concept notes/Python/Pandas.md",
+    "media/Pandas DataFrame Notes_12pages.pdf",
+    "media/Pandas_Cheat_Sheet.pdf",
     "Concept notes/Python/Matrix Operations.md",
     "Concept notes/Python/numPy MOC.md",
     "Untitled.md",
@@ -193,8 +187,6 @@
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/cb=gapi.loaded_0",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog.html",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/upvote-512x512.png",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/sync.html",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/sdk.js.download",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/noavatar92.png",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/love-512x512.png",
     "media/sync.md",
@@ -218,8 +210,6 @@
     "Concept notes/امید ریاضی mathematical expectation.md",
     "prompts/prompt for prompts.md",
     "prompts/translate.md",
-    "link_to_figure_1.md",
-    "tags.md",
     "Untitled.canvas"
   ]
 }

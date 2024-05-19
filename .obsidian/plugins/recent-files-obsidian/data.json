@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pandas",
+      "path": "Concept notes/Python/Pandas.md"
+    },
+    {
       "basename": "Matrix Operations",
       "path": "Concept notes/Python/Matrix Operations.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74",
       "path": "Papers/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.md"
-    },
-    {
-      "basename": "Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74",
-      "path": "Papers/Papers files/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.pdf"
     }
   ],
   "omittedPaths": [],
