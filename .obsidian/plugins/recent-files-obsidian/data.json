@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ML reading list",
+      "path": "Concept notes/Python/ML reading list.md"
+    },
+    {
+      "basename": "plotting book",
+      "path": "Concept notes/Python/plotting book.md"
+    },
+    {
+      "basename": "temp note",
+      "path": "temp note.md"
+    },
+    {
       "basename": "Pandas",
       "path": "Concept notes/Python/Pandas.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "Matrix Operations",
       "path": "Concept notes/Python/Matrix Operations.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "انواع ضرب ماتریکس ها و وکتور ها",
@@ -121,10 +129,6 @@
       "path": "Books/reading List.md"
     },
     {
-      "basename": "temp",
-      "path": "temp.md"
-    },
-    {
       "basename": "To-Do",
       "path": "To-Do.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Applications of machine learning in metal-organic frameworks",
       "path": "Papers/Applications of machine learning in metal-organic frameworks.md"
-    },
-    {
-      "basename": "Applications of machine learning in metal-organic frameworks",
-      "path": "Papers/Papers files/Applications of machine learning in metal-organic frameworks.pdf"
     }
   ],
   "omittedPaths": [],
