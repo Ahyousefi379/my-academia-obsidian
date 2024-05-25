@@ -5,6 +5,18 @@
       "path": "Goals/ML project - EEG signals.md"
     },
     {
+      "basename": "komssi2004",
+      "path": "media/komssi2004.pdf"
+    },
+    {
+      "basename": "hauk2004",
+      "path": "media/hauk2004.pdf"
+    },
+    {
+      "basename": "ramoser2000",
+      "path": "media/ramoser2000.pdf"
+    },
+    {
       "basename": "translate",
       "path": "prompts/translate.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Bone marrow-derived mesenchymal stem cells laden novel thermo-sensitive hydrogel for the management of severe skin wound healing",
       "path": "Papers/Bone marrow-derived mesenchymal stem cells laden novel thermo-sensitive hydrogel for the management of severe skin wound healing.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "راهنما",
-      "path": "راهنما.md"
-    },
-    {
-      "basename": "Ideas",
-      "path": "Ideas.md"
     }
   ],
   "omittedPaths": [],
