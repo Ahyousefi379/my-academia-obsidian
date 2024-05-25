@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -174,6 +175,12 @@
   },
   "active": "a8ad8e77e020feda",
   "lastOpenFiles": [
+    "media/singh2021.pdf",
+    "media/mti-07-00095.pdf",
+    "media/frai-05-1072801.pdf",
+    "media/0df3a0fe92c90ff056a2d1199ed980b6.pdf",
+    "media/ISRN.NEUROSCIENCE2014-730218.pdf",
+    "media/wazlan2014.pdf",
     "media/komssi2004.pdf",
     "Goals/ML project - EEG signals.md",
     "media/hauk2004.pdf",
@@ -181,9 +188,6 @@
     "media/ramoser2000.pdf",
     "media/independent-component-analysis-of-eeg-signals.pdf",
     "media/tsuchimoto2021.pdf",
-    "media/1-s2.0-S0030402613012473-main.pdf",
-    "media/1702.02914v1.pdf",
-    "media/2014_Materka_Robust-BCI.pdf",
     "prompts/translate.md",
     "temp note.md",
     "Concept notes/Python/Pandas.md",
@@ -193,13 +197,11 @@
     "Concept notes/Python/NumPy.md",
     "Concept notes/Python/Matplotlib.md",
     "Concept notes/Python/python for data science.md",
-    "media/matplotlib cheatsheets.pdf",
     "media/Pasted image 20240519145016.png",
     "media/Pasted image 20240519145002.png",
     "media/Pasted image 20240519144949.png",
     "media/Pasted image 20240519144918.png",
     "media/Pasted image 20240519144927.png",
-    "media/Pandas DataFrame Notes_12pages.pdf",
     "Concept notes/Python/Matrix Operations.md",
     "Concept notes/انواع ضرب ماتریکس ها و وکتور ها.md",
     "media/Pasted image 20240519005730.png",

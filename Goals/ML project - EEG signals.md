@@ -11,10 +11,9 @@
 # چالش های تصویر سازی حرکتی
 شناسایی و توضیح چالش های اصلی در تحقیق و کاربرد
 بررسی راه حل های بالقوه و تحقیقات جاری برای غلبه بر این چالش ها
+[[mti-07-00095.pdf]]
+[[singh2021.pdf]]
 
-
-
-- [ ]  
 
 
 
@@ -273,11 +272,15 @@ The Laplacian filter plays a vital role in EEG signal preprocessing by enhancing
 
 # تکنیک های مختلف استخراج ویژگی در تجزیه و تحلیل سیگنال های eeg با تمرکز بر CSP
 
+کلی:
+ [[wazlan2014.pdf]]
+[[ISRN.NEUROSCIENCE2014-730218.pdf]]
+
+CSP
 [[1-s2.0-S0030402613012473-main.pdf]]
+[[frai-05-1072801.pdf]]
 
-- [ ]  
-
-
+[[0df3a0fe92c90ff056a2d1199ed980b6.pdf]]
 
 ---
 
