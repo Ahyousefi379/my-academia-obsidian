@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concept notes/Python/ML reading list.md",
+                "file": "Goals/ML project - EEG signals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concept notes/Python/ML reading list.md",
+                "file": "Goals/ML project - EEG signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concept notes/Python/ML reading list.md"
+                "file": "Goals/ML project - EEG signals.md"
               }
             }
           },
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concept notes/Python/ML reading list.md",
+                "file": "Goals/ML project - EEG signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,11 +175,19 @@
   },
   "active": "d2e9e002da91fc1b",
   "lastOpenFiles": [
-    "Concept notes/Python/plotting book.md",
-    "Concept notes/Python/ML reading list.md",
+    "media/independent-component-analysis-of-eeg-signals.pdf",
+    "media/tsuchimoto2021.pdf",
+    "media/1-s2.0-S0030402613012473-main.pdf",
+    "media/1702.02914v1.pdf",
+    "media/2014_Materka_Robust-BCI.pdf",
+    "media/ramoser2000.pdf",
+    "prompts/translate.md",
+    "Goals/ML project - EEG signals.md",
     "temp note.md",
-    "temp.md",
     "Concept notes/Python/Pandas.md",
+    "Concept notes/Python/ML reading list.md",
+    "Concept notes/Python/plotting book.md",
+    "temp.md",
     "Concept notes/Python/NumPy.md",
     "Concept notes/Python/Matplotlib.md",
     "Concept notes/Python/python for data science.md",
@@ -199,11 +208,6 @@
     "media/Pasted image 20240519005224.png",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/iframe.html",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/getuid",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/embed.js.download",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/config.js.download",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/common.bundle.a59842d31742a609955eb402e17bb0c3.js.download",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/cm",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/cb=gapi.loaded_0",
     "media/sync.md",
     "media/saved_resource.md",
     "media/saved_resource(1).md",
@@ -217,9 +221,6 @@
     "Concept notes/Python/Array Indexing and Slicing.md",
     "Concept notes/Python/Mathematical Operations.md",
     "Concept notes/Python/Array Creation.md",
-    "Concept notes/Python/Array Manipulation.md",
-    "Concept notes/Python/Random Number Generation.md",
-    "prompts/note taking.md",
     "Untitled.canvas"
   ]
 }

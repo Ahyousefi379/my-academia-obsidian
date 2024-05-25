@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "ML reading list",
-      "path": "Concept notes/Python/ML reading list.md"
+      "basename": "ML project - EEG signals",
+      "path": "Goals/ML project - EEG signals.md"
     },
     {
-      "basename": "plotting book",
-      "path": "Concept notes/Python/plotting book.md"
+      "basename": "translate",
+      "path": "prompts/translate.md"
     },
     {
       "basename": "temp note",
@@ -15,6 +15,14 @@
     {
       "basename": "Pandas",
       "path": "Concept notes/Python/Pandas.md"
+    },
+    {
+      "basename": "ML reading list",
+      "path": "Concept notes/Python/ML reading list.md"
+    },
+    {
+      "basename": "plotting book",
+      "path": "Concept notes/Python/plotting book.md"
     },
     {
       "basename": "NumPy",
@@ -95,10 +103,6 @@
     {
       "basename": "prompt for prompts",
       "path": "prompts/prompt for prompts.md"
-    },
-    {
-      "basename": "translate",
-      "path": "prompts/translate.md"
     },
     {
       "basename": "tags",
@@ -195,10 +199,6 @@
     {
       "basename": "Ideas",
       "path": "Ideas.md"
-    },
-    {
-      "basename": "Applications of machine learning in metal-organic frameworks",
-      "path": "Papers/Applications of machine learning in metal-organic frameworks.md"
     }
   ],
   "omittedPaths": [],
