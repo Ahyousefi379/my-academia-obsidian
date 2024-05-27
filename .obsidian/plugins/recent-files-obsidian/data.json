@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
+      "path": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
+    },
+    {
+      "basename": "automatic data extraction",
+      "path": "Goals/automatic data extraction.md"
+    },
+    {
+      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
+      "path": "Papers/Papers files/Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf"
+    },
+    {
+      "basename": "Metal-Organic Framework (MOF) Epoxy Coatings A Review",
+      "path": "Papers/Metal-Organic Framework (MOF) Epoxy Coatings A Review.md"
+    },
+    {
+      "basename": "ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing",
+      "path": "Papers/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md"
+    },
+    {
+      "basename": "Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds",
+      "path": "Papers/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds.md"
+    },
+    {
+      "basename": "تحقیق درباره ML و MOF",
+      "path": "Goals/تحقیق درباره ML و MOF.md"
+    },
+    {
+      "basename": "Automating data extraction in systematic reviews a systematic review",
+      "path": "Papers/Automating data extraction in systematic reviews a systematic review.md"
+    },
+    {
+      "basename": "سمینار مهندسی بافت",
+      "path": "Goals/سمینار مهندسی بافت.md"
+    },
+    {
+      "basename": "ارائه استاد مشاور ML",
+      "path": "Goals/ارائه استاد مشاور ML.md"
+    },
+    {
+      "basename": "بررسی MOF و CQD برای پروژه ارشد",
+      "path": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
+    },
+    {
+      "basename": "بررسی موضوع مناسب برای تحقیق ارشد",
+      "path": "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md"
+    },
+    {
+      "basename": "reading list",
+      "path": "Papers/reading list.md"
+    },
+    {
+      "basename": "Applications of machine learning in metal-organic frameworks",
+      "path": "Papers/Applications of machine learning in metal-organic frameworks.md"
+    },
+    {
+      "basename": "Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74",
+      "path": "Papers/Papers files/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.pdf"
+    },
+    {
+      "basename": "Applications of machine learning in metal-organic frameworks",
+      "path": "Papers/Papers files/Applications of machine learning in metal-organic frameworks.pdf"
+    },
+    {
+      "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
+      "path": "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md"
+    },
+    {
+      "basename": "Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs",
+      "path": "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md"
+    },
+    {
       "basename": "ML project - EEG signals",
       "path": "Goals/ML project - EEG signals.md"
     },
@@ -109,10 +181,6 @@
       "path": "prompts/note taking.md"
     },
     {
-      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
-      "path": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
-    },
-    {
       "basename": "prompt for prompts",
       "path": "prompts/prompt for prompts.md"
     },
@@ -125,80 +193,12 @@
       "path": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf"
     },
     {
-      "basename": "ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing",
-      "path": "Papers/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md"
-    },
-    {
       "basename": "Automating data extraction in systematic reviews a systematic review",
       "path": "Papers/Papers files/Automating data extraction in systematic reviews a systematic review.pdf"
     },
     {
-      "basename": "Automating data extraction in systematic reviews a systematic review",
-      "path": "Papers/Automating data extraction in systematic reviews a systematic review.md"
-    },
-    {
-      "basename": "automatic data extraction",
-      "path": "Papers/automatic data extraction.md"
-    },
-    {
       "basename": "reading List",
       "path": "Books/reading List.md"
-    },
-    {
-      "basename": "To-Do",
-      "path": "To-Do.md"
-    },
-    {
-      "basename": "تحقیق درباره ML و MOF",
-      "path": "Goals/تحقیق درباره ML و MOF.md"
-    },
-    {
-      "basename": "Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach",
-      "path": "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
-    },
-    {
-      "basename": "Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis",
-      "path": "Papers/Papers files/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.pdf"
-    },
-    {
-      "basename": "Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis",
-      "path": "Papers/Advancing Healthcare Synergizing Biosensors and Machine Learning for Early Cancer Diagnosis.md"
-    },
-    {
-      "basename": "Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine",
-      "path": "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf"
-    },
-    {
-      "basename": "Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids",
-      "path": "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md"
-    },
-    {
-      "basename": "سمینار مهندسی بافت",
-      "path": "Goals/سمینار مهندسی بافت.md"
-    },
-    {
-      "basename": "Research progress related to thermosensitive hydrogel dressings in wound healing a review",
-      "path": "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md"
-    },
-    {
-      "basename": "Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds",
-      "path": "Papers/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds.md"
-    },
-    {
-      "basename": "Mussel-inspired adhesive and polypeptide-based antibacterial thermo-sensitive hydroxybutyl chitosan hydrogel as BMSCs 3D culture matrix for wound healing",
-      "path": "Papers/Mussel-inspired adhesive and polypeptide-based antibacterial thermo-sensitive hydroxybutyl chitosan hydrogel as BMSCs 3D culture matrix for wound healing.md"
-    },
-    {
-      "basename": "Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells",
-      "path": "Papers/Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells.md"
-    },
-    {
-      "basename": "Thermosensitive Injectable ChitosanCollagenβ-Glycerophosphate Composite Hydrogels for Enhancing Wound Healing by Encapsulating Mesenchymal Stem Cell Spheroids",
-      "path": "Papers/Papers files/Thermosensitive Injectable ChitosanCollagenβ-Glycerophosphate Composite Hydrogels for Enhancing Wound Healing by Encapsulating Mesenchymal Stem Cell Spheroids.pdf"
-    },
-    {
-      "basename": "Bone marrow-derived mesenchymal stem cells laden novel thermo-sensitive hydrogel for the management of severe skin wound healing",
-      "path": "Papers/Bone marrow-derived mesenchymal stem cells laden novel thermo-sensitive hydrogel for the management of severe skin wound healing.md"
     }
   ],
   "omittedPaths": [],

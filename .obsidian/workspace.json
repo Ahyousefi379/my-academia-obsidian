@@ -13,14 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/ML project - EEG signals.md",
+                "file": "Goals/ارائه استاد مشاور ML.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6dd7170b6995fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deef87bf9cbee018",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/Papers files/Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/ML project - EEG signals.md",
+                "file": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/ML project - EEG signals.md"
+                "file": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
               }
             }
           },
@@ -127,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/ML project - EEG signals.md",
+                "file": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,21 +196,35 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a8ad8e77e020feda",
+  "active": "f6dd7170b6995fb1",
   "lastOpenFiles": [
+    "Goals/automatic data extraction.md",
+    "Papers/Papers files/Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf",
+    "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
+    "Papers/Metal-Organic Framework (MOF) Epoxy Coatings A Review.md",
+    "Papers/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md",
+    "Papers/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds.md",
+    "Goals/تحقیق درباره ML و MOF.md",
+    "Papers/Automating data extraction in systematic reviews a systematic review.md",
+    "Goals/سمینار مهندسی بافت.md",
+    "Goals/ارائه استاد مشاور ML.md",
+    "Goals/بررسی MOF و CQD برای پروژه ارشد.md",
+    "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md",
+    "Papers/reading list.md",
+    "Papers/Applications of machine learning in metal-organic frameworks.md",
+    "Papers/Papers files/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.pdf",
+    "Papers/Papers files/Applications of machine learning in metal-organic frameworks.pdf",
+    "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
+    "media/~$bioengineering-1838678 - Supplementary Material(s2).xlsx",
+    "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md",
+    "Papers/Papers files/Metal-Organic Framework (MOF)Epoxy Coatings A Review.pdf",
+    "Papers/Papers files/materials-13-02881-v2.pdf",
+    "Papers/Metal-Organic Framework (MOF)",
+    "Goals/ML project - EEG signals.md",
     "media/singh2021.pdf",
     "media/mti-07-00095.pdf",
     "media/frai-05-1072801.pdf",
-    "media/0df3a0fe92c90ff056a2d1199ed980b6.pdf",
-    "media/ISRN.NEUROSCIENCE2014-730218.pdf",
-    "media/wazlan2014.pdf",
-    "media/komssi2004.pdf",
-    "Goals/ML project - EEG signals.md",
-    "media/hauk2004.pdf",
     "Goals/ramoser2000.md",
-    "media/ramoser2000.pdf",
-    "media/independent-component-analysis-of-eeg-signals.pdf",
-    "media/tsuchimoto2021.pdf",
     "prompts/translate.md",
     "temp note.md",
     "Concept notes/Python/Pandas.md",
@@ -195,31 +233,16 @@
     "temp.md",
     "Concept notes/Python/NumPy.md",
     "Concept notes/Python/Matplotlib.md",
-    "Concept notes/Python/python for data science.md",
     "media/Pasted image 20240519145016.png",
     "media/Pasted image 20240519145002.png",
     "media/Pasted image 20240519144949.png",
     "media/Pasted image 20240519144918.png",
     "media/Pasted image 20240519144927.png",
-    "Concept notes/Python/Matrix Operations.md",
-    "Concept notes/انواع ضرب ماتریکس ها و وکتور ها.md",
     "media/Pasted image 20240519005730.png",
     "media/Pasted image 20240519005653.png",
     "media/Pasted image 20240519005506.png",
     "media/Pasted image 20240519005451.png",
     "media/Pasted image 20240519005224.png",
-    "media/sync.md",
-    "media/saved_resource.md",
-    "media/saved_resource(1).md",
-    "media/pixel.md",
-    "media/iframe.md",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog.md",
-    "Papers/Machine learning assisted phase and size-controlled synthesis of iron oxides.md",
-    "Concept notes/قانون بیز Bayes' rule.md",
-    "Concept notes/شروط استفاده از ML.md",
-    "Concept notes/Python/ndarray attributes.md",
-    "Concept notes/Python/Array Indexing and Slicing.md",
-    "Concept notes/Python/Mathematical Operations.md",
     "Untitled.canvas"
   ]
 }
