@@ -40,7 +40,7 @@ The Common Average Reference (CAR) is a spatial filtering technique widely used 
 
 ##### Theory Behind CAR
 
-The theoretical foundation of CAR lies in its ability to serve as a reference point for EEG signals. Each electrode records not only the potential from the brain area beneath it but also a common activity present across all electrodes. The CAR filter computes the average potential of all electrodes and subtracts this average from each electrode’s recorded potential. Mathematically, if \( x_i(t) \) is the potential at the \( i \)-th electrode at time \( t \), and \( x_{CAR_i}(t) \) is the CAR-filtered output, the formula is:
+The theoretical foundation of CAR lies in its ability to serve as a reference point for EEG signals. Each electrode records not only the potential from the brain area beneath it but also a common activity present across all electrodes. The CAR filter computes the average potential of all electrodes and subtracts this average from each electrode’s recorded potential. Mathematically, if $\( x_i(t) \)$is the potential at the \( i \)-th electrode at time \( t \), and \( x_{CAR_i}(t) \) is the CAR-filtered output, the formula is:
 
 \[ x_{CAR_i}(t) = x_i(t) - \frac{1}{C} \sum_{j=1}^{C} x_j(t) \]
 
@@ -170,9 +170,9 @@ The fundamental theory of MNE is grounded in solving the inverse problem of iden
 
 Mathematically, the MNE approach involves constructing a solution that minimizes the L2 norm of the current distribution. This involves solving the equation:
 
-\[ \hat{J} = \min_J ||J||_2 \quad \text{subject to} \quad V = LJ + \epsilon \]
+$\[ \hat{J} = \min_J ||J||_2 \quad \text{subject to} \quad V = LJ + \epsilon \]$
 
-where \( \hat{J} \) is the estimated current distribution, \( V \) is the observed EEG/MEG data, \( L \) is the lead field matrix, and \( \epsilon \) represents noise【7:3†source】【7:4†source】. Regularization techniques, such as Tikhonov regularization, are often employed to stabilize the solution and handle noise effectively.
+where \( \hat{J} \) is the estimated current distribution, \( V \) is the observed EEG/MEG data, \( L \) is the lead field matrix, and \( \epsilon \) represents noise【7:3†source】【7:4†source】. Regularization techniques, such as Tikhonov regularization, are often employed to stabilize the solution andd
 
 #### Applications of MNE in EEG
 MNE is primarily used in EEG for source localization, helping to identify the regions of the brain that generate specific electrical activities. It has been applied in various contexts, including:

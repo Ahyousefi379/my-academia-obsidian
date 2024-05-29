@@ -13,38 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/ارائه استاد مشاور ML.md",
+                "file": "Goals/ML project - EEG signals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f6dd7170b6995fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "deef87bf9cbee018",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Papers/Papers files/Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -118,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
+                "file": "Goals/ML project - EEG signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
+                "file": "Goals/ML project - EEG signals.md"
               }
             }
           },
@@ -151,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
+                "file": "Goals/ML project - EEG signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,43 +173,43 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f6dd7170b6995fb1",
+  "active": "a8ad8e77e020feda",
   "lastOpenFiles": [
-    "Goals/automatic data extraction.md",
+    "media/ISRN.NEUROSCIENCE2014-730218.pdf",
+    "media/frai-05-1072801.pdf",
+    "media/wazlan2014.pdf",
+    "Goals/ML project - EEG signals.md",
+    "media/tsuchimoto2021.pdf",
+    "media/1-s2.0-S0030402613012473-main.pdf",
+    "media/komssi2004.pdf",
+    "media/hauk2004.pdf",
+    "media/independent-component-analysis-of-eeg-signals.pdf",
+    "Goals/ارائه استاد مشاور ML.md",
     "Papers/Papers files/Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf",
+    "temp note.md",
+    "tags.md",
     "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
+    "Goals/automatic data extraction.md",
     "Papers/Metal-Organic Framework (MOF) Epoxy Coatings A Review.md",
     "Papers/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md",
     "Papers/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds.md",
     "Goals/تحقیق درباره ML و MOF.md",
     "Papers/Automating data extraction in systematic reviews a systematic review.md",
     "Goals/سمینار مهندسی بافت.md",
-    "Goals/ارائه استاد مشاور ML.md",
     "Goals/بررسی MOF و CQD برای پروژه ارشد.md",
     "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md",
     "Papers/reading list.md",
     "Papers/Applications of machine learning in metal-organic frameworks.md",
     "Papers/Papers files/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.pdf",
-    "Papers/Papers files/Applications of machine learning in metal-organic frameworks.pdf",
     "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
-    "media/~$bioengineering-1838678 - Supplementary Material(s2).xlsx",
     "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md",
-    "Papers/Papers files/Metal-Organic Framework (MOF)Epoxy Coatings A Review.pdf",
-    "Papers/Papers files/materials-13-02881-v2.pdf",
-    "Papers/Metal-Organic Framework (MOF)",
-    "Goals/ML project - EEG signals.md",
-    "media/singh2021.pdf",
-    "media/mti-07-00095.pdf",
-    "media/frai-05-1072801.pdf",
     "Goals/ramoser2000.md",
     "prompts/translate.md",
-    "temp note.md",
     "Concept notes/Python/Pandas.md",
     "Concept notes/Python/ML reading list.md",
     "Concept notes/Python/plotting book.md",
     "temp.md",
     "Concept notes/Python/NumPy.md",
-    "Concept notes/Python/Matplotlib.md",
     "media/Pasted image 20240519145016.png",
     "media/Pasted image 20240519145002.png",
     "media/Pasted image 20240519144949.png",

@@ -1,16 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "ML project - EEG signals",
+      "path": "Goals/ML project - EEG signals.md"
+    },
+    {
+      "basename": "ISRN.NEUROSCIENCE2014-730218",
+      "path": "media/ISRN.NEUROSCIENCE2014-730218.pdf"
+    },
+    {
+      "basename": "frai-05-1072801",
+      "path": "media/frai-05-1072801.pdf"
+    },
+    {
+      "basename": "wazlan2014",
+      "path": "media/wazlan2014.pdf"
+    },
+    {
+      "basename": "tsuchimoto2021",
+      "path": "media/tsuchimoto2021.pdf"
+    },
+    {
+      "basename": "1-s2.0-S0030402613012473-main",
+      "path": "media/1-s2.0-S0030402613012473-main.pdf"
+    },
+    {
+      "basename": "komssi2004",
+      "path": "media/komssi2004.pdf"
+    },
+    {
+      "basename": "hauk2004",
+      "path": "media/hauk2004.pdf"
+    },
+    {
+      "basename": "independent-component-analysis-of-eeg-signals",
+      "path": "media/independent-component-analysis-of-eeg-signals.pdf"
+    },
+    {
+      "basename": "ارائه استاد مشاور ML",
+      "path": "Goals/ارائه استاد مشاور ML.md"
+    },
+    {
+      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
+      "path": "Papers/Papers files/Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf"
+    },
+    {
+      "basename": "temp note",
+      "path": "temp note.md"
+    },
+    {
+      "basename": "tags",
+      "path": "tags.md"
+    },
+    {
       "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
       "path": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
     },
     {
       "basename": "automatic data extraction",
       "path": "Goals/automatic data extraction.md"
-    },
-    {
-      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
-      "path": "Papers/Papers files/Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf"
     },
     {
       "basename": "Metal-Organic Framework (MOF) Epoxy Coatings A Review",
@@ -35,10 +83,6 @@
     {
       "basename": "سمینار مهندسی بافت",
       "path": "Goals/سمینار مهندسی بافت.md"
-    },
-    {
-      "basename": "ارائه استاد مشاور ML",
-      "path": "Goals/ارائه استاد مشاور ML.md"
     },
     {
       "basename": "بررسی MOF و CQD برای پروژه ارشد",
@@ -73,28 +117,12 @@
       "path": "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md"
     },
     {
-      "basename": "ML project - EEG signals",
-      "path": "Goals/ML project - EEG signals.md"
-    },
-    {
-      "basename": "komssi2004",
-      "path": "media/komssi2004.pdf"
-    },
-    {
-      "basename": "hauk2004",
-      "path": "media/hauk2004.pdf"
-    },
-    {
       "basename": "ramoser2000",
       "path": "media/ramoser2000.pdf"
     },
     {
       "basename": "translate",
       "path": "prompts/translate.md"
-    },
-    {
-      "basename": "temp note",
-      "path": "temp note.md"
     },
     {
       "basename": "Pandas",
@@ -171,34 +199,6 @@
     {
       "basename": "Array Manipulation",
       "path": "Concept notes/Python/Array Manipulation.md"
-    },
-    {
-      "basename": "Random Number Generation",
-      "path": "Concept notes/Python/Random Number Generation.md"
-    },
-    {
-      "basename": "note taking",
-      "path": "prompts/note taking.md"
-    },
-    {
-      "basename": "prompt for prompts",
-      "path": "prompts/prompt for prompts.md"
-    },
-    {
-      "basename": "tags",
-      "path": "tags.md"
-    },
-    {
-      "basename": "ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing",
-      "path": "Papers/Papers files/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.pdf"
-    },
-    {
-      "basename": "Automating data extraction in systematic reviews a systematic review",
-      "path": "Papers/Papers files/Automating data extraction in systematic reviews a systematic review.pdf"
-    },
-    {
-      "basename": "reading List",
-      "path": "Books/reading List.md"
     }
   ],
   "omittedPaths": [],
