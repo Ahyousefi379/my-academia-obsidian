@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "سمینار مهندسی بافت",
+      "path": "Goals/سمینار مهندسی بافت.md"
+    },
+    {
+      "basename": "Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells",
+      "path": "Papers/Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells.md"
+    },
+    {
+      "basename": "Research progress related to thermosensitive hydrogel dressings in wound healing a review",
+      "path": "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md"
+    },
+    {
+      "basename": "Research progress related to thermosensitive hydrogel dressings in wound healing a review",
+      "path": "Papers/Papers files/Research progress related to thermosensitive hydrogel dressings in wound healing a review.pdf"
+    },
+    {
       "basename": "ML project - EEG signals",
       "path": "Goals/ML project - EEG signals.md"
     },
@@ -79,10 +95,6 @@
     {
       "basename": "Automating data extraction in systematic reviews a systematic review",
       "path": "Papers/Automating data extraction in systematic reviews a systematic review.md"
-    },
-    {
-      "basename": "سمینار مهندسی بافت",
-      "path": "Goals/سمینار مهندسی بافت.md"
     },
     {
       "basename": "بررسی MOF و CQD برای پروژه ارشد",
@@ -187,18 +199,6 @@
     {
       "basename": "Array Indexing and Slicing",
       "path": "Concept notes/Python/Array Indexing and Slicing.md"
-    },
-    {
-      "basename": "Mathematical Operations",
-      "path": "Concept notes/Python/Mathematical Operations.md"
-    },
-    {
-      "basename": "Array Creation",
-      "path": "Concept notes/Python/Array Creation.md"
-    },
-    {
-      "basename": "Array Manipulation",
-      "path": "Concept notes/Python/Array Manipulation.md"
     }
   ],
   "omittedPaths": [],
