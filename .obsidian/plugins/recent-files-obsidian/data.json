@@ -5,12 +5,16 @@
       "path": "Goals/سمینار مهندسی بافت.md"
     },
     {
-      "basename": "Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells",
-      "path": "Papers/Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells.md"
+      "basename": "Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing",
+      "path": "Goals/Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing.md"
     },
     {
       "basename": "Research progress related to thermosensitive hydrogel dressings in wound healing a review",
       "path": "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md"
+    },
+    {
+      "basename": "Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells",
+      "path": "Papers/Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells.md"
     },
     {
       "basename": "Research progress related to thermosensitive hydrogel dressings in wound healing a review",
@@ -195,10 +199,6 @@
     {
       "basename": "bioengineering-1838678 - Supplemental Material(s1)",
       "path": "media/bioengineering-1838678 - Supplemental Material(s1).pdf"
-    },
-    {
-      "basename": "Array Indexing and Slicing",
-      "path": "Concept notes/Python/Array Indexing and Slicing.md"
     }
   ],
   "omittedPaths": [],
