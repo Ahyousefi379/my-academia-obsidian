@@ -1,12 +1,12 @@
 #numpy #python #machine_learning 
 
-[[ndarray attributes]]
-[[Array Creation]]
-[[Random Number Generation]]
-[[Matrix Operations]]
-[[Array Indexing and Slicing]]
-[[Mathematical Operations]]
-[[Array Manipulation]]
+[[numpy  ndarray attributes]]
+[[numpy Array Creation]]
+[[numpy Random Number Generation]]
+[[numpy Matrix Operations]]
+[[numpy Array Indexing and Slicing]]
+[[numpy Mathematical Operations]]
+[[numpy Array Manipulation]]
 
 
 user guide: [[numpy-user.pdf]]

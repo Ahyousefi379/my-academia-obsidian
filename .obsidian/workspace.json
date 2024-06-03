@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2f51ea4a0069af3",
+        "id": "642ece38ffd3a55e",
         "type": "tabs",
         "children": [
           {
-            "id": "cccabca49d88b847",
+            "id": "aa02405a7e2643c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/سمینار مهندسی بافت.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a2a3c67ed0be592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md",
+                "file": "Concept notes/Python/tips.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -108,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/سمینار مهندسی بافت.md",
+                "file": "Concept notes/Python/tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/سمینار مهندسی بافت.md"
+                "file": "Concept notes/Python/tips.md"
               }
             }
           },
@@ -141,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/سمینار مهندسی بافت.md",
+                "file": "Concept notes/Python/tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,8 +172,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cccabca49d88b847",
+  "active": "aa02405a7e2643c8",
   "lastOpenFiles": [
+    "Concept notes/Python/pandas dataframe attributes.md",
+    "Concept notes/Python/tips.md",
+    "Concept notes/Python/numpy Array Manipulation.md",
+    "Concept notes/Python/numpy Random Number Generation.md",
+    "Concept notes/Python/numpy Matrix Operations.md",
+    "Concept notes/Python/numpy  ndarray attributes.md",
+    "Concept notes/Python/numpy Array Indexing and Slicing.md",
+    "Concept notes/Python/numpy Mathematical Operations.md",
+    "Concept notes/Python/numpy Array Creation.md",
+    "Concept notes/Python/python for data science.md",
+    "Concept notes/Python/plotting book.md",
+    "Concept notes/Python/Pandas.md",
+    "Concept notes/Python/scikit learn mooc.md",
+    "media/adult-census.csv",
+    "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md",
+    "Goals/سمینار مهندسی بافت.md",
     "presentations/tissue engineering presentation.pdf",
     "presentations/msoACDC.tmp",
     "presentations/msoA2E8.tmp",
@@ -195,13 +197,9 @@
     "presentations/pptEE7B.tmp",
     "presentations/pptE390.tmp",
     "presentations/pptD564.tmp",
-    "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md",
     "presentations/ppt7B73.tmp",
-    "Goals/سمینار مهندسی بافت.md",
     "Goals/Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing.md",
     "presentations/pptCE20.tmp",
-    "presentations/ppt8D30.tmp",
-    "presentations/ppt25A3.tmp",
     "Papers/Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells.md",
     "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md",
     "Papers/Bone marrow-derived mesenchymal stem cells laden novel thermo-sensitive hydrogel for the management of severe skin wound healing.md",
@@ -212,18 +210,6 @@
     "Goals/ML project - EEG signals.md",
     "Goals/ارائه استاد مشاور ML.md",
     "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
-    "Goals/automatic data extraction.md",
-    "Papers/Metal-Organic Framework (MOF) Epoxy Coatings A Review.md",
-    "Papers/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md",
-    "Papers/Injectable and Thermosensitive Soluble Extracellular Matrix and Methylcellulose Hydrogels for Stem Cell Delivery in Skin Wounds.md",
-    "Goals/تحقیق درباره ML و MOF.md",
-    "Papers/Automating data extraction in systematic reviews a systematic review.md",
-    "Goals/بررسی MOF و CQD برای پروژه ارشد.md",
-    "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md",
-    "Papers/reading list.md",
-    "Papers/Applications of machine learning in metal-organic frameworks.md",
-    "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
-    "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md",
     "media/Pasted image 20240519145016.png",
     "media/Pasted image 20240519145002.png",
     "media/Pasted image 20240519144949.png",

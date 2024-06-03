@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "سمینار مهندسی بافت",
-      "path": "Goals/سمینار مهندسی بافت.md"
+      "basename": "tips",
+      "path": "Concept notes/Python/tips.md"
+    },
+    {
+      "basename": "pandas dataframe attributes",
+      "path": "Concept notes/Python/pandas dataframe attributes.md"
+    },
+    {
+      "basename": "numpy Array Manipulation",
+      "path": "Concept notes/Python/numpy Array Manipulation.md"
+    },
+    {
+      "basename": "numpy Random Number Generation",
+      "path": "Concept notes/Python/numpy Random Number Generation.md"
+    },
+    {
+      "basename": "numpy Matrix Operations",
+      "path": "Concept notes/Python/numpy Matrix Operations.md"
+    },
+    {
+      "basename": "numpy  ndarray attributes",
+      "path": "Concept notes/Python/numpy  ndarray attributes.md"
+    },
+    {
+      "basename": "numpy Array Indexing and Slicing",
+      "path": "Concept notes/Python/numpy Array Indexing and Slicing.md"
+    },
+    {
+      "basename": "numpy Mathematical Operations",
+      "path": "Concept notes/Python/numpy Mathematical Operations.md"
+    },
+    {
+      "basename": "numpy Array Creation",
+      "path": "Concept notes/Python/numpy Array Creation.md"
+    },
+    {
+      "basename": "python for data science",
+      "path": "Concept notes/Python/python for data science.md"
+    },
+    {
+      "basename": "Pandas",
+      "path": "Concept notes/Python/Pandas.md"
+    },
+    {
+      "basename": "scikit learn mooc",
+      "path": "Concept notes/Python/scikit learn mooc.md"
     },
     {
       "basename": "Research progress related to thermosensitive hydrogel dressings in wound healing a review",
       "path": "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md"
+    },
+    {
+      "basename": "سمینار مهندسی بافت",
+      "path": "Goals/سمینار مهندسی بافت.md"
     },
     {
       "basename": "Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing",
@@ -149,52 +197,8 @@
       "path": "prompts/translate.md"
     },
     {
-      "basename": "Pandas",
-      "path": "Concept notes/Python/Pandas.md"
-    },
-    {
       "basename": "ML reading list",
       "path": "Concept notes/Python/ML reading list.md"
-    },
-    {
-      "basename": "plotting book",
-      "path": "Concept notes/Python/plotting book.md"
-    },
-    {
-      "basename": "NumPy",
-      "path": "Concept notes/Python/NumPy.md"
-    },
-    {
-      "basename": "Matplotlib",
-      "path": "Concept notes/Python/Matplotlib.md"
-    },
-    {
-      "basename": "python for data science",
-      "path": "Concept notes/Python/python for data science.md"
-    },
-    {
-      "basename": "Matrix Operations",
-      "path": "Concept notes/Python/Matrix Operations.md"
-    },
-    {
-      "basename": "انواع ضرب ماتریکس ها و وکتور ها",
-      "path": "Concept notes/انواع ضرب ماتریکس ها و وکتور ها.md"
-    },
-    {
-      "basename": "Machine learning assisted phase and size-controlled synthesis of iron oxides",
-      "path": "Papers/Machine learning assisted phase and size-controlled synthesis of iron oxides.md"
-    },
-    {
-      "basename": "قانون بیز Bayes' rule",
-      "path": "Concept notes/قانون بیز Bayes' rule.md"
-    },
-    {
-      "basename": "شروط استفاده از ML",
-      "path": "Concept notes/شروط استفاده از ML.md"
-    },
-    {
-      "basename": "ndarray attributes",
-      "path": "Concept notes/Python/ndarray attributes.md"
     }
   ],
   "omittedPaths": [],
