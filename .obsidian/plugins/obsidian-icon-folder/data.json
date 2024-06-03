@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "RiSlideshowLine",
       "FabConnectdevelop",
       "🤖",
       "📕",
-      "🖊",
-      "FiTarget"
+      "🖊"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -86,5 +86,6 @@
   "Books/(2016) Algorithms to Live By.md": "📕",
   "Books/(2023) Debugging Machine Learning Models with Python.md": "📕",
   "Books/(2012-11-09) Pattern Classification.md": "📕",
-  "prompts": "🤖"
+  "prompts": "🤖",
+  "presentations": "RiSlideshowLine"
 }
