@@ -12,12 +12,6 @@
         },
         {
           "type": "group",
-          "ctime": 1717245093163,
-          "items": [],
-          "title": "presentations"
-        },
-        {
-          "type": "group",
           "ctime": 1710152200842,
           "items": [],
           "title": "Goals"
@@ -62,6 +56,18 @@
         },
         {
           "type": "group",
+          "ctime": 1717245093163,
+          "items": [],
+          "title": "presentations"
+        },
+        {
+          "type": "group",
+          "ctime": 1717245093163,
+          "items": [],
+          "title": "presentations"
+        },
+        {
+          "type": "group",
           "ctime": 1710152200842,
           "items": [
             {
@@ -103,12 +109,6 @@
             }
           ],
           "title": "Concept notes"
-        },
-        {
-          "type": "group",
-          "ctime": 1717245093163,
-          "items": [],
-          "title": "presentations"
         },
         {
           "type": "group",
