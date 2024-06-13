@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa02405a7e2643c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/سمینار مهندسی بافت.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "358f56ce474f90ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md",
+                "file": "Goals/ارائه کاربرد مواد در پزشکی.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,54 +21,12 @@
             }
           },
           {
-            "id": "ac159725332fc04b",
+            "id": "86360696632ea810",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Goals/Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e413047dac9d0349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/تحقیق درباره ML و MOF.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2384d440621cfaf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e07209f252f90c38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "currentVersion": "1.6.3"
               }
             }
           }
@@ -144,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -160,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md",
+                "file": "Goals/ارائه کاربرد مواد در پزشکی.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md"
+                "file": "Goals/ارائه کاربرد مواد در پزشکی.md"
               }
             }
           },
@@ -193,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md",
+                "file": "Goals/ارائه کاربرد مواد در پزشکی.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,26 +184,33 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "358f56ce474f90ff",
+  "active": "86360696632ea810",
   "lastOpenFiles": [
-    "presentations/ppt40DA.tmp",
-    "presentations/ppt585.tmp",
-    "presentations/ppt9A2C.tmp",
+    "Papers/synthetic micro Nanomotors for Drug Delivery.md",
+    "Goals/ارائه کاربرد مواد در پزشکی.md",
+    "Papers/Fabrication of Self-Propelled Micro- and Nanomotors Based on Janus Structures.md",
+    "Papers/intelligent metallic micro nanomotors From propulsion to application.md",
+    "Papers/Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing.md",
+    "Goals/ML project - EEG signals.md",
+    "Goals/Micro nanomotors towards in vivo application cell, tissue and biofluid.md",
+    "Papers/Enzymatic micro nanomotors in biomedicine from single motors to swarms.md",
+    "Papers/Papers files/Intelligent metallic micronanomotors From propulsion to application.pdf",
+    "Papers/Papers files/10.1016_j.nantod.2023.101939_byhd.pdf",
+    "Intelligent metallic micro",
+    "Papers/Papers files/Synthetic MicroNanomotors for Drug Delivery.pdf",
+    "Papers/Papers files/technologies-10-00096.pdf",
+    "Synthetic Micro",
+    "Papers/Papers files/Enzymatic micronanomotors in biomedicine from single motors to swarms.pdf",
+    "Papers/Papers files/d3tb02457a.pdf",
+    "Enzymatic micro",
+    "Papers/Papers files/Fabrication of Self-Propelled Micro- and Nanomotors Based on Janus Structures.pdf",
+    "Micro/Micro nanomotors towards in vivo application cell, tissue and biofluid.md",
+    "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md",
     "Goals/سمینار مهندسی بافت.md",
     "Papers/MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks.md",
     "Goals/تحقیق درباره ML و MOF.md",
     "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
-    "Goals/Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing.md",
-    "Goals/ML project - EEG signals.md",
-    "presentations/ppt5127.tmp",
-    "presentations/ppt44EE.tmp",
     "Papers/Enhanced cutaneous wound healing by functional injectable thermo-sensitive chitosan-based hydrogel encapsulated human umbilical cord-mesenchymal stem cells.md",
-    "presentations/ppt53BD.tmp",
-    "presentations/pptDF96.tmp",
-    "presentations/ppt8DEB.tmp",
-    "presentations/ppt30CF.tmp",
-    "presentations/ppt7C66.tmp",
-    "presentations/ppt3175.tmp",
     "To-Do.md",
     "راهنما.md",
     "README.md",
@@ -268,14 +221,6 @@
     "Concept notes/Python/numpy Random Number Generation.md",
     "Concept notes/Python/numpy Matrix Operations.md",
     "Concept notes/Python/numpy  ndarray attributes.md",
-    "Concept notes/Python/numpy Array Indexing and Slicing.md",
-    "Concept notes/Python/numpy Mathematical Operations.md",
-    "Concept notes/Python/numpy Array Creation.md",
-    "Concept notes/Python/python for data science.md",
-    "Concept notes/Python/plotting book.md",
-    "Concept notes/Python/Pandas.md",
-    "Concept notes/Python/scikit learn mooc.md",
-    "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md",
     "media/Pasted image 20240519145016.png",
     "media/Pasted image 20240519145002.png",
     "media/Pasted image 20240519144949.png",
