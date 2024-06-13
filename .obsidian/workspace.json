@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "86360696632ea810",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -184,10 +172,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "86360696632ea810",
+  "active": "358f56ce474f90ff",
   "lastOpenFiles": [
-    "Papers/synthetic micro Nanomotors for Drug Delivery.md",
+    "Goals/سمینار مهندسی بافت.md",
+    "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md",
     "Goals/ارائه کاربرد مواد در پزشکی.md",
+    "Papers/synthetic micro Nanomotors for Drug Delivery.md",
     "Papers/Fabrication of Self-Propelled Micro- and Nanomotors Based on Janus Structures.md",
     "Papers/intelligent metallic micro nanomotors From propulsion to application.md",
     "Papers/Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing.md",
@@ -206,7 +196,6 @@
     "Papers/Papers files/Fabrication of Self-Propelled Micro- and Nanomotors Based on Janus Structures.pdf",
     "Micro/Micro nanomotors towards in vivo application cell, tissue and biofluid.md",
     "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md",
-    "Goals/سمینار مهندسی بافت.md",
     "Papers/MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks.md",
     "Goals/تحقیق درباره ML و MOF.md",
     "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
