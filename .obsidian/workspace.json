@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "prompts/prompt to write academic text based on source.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64b33a85a18a6f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Goals/ارائه کاربرد مواد در پزشکی.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "74a1e970677e77fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/intelligent metallic micro nanomotors From propulsion to application.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7406f7641305f5b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/ارائه کاربرد مواد در پزشکی.md",
+                "file": "temp note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/ارائه کاربرد مواد در پزشکی.md"
+                "file": "temp note.md"
               }
             }
           },
@@ -127,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/ارائه کاربرد مواد در پزشکی.md",
+                "file": "temp note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,17 +212,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "358f56ce474f90ff",
+  "active": "7406f7641305f5b3",
   "lastOpenFiles": [
+    "Papers/intelligent metallic micro nanomotors From propulsion to application.md",
+    "Goals/ارائه کاربرد مواد در پزشکی.md",
+    "Papers/Micro nanomotors towards in vivo application cell, tissue and biofluid.md",
+    "prompts/prompt to write academic text based on source.md",
+    "prompts/prompt for prompts.md",
     "Goals/سمینار مهندسی بافت.md",
     "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md",
-    "Goals/ارائه کاربرد مواد در پزشکی.md",
     "Papers/synthetic micro Nanomotors for Drug Delivery.md",
     "Papers/Fabrication of Self-Propelled Micro- and Nanomotors Based on Janus Structures.md",
-    "Papers/intelligent metallic micro nanomotors From propulsion to application.md",
     "Papers/Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing.md",
     "Goals/ML project - EEG signals.md",
-    "Goals/Micro nanomotors towards in vivo application cell, tissue and biofluid.md",
     "Papers/Enzymatic micro nanomotors in biomedicine from single motors to swarms.md",
     "Papers/Papers files/Intelligent metallic micronanomotors From propulsion to application.pdf",
     "Papers/Papers files/10.1016_j.nantod.2023.101939_byhd.pdf",
@@ -208,8 +250,6 @@
     "Concept notes/Python/pandas dataframe attributes.md",
     "Concept notes/Python/numpy Array Manipulation.md",
     "Concept notes/Python/numpy Random Number Generation.md",
-    "Concept notes/Python/numpy Matrix Operations.md",
-    "Concept notes/Python/numpy  ndarray attributes.md",
     "media/Pasted image 20240519145016.png",
     "media/Pasted image 20240519145002.png",
     "media/Pasted image 20240519144949.png",
