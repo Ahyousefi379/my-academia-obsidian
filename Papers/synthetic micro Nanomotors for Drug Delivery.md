@@ -14,7 +14,7 @@ article type:
 
 **<span style="color:#00b0f0">سوال یا هدف:</span>**
 
-
+[[ارائه کاربرد مواد در پزشکی]]
 
 ## <span style="color:#64ff61">خلاصه موارد پژوهش</span>
 ---

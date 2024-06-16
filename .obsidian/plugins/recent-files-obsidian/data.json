@@ -1,20 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "temp note",
-      "path": "temp note.md"
-    },
-    {
-      "basename": "intelligent metallic micro nanomotors From propulsion to application",
-      "path": "Papers/intelligent metallic micro nanomotors From propulsion to application.md"
+      "basename": "Enzymatic micro nanomotors in biomedicine from single motors to swarms",
+      "path": "Papers/Enzymatic micro nanomotors in biomedicine from single motors to swarms.md"
     },
     {
       "basename": "ارائه کاربرد مواد در پزشکی",
       "path": "Goals/ارائه کاربرد مواد در پزشکی.md"
     },
     {
+      "basename": "Self-Propelled MicroNanomotors for Tumor Targeting Delivery and Therapy",
+      "path": "Papers/Self-Propelled MicroNanomotors for Tumor Targeting Delivery and Therapy.md"
+    },
+    {
+      "basename": "love-512x512",
+      "path": "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/love-512x512.png"
+    },
+    {
+      "basename": "ارائه استاد مشاور ML",
+      "path": "Goals/ارائه استاد مشاور ML.md"
+    },
+    {
+      "basename": "Cell-Membrane-Coated Synthetic Nanomotors for Effective Biodetoxification",
+      "path": "Papers/Cell-Membrane-Coated Synthetic Nanomotors for Effective Biodetoxification.md"
+    },
+    {
+      "basename": "Water-Powered Cell-Mimicking Janus Micromotor",
+      "path": "Papers/Water-Powered Cell-Mimicking Janus Micromotor.md"
+    },
+    {
+      "basename": "Photothermal therapy and photoacoustic imaging via nanotheranostics in fighting cancer",
+      "path": "Papers/Photothermal therapy and photoacoustic imaging via nanotheranostics in fighting cancer.md"
+    },
+    {
+      "basename": "Leucocyte Membrane-Coated Janus Microcapsules for Enhanced Photothermal Cancer Treatment",
+      "path": "Papers/Leucocyte Membrane-Coated Janus Microcapsules for Enhanced Photothermal Cancer Treatment.md"
+    },
+    {
+      "basename": "Intelligent metallic micronanomotors From propulsion to application",
+      "path": "Papers/Papers files/Intelligent metallic micronanomotors From propulsion to application.pdf"
+    },
+    {
+      "basename": "Magnesium-Based Micromotors as Hydrogen Generators for Precise Rheumatoid Arthritis Therapy",
+      "path": "Papers/Magnesium-Based Micromotors as Hydrogen Generators for Precise Rheumatoid Arthritis Therapy.md"
+    },
+    {
+      "basename": "Magnesium-based micromotors for enhanced active and synergistic hydrogen chemotherapy",
+      "path": "Papers/Magnesium-based micromotors for enhanced active and synergistic hydrogen chemotherapy.md"
+    },
+    {
+      "basename": "synthetic micro Nanomotors for Drug Delivery",
+      "path": "Papers/synthetic micro Nanomotors for Drug Delivery.md"
+    },
+    {
       "basename": "Micro nanomotors towards in vivo application cell, tissue and biofluid",
       "path": "Papers/Micro nanomotors towards in vivo application cell, tissue and biofluid.md"
+    },
+    {
+      "basename": "Fabrication of Self-Propelled Micro- and Nanomotors Based on Janus Structures",
+      "path": "Papers/Fabrication of Self-Propelled Micro- and Nanomotors Based on Janus Structures.md"
+    },
+    {
+      "basename": "intelligent metallic micro nanomotors From propulsion to application",
+      "path": "Papers/intelligent metallic micro nanomotors From propulsion to application.md"
+    },
+    {
+      "basename": "Photothermal therapy and photoacoustic imaging via nanotheranostics in fighting cancer",
+      "path": "Papers/Papers files/Photothermal therapy and photoacoustic imaging via nanotheranostics in fighting cancer.pdf"
+    },
+    {
+      "basename": "Magnesium-based micromotors for enhanced active and synergistic hydrogen chemotherapy",
+      "path": "Papers/Papers files/Magnesium-based micromotors for enhanced active and synergistic hydrogen chemotherapy.pdf"
+    },
+    {
+      "basename": "Magnesium-Based Micromotors as Hydrogen Generators for Precise Rheumatoid Arthritis Therapy",
+      "path": "Papers/Papers files/Magnesium-Based Micromotors as Hydrogen Generators for Precise Rheumatoid Arthritis Therapy.pdf"
+    },
+    {
+      "basename": "temp note",
+      "path": "temp note.md"
+    },
+    {
+      "basename": "راهنما",
+      "path": "راهنما.md"
+    },
+    {
+      "basename": "Enzymatic micronanomotors in biomedicine from single motors to swarms",
+      "path": "Papers/Papers files/Enzymatic micronanomotors in biomedicine from single motors to swarms.pdf"
     },
     {
       "basename": "prompt to write academic text based on source",
@@ -33,24 +105,12 @@
       "path": "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md"
     },
     {
-      "basename": "synthetic micro Nanomotors for Drug Delivery",
-      "path": "Papers/synthetic micro Nanomotors for Drug Delivery.md"
-    },
-    {
-      "basename": "Fabrication of Self-Propelled Micro- and Nanomotors Based on Janus Structures",
-      "path": "Papers/Fabrication of Self-Propelled Micro- and Nanomotors Based on Janus Structures.md"
-    },
-    {
       "basename": "Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing",
       "path": "Papers/Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing.md"
     },
     {
       "basename": "ML project - EEG signals",
       "path": "Goals/ML project - EEG signals.md"
-    },
-    {
-      "basename": "Enzymatic micro nanomotors in biomedicine from single motors to swarms",
-      "path": "Papers/Enzymatic micro nanomotors in biomedicine from single motors to swarms.md"
     },
     {
       "basename": "Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids",
@@ -75,10 +135,6 @@
     {
       "basename": "To-Do",
       "path": "To-Do.md"
-    },
-    {
-      "basename": "راهنما",
-      "path": "راهنما.md"
     },
     {
       "basename": "README",
@@ -143,62 +199,6 @@
     {
       "basename": "Mussel-inspired adhesive and polypeptide-based antibacterial thermo-sensitive hydroxybutyl chitosan hydrogel as BMSCs 3D culture matrix for wound healing",
       "path": "Papers/Mussel-inspired adhesive and polypeptide-based antibacterial thermo-sensitive hydroxybutyl chitosan hydrogel as BMSCs 3D culture matrix for wound healing.md"
-    },
-    {
-      "basename": "Research progress related to thermosensitive hydrogel dressings in wound healing a review",
-      "path": "Papers/Papers files/Research progress related to thermosensitive hydrogel dressings in wound healing a review.pdf"
-    },
-    {
-      "basename": "ISRN.NEUROSCIENCE2014-730218",
-      "path": "media/ISRN.NEUROSCIENCE2014-730218.pdf"
-    },
-    {
-      "basename": "frai-05-1072801",
-      "path": "media/frai-05-1072801.pdf"
-    },
-    {
-      "basename": "wazlan2014",
-      "path": "media/wazlan2014.pdf"
-    },
-    {
-      "basename": "tsuchimoto2021",
-      "path": "media/tsuchimoto2021.pdf"
-    },
-    {
-      "basename": "1-s2.0-S0030402613012473-main",
-      "path": "media/1-s2.0-S0030402613012473-main.pdf"
-    },
-    {
-      "basename": "komssi2004",
-      "path": "media/komssi2004.pdf"
-    },
-    {
-      "basename": "hauk2004",
-      "path": "media/hauk2004.pdf"
-    },
-    {
-      "basename": "independent-component-analysis-of-eeg-signals",
-      "path": "media/independent-component-analysis-of-eeg-signals.pdf"
-    },
-    {
-      "basename": "ارائه استاد مشاور ML",
-      "path": "Goals/ارائه استاد مشاور ML.md"
-    },
-    {
-      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
-      "path": "Papers/Papers files/Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf"
-    },
-    {
-      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
-      "path": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
-    },
-    {
-      "basename": "automatic data extraction",
-      "path": "Goals/automatic data extraction.md"
-    },
-    {
-      "basename": "Metal-Organic Framework (MOF) Epoxy Coatings A Review",
-      "path": "Papers/Metal-Organic Framework (MOF) Epoxy Coatings A Review.md"
     }
   ],
   "omittedPaths": [],
