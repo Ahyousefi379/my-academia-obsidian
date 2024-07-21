@@ -16,55 +16,215 @@ article type:
 [[ارائه کاربرد مواد در پزشکی]]
 
 
-## <span style="color:#64ff61">خلاصه موارد پژوهش</span>
+## design
+
+The design of micro/nanomotors necessitates meticulous planning due to the unique challenges posed by their operating environment and scale. When functioning in the micro/nanometer regime within viscous biological environments, traditional inertia-driven motion is ineffective; instead, Brownian motion becomes the dominant force. Thus, achieving directed motion requires innovative approaches.
+
+A fundamental aspect of micro/nanomotor design is the creation of asymmetric geometries. Asymmetric designs are crucial because they enable the uneven accumulation of catalytic reaction products, which generates the net driving force necessary for motion. The shape and surface chemistry of the motor significantly influence the experienced drag force in biological media. Therefore, the geometry of the motor must be carefully tailored to optimize its propulsion efficiency and reduce drag.
+
+In addition to functional design considerations, practical aspects such as scalability and cost-effectiveness are critical for the potential widespread use of these motors. The ability to produce motors on a large scale at a reasonable cost is essential for their practical application, particularly in medical and industrial fields.
+
+Various fabrication techniques are employed to create micro/nanomotors, each with its advantages and disadvantages. The fabrication methods can generally be divided into non-assembling and assembling approaches. Non-assembling approaches typically involve the direct formation of motors from raw materials, often through chemical or physical deposition techniques. On the other hand, assembling approaches involve the construction of motors by piecing together smaller components, which can offer greater control over the final structure but may be more complex and costly.
+
+In conclusion, the design of micro/nanomotors requires a careful balance between innovative geometric configurations and practical considerations like scalability and cost. By leveraging both non-assembling and assembling approaches, researchers aim to optimize the performance and feasibility of these motors for a variety of applications【6:0†source】.
+### Non-Assembling Approach
+
+The non-assembling approach offers several methods for fabricating micro/nanomotors with varied geometries, materials, and dimensions, ranging from nanometers to micrometers. A significant technique in this category is chemical deposition, which involves depositing desired materials, usually metals, onto a template via a redox reaction. For instance, cylindrical pores in polycarbonate or alumina membranes are commonly used as templates for preparing rod-shaped motors. In this process, the membrane template is pre-deposited with conductive metal on one side to serve as a working electrode, then placed in a plating chamber for deposition inside the membrane pores【14:2†source】【14:4†source】.
+
+Sequential deposition of multiple metals on these templates is also possible, allowing the production of bi-metal or multi-stripe metal rods after the template is dissolved. This method enables the creation of rigid rod-shaped motors with high yield and uniformity, where the diameter and length of the rods can be tuned by adjusting the pore diameter and external charge. For example, in segmented metal motors with platinum and palladium, hydrogen peroxide is oxidized at the platinum segment and reduced at the gold section, generating an electric field that propels the motor【14:4†source】.
+
+Another key technique in the non-assembling approach is physical deposition, particularly vapor deposition, which is used to create Janus sphere motors. In this method, metal atoms are vaporized and then condensed onto the surface of target silica or polystyrene spheres, forming a thin metallic film. The partial shielding of the sphere is crucial to ensure asymmetry, which is essential for directional motion. Techniques like glancing angle deposition and dynamic shadow growth enable the fabrication of motors with more complex shapes, such as V-shaped or helical motors, which can be propelled efficiently in biological media under a rotating magnetic field【14:3†source】【14:4†source】.
+
+Additionally, the rolled-up technology is a versatile technique for producing tubular motors. This method involves depositing multiple layers of membranes on a photolithography sacrificial layer, which is then etched to release the multilayer structure. The inherent strain difference between the layers causes the bottom layer to expand and the top layer to shrink during etching, forming a rolled-up architecture. The inner tube wall, typically made of catalytic metal, can be functionalized with biological molecules using gold. By adjusting the thickness of each layer, the diameter of the tube opening can be precisely controlled. However, this method faces challenges related to the complexity of the fabrication process, scalability, and associated costs【14:4†source】.
+
+### Assembling Approach
+
+The assembling approach is a flexible and effective strategy for integrating diverse miniature and multicomponent elements, such as lipids, polymers, catalytic entities like enzymes, and inorganic nanoparticles, into micro/nano architectures. These elements are integrated via non-covalent interactions, making the resulting motors responsive to environmental cues and endowing them with multiple functionalities. This approach also allows precise control over the morphology and size of the assembled structures and facilitates the encapsulation of drugs and nanoparticles for various delivery purposes【14:2†source】【14:4†source】.
+
+One notable example is the fully assembling approach developed by Wilson et al., which uses the self-assembly of an amphiphilic polymeric molecule, poly(ethylene glycol)-b-polystyrene, to transform spherical polymersomes into bowl-shaped stomatocytes. During this transformation, catalytic platinum nanoparticles (PtNPs) are efficiently entrapped into the outer cavity of the stomatocytes. Fuel molecules enter the cavity through a nanometer-sized opening and decompose, providing forward propulsion【14:2†source】【14:4†source】.
+
+He’s group has demonstrated the fabrication of spherical and tubular vesicle-based motors using a layer-by-layer technique. This method involves the alternating deposition of two oppositely charged materials onto a sacrificial layer, which is then removed to release the assembled structure. This technique allows for the creation of motors with well-defined shapes and sizes, suitable for various biomedical applications【14:2†source】【14:4†source】.
+
+The versatility of the assembling approach extends to the creation of Janus motors through the self-assembly of amphiphilic molecules or layer-by-layer assembly. These methods enable the integration of functional components and the precise control of motor geometry, which are crucial for achieving desired propulsion characteristics and functionalities【14:4†source】.
+
 ---
 
-## <span style="color:#64ff61">تئوری</span>
----
+
+## drug delivery
 
 
+#### Catalytic Motors for Drug Delivery
 
-## <span style="color:#64ff61">خلاصه materials and methods</span>
----
+One of the primary challenges in nanomedicine is achieving efficient delivery of therapeutic agents to target cells, particularly in the treatment of diseases like cancer and cardiovascular conditions. Micro/nanomotors have garnered attention for their capacity to tow and transport cargo effectively. An early example is the tubular polyelectrolyte-based motor created using the layer-by-layer technique. This motor, loaded with catalytic platinum nanoparticles, magnetic iron oxide particles, and doxorubicin, demonstrated bubble-recoiled propulsion in a human cervical cancer (Hela) cell culture supplemented with hydrogen peroxide. The magnetic particles enabled directional control, and the motor adhered to the cell surface, releasing doxorubicin upon sonication  .
 
-روش سنتز = 
+Another study compared the efficacy of active motors versus passive carriers for drug delivery. Platinum-sputtered mesoporous silica nanoparticles acted as Janus nanomotors, while unsputtered particles served as passive controls. In the presence of hydrogen peroxide, the active nanomotors showed greater uptake and more efficient doxorubicin release inside Hela cells compared to passive particles  .
+
+Additionally, platinum-sputtered mesoporous silica nanomotors of various sizes were developed, capable of sustained release of loaded drugs like Rhodamine B and methylene blue. The active nanomotors exhibited enhanced accumulation at target sites when guided by a ratchet-shaped microchip .
+
+To enhance biocompatibility for in vivo applications, biodegradable micromotors were designed. A multilayer tubular motor composed of bovine serum albumin and poly-L-lysine, loaded with gelatin, gold nanoparticles, magnetic particles, doxorubicin, and catalase, demonstrated propulsion in the presence of hydrogen peroxide. Guided by an external magnetic field, these motors released doxorubicin upon near-infrared irradiation, leveraging the heat generated by gold nanoparticles to facilitate the sol-gel transition of gelatin .
+/\
+One of the primary challenges in nanomedicine is enhancing the efficiency of delivering therapeutic agents to target cells, particularly in cancer, heart, and vascular disease treatments. To address this issue, micro/nanomotors with efficient cargo towing and transporting capabilities have been developed.
+
+He’s group proposed a tubular polyelectrolyte-based motor created using the layer-by-layer technique as a drug delivery carrier to cells. These multilayered nanotube motors were porous, facilitating the incorporation of catalytic platinum nanoparticles, magnetic iron oxide particles, and an antitumor drug, doxorubicin, into the inner layer. The iron oxide particles allowed directional control via an external magnetic field. In human cervical cancer (HeLa) cell cultures supplemented with 3% hydrogen peroxide, these nanorockets exhibited bubble-recoil propulsion. Under magnetic navigation, they moved towards the cells and attached to their outer membranes. Upon sonication, the intactness of the polyelectrolyte nanorockets was lost, resulting in the rapid release of doxorubicin from the outer layer of the nanotube motors​​.
+
+He’s group later compared the efficacy of active motors and passive carriers for drug delivery. They utilized platinum-sputtered mesoporous silica nanoparticles as Janus nanomotors, while unsputtered particles served as passive controls. In a 0.2% hydrogen peroxide-containing HeLa cell culture, the platinum-capped mesoporous silica nanoparticles demonstrated higher uptake than the unsputtered ones, highlighting the advantages of active drug delivery. Upon entering the HeLa cells, egg phosphatidylcholine bilayers covering the silica nanoparticles degraded slowly, releasing doxorubicin​​.
+
+Sanchez’s team reported on platinum-sputtered mesoporous silica nanomotors of different sizes (40 nm, 65 nm, and 90 nm). They loaded model cargoes such as FITC, Rhodamine B, and methylene blue into the nanomotors by covalent linking or incorporation into mesopores. These nanomotors demonstrated sustained release of cargoes with or without hydrogen peroxide. Using a ratchet-shaped microchip, they could be actively guided to a target chamber, showing enhanced accumulation at the target chamber compared to passive mesoporous silica nanoparticles​​.
+
+He’s group also explored a biodegradable micromotor for drug delivery to enhance biocompatibility. They fabricated a bovine serum albumin/poly-L-lysine-based multilayer tubular motor loaded with gelatin, gold nanoparticles (near-infrared agents), magnetic particles (for external steering), doxorubicin, and catalase (motor). These motors were propelled by catalase’s hydrogen peroxide-decomposing abilities. Precisely guided with an external magnetic field to HeLa cells, doxorubicin was released under near-infrared triggers, as gold nanoparticles generated local heat facilitating gelatin's sol-gel transition​​.
+#### Fuel-Free Motors for Drug Delivery
+
+Fuel-free motors offer another promising avenue for drug delivery, particularly due to their biocompatibility and reduced toxicity. These motors can harness various external stimuli such as magnetic fields, light, or ultrasound to achieve propulsion without the need for chemical fuels. One notable example involves using light-responsive materials, where exposure to specific wavelengths induces motion, allowing precise control over drug delivery to targeted areas .
+
+Fuel-free motors have garnered significant attention for their potential to deliver drugs without the toxic effects associated with chemical fuels. These motors are propelled by external fields such as ultrasound, magnetic, optical, and electric fields, thus avoiding the need for potentially harmful chemical fuels.
+
+One notable approach utilizes electrophoretic and dielectrophoretic forces. Levchenko and colleagues demonstrated the precision transport of a gold nanowire into a target HeLa cell. They coated the nanowire with cytokine tumor necrosis factor alpha (TNFα), successfully stimulating canonical nuclear factor-kappaB signaling in a single cell. This technique underscores the capability of fuel-free motors to deliver biologically active molecules with high precision​​.
+
+Among external propulsion methods, magnetic fields are particularly attractive due to their flexibility, tunable force, and minimal invasiveness. Nelson's group reported a helical microswimmer, resembling bacterial flagella, which can be manipulated using electromagnetic coils to push a polystyrene microsphere. Fischer's group further advanced this technology by devising helical nanoswimmers using the shadow growth technique, demonstrating significant potential for cargo delivery​​.
+
+Another example is the work by Wang and colleagues, who utilized external magnetic fields to manipulate motors for drug delivery. They created magnetic nickel-containing alloy nanorods capable of picking up magnetic payloads of various sizes (100 nm to 3.0 µm) through magnetic attraction, thus enabling controlled transportation and delivery along a predetermined route. Similarly, Mallouk et al. incorporated a nickel segment into a Ru–Au nanorod to gain directional control over acoustically powered rod-shaped motors using an external magnetic field. These motors were able to target HeLa cells with micrometer precision, showcasing their potential for precise drug delivery applications​​.
+#### Targeted Drug Delivery
+
+Targeted drug delivery aims to enhance the precision and efficacy of treatments by directing therapeutic agents specifically to diseased cells or tissues. This approach often involves functionalizing nanomotors with targeting ligands or moieties that recognize and bind to specific cellular markers. For instance, He’s group developed stomatocyte motors that exhibited targeted motion towards neutrophil cells in the presence of a hydrogen peroxide gradient. These motors, loaded with doxorubicin, demonstrated effective targeted delivery, highlighting the potential of combining multiple targeting strategies to improve efficiency .
+
+The use of stimuli-sensitive linkers between cargoes and motor systems can further optimize drug delivery by preventing premature release during transportation. Additionally, enhancing drug loading efficiencies and testing synergistic therapeutic effects with motors carrying multiple agents are critical for advancing the practical application of these technologies .
+-
+Targeted drug delivery is a critical application of micro/nanomotors, aiming to deliver therapeutic agents specifically to diseased cells, thereby enhancing treatment efficacy while minimizing side effects. This approach often involves functionalizing the motors with targeting ligands or moieties that bind specifically to target cells or tissues.
+
+He’s group pioneered a tubular polyelectrolyte-based motor for drug delivery, fabricated using the layer-by-layer technique. This multilayered nanotube motor, loaded with catalytic platinum nanoparticles, magnetic iron oxide particles, and the antitumor drug doxorubicin, demonstrated effective drug delivery in a human cervical cancer (HeLa) cell culture. The motor exhibited bubble recoil propulsion in the presence of hydrogen peroxide and was directed towards the cells using an external magnetic field. Upon sonication, the motor released doxorubicin rapidly, effectively targeting the cancer cells​​.
+
+Another example involves platinum-sputtered mesoporous silica nanoparticles used as Janus nanomotors. These motors showed enhanced uptake and drug delivery efficiency compared to passive carriers in a HeLa cell culture supplemented with hydrogen peroxide. The active nanomotors facilitated the slow release of doxorubicin inside the cells, demonstrating superior performance in active drug delivery methods​​.
+
+Sanchez’s team also developed platinum-sputtered mesoporous silica nanomotors of various sizes, loaded with model cargoes such as FITC, Rhodamine B, and methylene blue. These nanomotors exhibited sustained release of the cargoes and, when guided using a ratchet-shaped microchip, showed enhanced accumulation at target chambers compared to passive particles​​.
+
+For in vivo applications, biocompatibility remains a critical consideration. To address this, He’s group developed a biodegradable micromotor for drug delivery, using a bovine serum albumin/poly-L-lysine-based multilayer tubular motor. This motor was loaded with gelatin, gold nanoparticles (near-infrared agents), magnetic particles, doxorubicin, and catalase. The motor demonstrated effective propulsion and targeted drug release near HeLa cells, triggered by near-infrared irradiation, which facilitated the sol-gel transition of gelatin and subsequent release of doxorubicin​​.
+
+## cell penetration
+
+Micro- and nanomotors have shown immense potential as cell-penetrating tools due to their ability to achieve propulsion inside and towards cells. These motors generate significant thrust, allowing them to penetrate, cleave, and stab into cells, thereby overcoming cell barriers to deliver drug payloads directly to target cells. This capability makes micro/nanomotors particularly promising for accessing solid tumor tissues where high interstitial pressure often blocks the entry of passive drug-loaded nanoparticles.
+
+Cai et al. reported the fabrication of carbon nanotubes with a nickel tip using plasma-enhanced chemical vapor deposition. These nanotubes, responsive to a rotating magnetic field, could spear into cells on a substrate. With a static gradient field, the nanotubes penetrated deeper into the cells. By attaching plasmid DNA containing an enhanced green fluorescence protein (EGFP) sequence to the nanotubes, high transduction efficiency was achieved for various cell lines, including Bal17 B lymphoma, primary B cells, and primary neurons【22:1†source】【22:2†source】.
+
+Using a rolled-up technology, Sanchez’ group developed InGaAs/GaAs/Cr/Pt-based tubular motors. These catalytic tubular motors demonstrated propulsive motion in hydrogen peroxide solution (20% v/v). With an external magnetic field and a thin iron layer, the motion could be controlled, enabling the tubular motors with sharp tips to penetrate fixed HeLa cells. This example highlights the potential of tubular motors as cell-penetrating tools, although the hydrogen peroxide level used in the experiment is too high for realistic cellular delivery【22:3†source】【22:4†source】.
+
+The use of asymmetric sound wave scattering at the convex ends of gold nanorods allowed Mallouk’s group to achieve fast axial propulsion in cells. After 24 hours of incubation with HeLa cells, the nanorods could enter the cells and remain ultrasound responsive, facilitating propulsion inside the cells without additional chemical fuel【22:3†source】.
+
+Natural structures have also inspired motor systems. Srivastava and Schmidt derived calcified porous microneedles (40–60 µm in length) from Dracaena sp., coated with iron and titanium using electron beam deposition. These microneedles, loaded with the antitumor drug camptothecin, drilled into HeLa cells under a rotating magnetic field, resulting in cell death and inhibited cell growth. The combination of cell-penetrating abilities and drug-transporting properties demonstrated the potential of microneedle motors as drug delivery vehicles【22:4†source】.
+
+Wilson’s group reported the conjugation of natural cell-penetrating peptides tat to the surface of stomatocyte polymersome motors. The peptide, a major domain of the HIV tat protein, facilitated the efficient entry of viruses into host cells. In the presence of hydrogen peroxide supplemented cell culture medium, these peptide-modified stomatocyte motors increased cell–motor interactions, enhancing the penetration efficiency of delivery agents into intact HeLa cells【22:0†source】.
+
+In summary, micro- and nanomotors provide a versatile and powerful approach for cell penetration and targeted drug delivery. The ability to control their movement and penetration into cells offers significant advantages over passive delivery methods, making them promising tools for therapeutic applications in oncology and other fields.
+
+## cell sensing
 
 
+Current cell sensing techniques often involve extensive sample preparation, making the process time-consuming. The development of fast and selective targeting and sensing mechanisms in unprocessed biological samples is particularly appealing. Utilizing autonomously moving micromotors functionalized with bioreceptors has proven to be a promising approach in this regard.
 
-## <span style="color:#64ff61"> نتایج و تفسیر</span>
----
+Wang's team demonstrated a method using micromotors for detecting rRNA released from *E. coli* 16S bacteria. In their approach, a nucleic acid-containing sample was initially incubated with a surface-bound oligonucleotide, followed by the addition of a silver nanoparticle-tagged detector probe. At higher target nucleic acid concentrations, more silver nanoparticles were captured. Upon the addition of hydrogen peroxide and Au–Ni–Au–Pt nanomotors, the silver particles quickly dissolved into silver ions, accelerating the motion of the nanomotors. The speed of these nanomotors correlated with the level of rRNA, providing a new approach for detecting rRNA or other biomolecules based on the motion readout【26:0†source】.
 
+In addition to detecting RNA secreted by cells, this motor system has been shown to be capable of detecting RNA within cells. The same team described a single-step method for the rapid detection of target miRNA inside cells using ultrasound-powered nanomotors. They introduced a graphene-oxide sheet to a cysteamine-functionalized gold nanowire through EDC–NHS conjugation. Single-stranded DNA–fluorescein amidine (FAM) was absorbed onto the graphene-oxide surface via π–π stacking interactions between the nucleotide base ring and the graphene-oxide sheet. The close proximity of fluorescein amidine to graphene oxide rapidly quenched the fluorescence via fluorescence resonance energy transfer. Driven by ultrasound propulsion, the DNA-FAM functionalized graphene oxide/gold nanowires were delivered to intact cells within seconds. As single-stranded DNA has a higher affinity for miRNA in cells, the DNA-FAM was displaced from the graphene-oxide surface and bound to target miRNA, leading to fluorescence recovery. The fluorescence signal, correlated with the amount of target miRNA-21 overproduced in metastatic breast cells, demonstrated a fast and precise cancer screening method using MCF-7 cells【26:1†source】【26:2†source】.
 
+Fan's team developed a one-dimensional plasmonic-magnetic (PM) nanotube for in situ cell membrane composition sensing. The nanotube incorporated nickel nanomagnets and dual-surface-coated plasmonic silver nanoparticles, facilitating magnetic maneuvering and surface-enhanced Raman scattering (SERS) detection. Using an external magnetic field, the PM nanotube was transported to a target single CHO cell and brought into contact with the cell membrane. The resulting SERS spectra exhibited characteristic peaks of lipids and proteins, showcasing a precise and sensitive method expected to be applicable to other adherent animal and human cells【26:2†source】.
 
-## <span style="color:#64ff61">نتیجه گیری</span>
----
-
-
-
-## <span style="color:#64ff61">پاسخ نهایی</span>
----
+Overall, utilizing motor systems that operate within sample media or components is highly desirable, as the addition of external chemical fuels can interfere with detection results. However, the potential impact of motor reaction products or resulting pH changes on sensing outcomes should be considered in future developments【26:2†source】.
 
 
+## cell transportation
+### Cell Transportation and Sorting
+
+Cell transportation and sorting play a crucial role in the manipulation and isolation of specific cells within a biological environment, leveraging the capabilities of micromotors. These motors can tow various cargos, including small molecule drugs, genes, cytokines, and even cells. They are especially valuable in complex biological samples where built-in recognition moieties or external controls enable the rapid and selective isolation of target cells.
+
+**Micromotors for Cell Transportation:**
+Sanchez and colleagues introduced the concept of using micromotors to load, transport, and deliver cells. They developed microtube motors using a rolled-up technology, optimizing the diameter to fit model murine CAD cells. These motors utilize bubble generation and migration within the tubes to induce fluid pumping, effectively sucking up and picking up the cells. An external magnetic field aligns and guides the cell-loaded microtube motors. By abruptly changing the field direction, the cells can be released and delivered precisely【7:0†source】.
+
+**Yeast Cell Transportation:**
+In another application, the team used rolled-up nanotubes to transport yeast cells. The yeast cells adhere to the outer surface of the nanotubes via van der Waals interactions. Loading three yeast cells on the tubular motor resulted in a speed decrease, and the drag force during motion eventually weakened the interactions, releasing the cells【7:1†source】.
+
+**Nickel Nanowire and Tumbling Motion:**
+Zhang and Nelson demonstrated a nickel nanowire that exhibited a tumbling motion under a rotating magnetic field. For cell manipulation, they attached flagellated microorganisms or red blood cells to the nanowires through entanglement and attachment. This system transported and positioned blood cells on top of epidermal cells, providing a new strategy for precise cell transportation and manipulation【7:1†source】.
+
+**Bull Sperm Cell Trapping:**
+Schmidt and Sanchez successfully trapped a bull sperm cell inside a conically shaped magnetic Ti/Fe microtube. The sperm cell provided propulsion, while the magnetic microtube allowed for remote magnetic control. The cell-loaded microtube was oriented and moved from a reservoir chamber to a collecting chamber using an external magnetic field【7:0†source】.
+
+**Helix-Sperm Hybrid Motors:**
+The same group later fabricated a polymer micro-helix with a NiTi bilayer coating. This synthetic helical micromotor could capture a sperm cell, confining its tail inside the inner part of the micro-helix while its head stuck out at the front end. A rotating magnetic field actuated the helix-sperm hybrid motors, which transported an immotile sperm cell to an oocyte cell and released it, showing great potential in treating infertility【7:4†source】.
+
+**Selective Interaction and Cell-Motor Hybrids:**
+Sanchez's team also explored the selective interaction between metals and bacterial cells to form cell-motor hybrids. For instance, Escherichia coli (E. coli) cells preferentially adhered to the Pt cap of Janus particles over Fe, Ti, or Au. Suzuki et al. fabricated polystyrene-based micromotors with platinum and zinc hemispheres. Autonomous movement of these microparticles was powered by the reaction of zinc and water on the particle surface, with hydrophobic interactions capturing E. coli cells. By adjusting the free zinc ion concentration, the E. coli cells could be released in a controlled manner【7:4†source】【7:1†source】.
+
+**Functionalization for Specific Binding:**
+Functionalization of micromotors with specific groups facilitates selective binding to cells and subsequent sorting. For example, Wang's team functionalized tubular microswimmers with an anti-carcinoembryonic antigen (anti-CEA) monoclonal antibody, targeting a surface antigen overexpressed in most colorectal, gastric, and pancreatic cancer cells. This functionalization enabled the micromotors to selectively bind and pick up target cells in a mixture of cell suspensions【7:4†source】.
+
+In conclusion, the advancements in micromotor technology for cell transportation and sorting open up new possibilities for precise and efficient manipulation of cells within biological environments. These innovations are paving the way for significant improvements in diagnostics, targeted therapies, and biotechnological applications.
+
+## wound healing
+### Wound Healing
+
+Wound healing is a multifaceted process that involves several stages, including blood clotting, wound contraction, and tissue formation. The development of micro- and nanomotors has significantly advanced our ability to assist these stages, offering promising methods to enhance wound healing efficiency and reduce complications.
+
+In the early stages of wound healing, blood clotting is crucial to prevent excessive bleeding and facilitate the subsequent healing processes. A notable advancement in this area is the work of Kastrup’s group, who developed a porous calcium carbonate microparticle-based motor system. These microparticles, when combined with protonated tranexamic acid (a fuel), react to release CO2, enabling the motor to propel laterally and rise buoyantly. This system operates at speeds up to 5.9 mm/s, allowing the motors to move against blood flow effectively. By loading these micromotors with thrombin, a serine protease that activates the coagulation system in vivo, they were able to significantly reduce bleeding time in an amputated mouse tail model from 14 minutes to 4 minutes  .
+
+The subsequent stage of wound healing involves wound closure, where He’s group has made significant contributions. They developed a silica nanoparticle-based Janus motor through a layer-by-layer self-assembly process, with a layer of gold sputtered onto the silica surface. These particles, when administered to the wound area and exposed to near-infrared (NIR) laser irradiation, generate local heating. This heating melts blood cells to form a film and denatures collagen in the local tissues, leading to tissue melting and subsequent condensation and closure upon cooling. This method was tested on various animal tissues, including beef liver and chicken meat, and showed superior results in wound healing in a mouse model compared to traditional medical sutures and laser-only welding  .
+
+Additionally, for targeting bone cracks and promoting new bone tissue growth, Sen’s group utilized positive ion gradients generated by bone cracks to guide charged therapeutic particles. Negatively charged particles, such as quantum dots and enzymes, were attracted to the cracks, while positively charged particles moved away. When these negatively charged poly(lactic-co-glycolic acid) (PLGA) nanoparticles were loaded with sodium alendronate, a drug for treating osteoporosis, they effectively migrated towards the bone crack, achieving targeted drug delivery  .
+
+These innovations highlight the significant potential of micro- and nanomotors in enhancing wound healing through targeted delivery and precise control of therapeutic agents, demonstrating their promise in improving clinical outcomes and reducing recovery times.
+
+## Surgical Tools
+
+Since the advent of minimally invasive surgery, there has been a persistent effort to minimize operational trauma at every stage. This pursuit begins with minimal incision and robot-assisted precision cutting. Achieving this requires the use of minimally invasive surgical tools or miniaturized surgical devices. Current practices in minimally invasive surgery have shown promising results, but challenges remain in treating malignant tissues located deep within the body or close to vascular systems. Therefore, there is a pressing need for innovative minimally invasive tools. Various types of micromotors have been developed for use as minimally invasive surgical tools. These micromotors, being on the micro or nanometer scale, cause minimal invasive cuts and are beneficial for subsequent wound recovery.
+
+Gracias’ group has designed microgrippers using a multilayer microfabrication process, with sizes ranging from 300 µm to 1.5 mm. These microgrippers consist of two parts: a rigid region made of ferromagnetic nickel and flexible stress-powered actuators with a thermosensitive polymer poly(N-isopropylacrylamide) (pNIPAM) layer. The nickel segment facilitates easy guidance and retrieval with a magnetic catheter. At room temperature, the microgrippers remain open but close within 10 minutes when the temperature rises to body temperature. These microgrippers have been successfully used to perform tissue excision from a real organ, such as the bile duct of a porcine liver. To enhance their multifunctionality, the same group later loaded model drugs like doxorubicin, mesalamine, and fluorescein into the porous network of poly(N-isopropylacrylamide-co-acrylic acid) (pNIPAM-AAc). These microgrippers could elute the loaded model drug for up to seven days, thereby functioning both as surgical tools and drug delivery carriers .
+
+Sanchez’s group has reported the use of ferromagnetic rolled-up microtubes with a sharp tip for tissue surgery. Incorporating a thin ferromagnetic iron layer facilitated manipulation with an external magnetic field. Using a pig liver section, these ferromagnetic microtubes could be guided to the target location, where they began drilling and making incisions  .
+
+For surgical tools requiring greater thrust, Wang and colleagues utilized ultrasound-powered perfluorocarbon (PFC)-loaded microbullets for tissue penetration and cleaving. Anionic perfluorocarbon emulsion was confined within the cysteamine-decorated interior of a tubular micromotor through electrostatic interactions. Ultrasound pulses triggered the vaporization of the perfluorocarbon emulsion from the interior of the tubular micromotor, generating significant thrust and producing linear motion at an ultrafast speed of 6.3 m/s. These PFC-loaded microbullets demonstrated the capability to penetrate, cleave, and expand dense lamb kidney tissue .
+
+Additionally, a PEDOT acid-driven microtube motor with acid-reactive zinc deposited on its surface, developed by the same group, was able to utilize locally available gastric acid as fuel and generate hydrogen bubbles as propulsion thrust. These microtubular motors remained stable and functional for ten minutes in the stomach environment, improving penetration into the gel-like mucus layer of the stomach wall and increasing their retention time. Even after twelve hours of administration, the micromotors were still observed in the stomach tissue despite acid degradation and digestive system movement  .
+
+Using similar magnesium microparticle-loaded PEDOT/Au microtubes, the same group demonstrated the possibility of gastrointestinal (GI) tract delivery. The reaction of magnesium and water generated robust propulsion for the system. By covering the micromotors with a pH-sensitive enteric coating that dissolves only in intestinal fluid, the micromotors were activated in the intestinal segment when the magnesium was exposed. Loading a fluorescent dye like Rhodamine 6G allowed the examination of the biodistribution of these micromotors after oral administration through fluorescence imaging. It was found that the coating thickness significantly influenced the biodistribution of the microtubes. Compared to inert silica particle-loaded microtubes, the magnesium-incorporated microtube motors demonstrated increased retention in the GI tract due to the propulsion and increased collision/penetration into the intestinal mucus layer .
+
+While excellent examples of micro/nanomotors have been demonstrated in various tissues, there are several steps to complete before these motors can be routinely used in surgery. Intelligent surgical tools that respond to diseased environments are needed. Greater control over the speed and direction of micro/nano surgical tools is essential for precise and site-specific surgery. Techniques for retrieving these tools after incision are necessary, or alternatively, the development of biodegradable tools. Micro/nanomotors capable of performing multiple incisions consecutively are required for solving complex medical tasks. Further development of micro/nanomotors with varied shapes and sizes will expand the toolbox for micro/nano surgery and address different needs  .
+
+## imaging
+### Imaging
+
+The advancement of medicine is significantly propelled by enhanced tools of observation and imaging, which are central to accurate diagnosis and essential for precise surgery. Precise imaging enables surgeons to remove small patches of malignant tissues, which is crucial for effective treatment. However, achieving diseased tissue-specific imaging requires novel imaging tools that are currently in high demand.
+
+Researchers have made considerable efforts to apply nanomotors in the field of imaging. For instance, leveraging the catalytic decomposition of endogenous hydrogen peroxide generated by inflamed tissues, ultrasonic sensing combined with a motor system has been employed to detect abscesses in vivo. Mattrey’s group developed layer-by-layer catalase-coated nanosphere converters for hydrogen peroxide detection and imaging in a rat abscess model. These highly efficient nanosphere converters consume hydrogen peroxide from the local environment and produce microbubbles detectable by ultrasound imaging. During abscess formation, activated neutrophils release excessive hydrogen peroxide, and with catalase-coated nanosphere converters, ultrasound signals were detected at the abscess site. This technique holds great promise due to its relevance in detecting inflammation, which is central to various disorders such as atherosclerosis and cancer  .
+
+In one application, a PEDOT acid-driven microtube motor with acid-reactive zinc on its surface was developed to utilize locally available gastric acid as fuel, generating hydrogen bubbles for propulsion. These micromotors remained stable and functional in the stomach environment for 10 minutes, improving penetration into the mucus layer of the stomach wall and increasing retention time. After 12 hours of administration, the micromotors were still observed in the stomach tissue despite acid degradation and digestive system movement .
+
+Using similar magnesium microparticle-loaded PEDOT/Au microtubes, another group demonstrated gastrointestinal (GI) tract delivery. The reaction between Mg and water generated robust propulsion, and by covering the micromotors with a pH-sensitive enteric coating, the micromotors were only activated in the intestinal segment when Mg was exposed. By loading a fluorescent dye, Rhodamine 6G, the biodistribution of these microtubular motors after oral administration could be examined using fluorescence imaging. The results indicated that the propulsion of the micromotors increased their retention in the GI tract, as evidenced by a higher fluorescence signal compared to inert silica particle-loaded microtubes .
+
+These advancements in imaging demonstrate the significant potential of nanomotors in enhancing diagnostic and therapeutic techniques. The continuous development of such innovative tools will likely lead to more precise and effective medical interventions in the future.
+
+## transportation in blood
+**Transportation in Blood**
+
+For intravenously administered micro/nanoparticles, blood acts as both the first medium of contact and a significant hurdle before reaching target tissues. Once in the bloodstream, synthetic micro/nanomotors face destruction from blood, which is a complex mixture of water, proteins, and cells. A process called opsonization involves plasma proteins binding to external particles, leading to their subsequent removal by macrophage cells in the liver and spleen. Besides blood proteins, blood cells also interact with foreign particles, resulting in shortened blood retention or systemic elimination. To achieve prolonged blood retention time and continuous functioning in blood, motors must be specially designed or functionalized with specific coatings.
+
+Much research has been dedicated to investigating the performance and potential applications of motors in blood and improving their transporting abilities. Wang and his team successfully loaded iron oxide nanoparticles into red blood cells (RBCs) using a hypotonic dilution/encapsulation method. The asymmetric distribution of loaded magnetic nanoparticles/aggregates inside the blood cell facilitates propulsion by ultrasound, while the blood cell membrane on its surface provides good blood biocompatibility and reduces the possibility of immune attack. When guided by an external magnetic field, the motor could navigate precisely along a predetermined route in undiluted whole blood. The J774 murine macrophage uptake assay confirmed that the RBC motor evaded uptake by macrophages【27:0†source】【27:2†source】.
+
+Utilizing the nonfouling properties of red blood cell membranes, Wang and Zhang et al. wrapped gold nanowires with red blood cell membranes to serve as a biomimetic sponge. The red blood cell membrane coating on the motor's surface provided superior compatibility and reduced the possibility of biofouling (unspecific protein adsorption) in a biological medium. In the presence of red blood cell membrane perforating toxin melittin, the motors acted as a decoy, efficiently protecting red blood cells from lysis【27:0†source】【27:3†source】.
+
+Guan et al. fabricated a Mg/Pt-poly(N-isopropylacrylamide) (pNIPAM) Janus micromotor. Through the reaction between Mg and H2O, these micromotors could autonomously move in simulated body fluid and human blood plasma despite high viscosity and possible protein attachment to catalytic active sites. With a thermosensitive PNIPAM hydrogel layer, a model drug FITC could be loaded into the hydrogel shell of micromotors at 4°C and subsequently released at elevated temperatures (20°C, 37°C). The release mechanism involved molecules being squeezed out when PNIPAM layers shrank above their volume phase transition temperature, as well as faster diffusion of molecules at higher temperatures. Hemolysis experiments showed no significant hemoglobin release, indicating the blood compatibility of the motor system and the induced motion【27:2†source】【27:4†source】.
+
+In addition to using the metal-water reaction for propulsion in blood, enzymes or enzyme cascades can also be effective. Wilson/Van Hest and coworkers designed an enzymatic network-driven motor consisting of four cycles. This metabolic pathway enabled the conversion of glucose and phosphoenolpyruvate into oxygen. Encapsulating the metabolic network into the outer compartment of stomatocyte polymersomes, the locally produced oxygen could propel the polymersome motor. Using human blood serum as the medium, the glucose (4 mM) and L-lactate (0.08 mM) in the blood were sufficient to power the motion of the whole system【27:4†source】.
+
+While rod-shaped or spherical motors have shown mobility in blood, it has been hypothesized that helical-shaped motors would be more efficient in overcoming the drag of viscous blood. Ghosh et al. used a magnetic helical nanoswimmer and explored the improvement in chemical stability towards biofluids with ferrite coatings on its surface. With a rotating magnetic field, the ferrite-coated helical motors propelled in fresh human blood via a corkscrew movement, which was considered advantageous for overcoming high viscosity drag. The nanopropellers displayed an interesting stick-and-slip dynamics in this media, thought to be related to the jamming and subsequent unjamming of red blood cells. Helical architectures can also be found in nature. Wang’s group used spiral water-conducting vessels from different plants as the template and deposited titanium and nickel on their surface to fabricate a new type of biohybrid helical microswimmer. Under a rotating magnetic field, these plant-derived microswimmers demonstrated fast motion (85 μm/s) in human serum, with negligible impact of body fluids on propulsion behavior【27:4†source】.
+
+The potential influence of the motor shape on speed in blood and interactions between plasma proteins remains to be fully explored. Only a few researchers have investigated the relationship between the motor surface coating and stability. It has been shown that coating micro/nanomotors with specific materials can enhance their performance in the complex biological environment of blood【27:5†source】.
 
 
-## <span style="color:#64ff61">مقالات مرتبط</span>
----
+## Transportation in a biological matrix
 
 
+The extracellular matrix (ECM) is a critical component of tissue, consisting of a gel-like mesh network of fibrous proteins and glycosaminoglycans (GAGs). This matrix provides biochemical and structural support for cells. Major components of the ECM include collagen, elastin, fibronectin, hyaluronan (HA), and heparin sulfate. Fischer and coworkers demonstrated a model using HA, which is known to form a strong interconnected network and is found in high concentrations in the vitreous humor of the eye and synovial fluid of joints. They engineered silica-nickel-based helical nanopropellers using the glancing angle deposition (GLAD) technique. These nanoscrews, once magnetized, responded to a rotating magnetic field, rotating along their long axis. Their chiral shape allowed efficient propulsion in a viscous medium, including a 3 mg/mL HA solution, which corresponds to the concentration in synovial fluid【31:0†source】.
 
+In another study, the same group reported the use of screw-like propellers for penetration into the mucin gel. Mucin gel, formed from mucin glycoproteins upon acidification, constitutes a major part of the viscoelastic layer on the stomach's surface, preventing the efficient entrance of drug carriers. Inspired by Helicobacter pylori, which uses urease-catalyzed urea hydrolysis to increase local pH and liquefy the mucin gel, the researchers coupled urease to helical micropropellers fabricated through the GLAD technique. They also deposited a shell of alumina (Al2O3) on the surface to protect the propellers from acid corrosion. Urease-free micropropellers, although they rotated in response to a rotating field, did not exhibit forward propulsion due to absorption and immobilization in the mucus gel matrix. In the presence of urea, urease-functionalized micropropellers could liquefy the gel and actively propel and penetrate the mucin gel【31:0†source】.
 
+In addition to pure gel models, Wilson and coworkers demonstrated motion in a tumor cell-laden collagen gel, mimicking tumor tissue. They fabricated platinum nanoparticle and doxorubicin-loaded poly(ethylene glycol)-b-polystyrene stomatocytes through self-assembly. Platinum nanoparticles were loaded into the outer cavity of the bowl-shaped structure, while doxorubicin was incorporated into the inner lumen and polymer membranes. The poly(ethylene glycol) on the surface imparted antifouling properties to the motors. With the catalytic activity of preloaded platinum nanoparticles, nickel was grown in situ using platinum as a substrate. By controlling the nickel growth time, the catalytic activity of platinum was preserved. The resulting platinum-nickel incorporated stomatocyte motors could propel in dual modes—catalytically powered and magnetically powered. Using a Hela cell-laden collagen gel as a tumor tissue mimicking model, the stomatocyte motors showed propulsion and motion within the gel mesh network【31:0†source】.
 
-> [!question] 
->- [ ] 
->- [ ]  
->- [ ] 
-
-
-> [!idea] 
-> - [ ] 
->- [ ] 
->- [ ] 
-
-
-
+For propulsion in body fluids, the biocompatibility of fuel and motors and the stability of the motors are crucial. To address these issues, researchers are focusing on developing motors with enhanced biocompatibility and stability to ensure efficient functioning in biological matrices.
 #article_review

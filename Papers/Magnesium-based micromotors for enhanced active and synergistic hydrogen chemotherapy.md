@@ -94,7 +94,7 @@ The self-propelled micromotors developed in this study are primarily magnesium (
 
 The self-propulsion mechanism of the Mg-based micromotors is driven by the reaction of magnesium with water, which produces hydrogen gas. This reaction can be summarized by the chemical equation:
 
-\[ \text{Mg} + 2\text{H}_2\text{O} \rightarrow \text{Mg(OH)}_2 + \text{H}_2 \]
+$\text{Mg} + 2\text{H}_2\text{O} \rightarrow \text{Mg(OH)}_2 + \text{H}_2$
 
 This hydrogen generation serves two purposes:
 1. **Propulsion:** The continuous production of hydrogen gas propels the micromotors forward, allowing them to navigate autonomously within the body.

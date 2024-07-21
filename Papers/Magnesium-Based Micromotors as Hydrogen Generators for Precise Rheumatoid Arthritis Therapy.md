@@ -77,7 +77,7 @@ The synthesis process involves several key steps:
 #### Mechanism of Action
 
 The Mg-HA micromotors operate through the Mg-water reaction, which generates H2 bubbles:
-\[ \text{Mg} + 2\text{H}_2\text{O} \rightarrow \text{Mg(OH)}_2 + \text{H}_2 \]
+$\text{Mg} + 2\text{H}_2\text{O} \rightarrow \text{Mg(OH)}_2 + \text{H}_2$
 The generated H2 bubbles not only provide propulsion but also serve as therapeutic agents by scavenging reactive oxygen species (ROS) and reducing oxidative stress. The propulsion mechanism enables the micromotors to move efficiently within the synovial fluid of the joints, ensuring targeted delivery of H2 to the inflamed areas.
 
 #### Therapeutic Application and Results
