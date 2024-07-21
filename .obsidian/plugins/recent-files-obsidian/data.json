@@ -5,12 +5,24 @@
       "path": "Goals/پیدا کردن مقالات مناسب برای جمع آوری داده.md"
     },
     {
-      "basename": "automatic data extraction",
-      "path": "Goals/automatic data extraction.md"
-    },
-    {
       "basename": "Metal organic framework coated vesicular nanoaggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin",
       "path": "Papers/Metal organic framework coated vesicular nanoaggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin.md"
+    },
+    {
+      "basename": "Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks",
+      "path": "Papers/Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks.md"
+    },
+    {
+      "basename": "بررسی موضوع مناسب برای تحقیق ارشد",
+      "path": "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md"
+    },
+    {
+      "basename": "بررسی MOF و CQD برای پروژه ارشد",
+      "path": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
+    },
+    {
+      "basename": "automatic data extraction",
+      "path": "Goals/automatic data extraction.md"
     },
     {
       "basename": "Metal organic framework coated vesicular nano-aggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin",
@@ -33,20 +45,12 @@
       "path": "Books/Books files/Richard O. Duda, Peter E. Hart, David G. Stork - Pattern classification-Wiley (2001).pdf"
     },
     {
-      "basename": "بررسی موضوع مناسب برای تحقیق ارشد",
-      "path": "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md"
-    },
-    {
       "basename": "تحقیق درباره ML و MOF",
       "path": "Goals/تحقیق درباره ML و MOF.md"
     },
     {
       "basename": "ارائه استاد مشاور ML",
       "path": "Goals/ارائه استاد مشاور ML.md"
-    },
-    {
-      "basename": "بررسی MOF و CQD برای پروژه ارشد",
-      "path": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
     },
     {
       "basename": "ML project - EEG signals",
@@ -195,10 +199,6 @@
     {
       "basename": "Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids",
       "path": "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md"
-    },
-    {
-      "basename": "MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks",
-      "path": "Papers/MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks.md"
     }
   ],
   "omittedPaths": [],
