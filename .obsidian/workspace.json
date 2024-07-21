@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "90aebf984b4e2c4c",
+            "id": "5a4f1bf33ab4e785",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +187,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b1d12392487200a3",
+  "active": "5a4f1bf33ab4e785",
   "lastOpenFiles": [
     "Books/William R Wagner (editor), Shelly E. Sakiyama-Elbert (editor), Guigen Zhang (editor), Michael J. Yaszemski (editor) - Biomaterials Science_ An Introduction to Materials in Medicine-Academic Press (202.pdf",
     "media/mof papers.xlsx",
