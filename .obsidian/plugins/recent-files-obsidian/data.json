@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "پیدا کردن مقالات مناسب برای جمع آوری داده",
-      "path": "Goals/پیدا کردن مقالات مناسب برای جمع آوری داده.md"
+      "basename": "PaperDataExtractor",
+      "path": "Goals/PaperDataExtractor.md"
+    },
+    {
+      "basename": "automatic data extraction",
+      "path": "Goals/automatic data extraction.md"
+    },
+    {
+      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
+      "path": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
+    },
+    {
+      "basename": "مقالات مناسب برای جمع آوری داده",
+      "path": "Goals/مقالات مناسب برای جمع آوری داده.md"
+    },
+    {
+      "basename": "biomaterials-science-an-introduction-to-materials-in-medicine",
+      "path": "Books/Books files/biomaterials-science-an-introduction-to-materials-in-medicine.pdf"
+    },
+    {
+      "basename": "(2020) Biomaterials Science  An Introduction to Materials in Medicine",
+      "path": "Books/(2020) Biomaterials Science  An Introduction to Materials in Medicine.md"
+    },
+    {
+      "basename": "(2008-03-13) Introduction to the Thermodynamics of Materials Fifth Edition",
+      "path": "Books/(2008-03-13) Introduction to the Thermodynamics of Materials Fifth Edition.md"
+    },
+    {
+      "basename": "Gold-Aptamer-Modified Metal−Organic Framework Drug Delivery Nanosystems for Combined PhotothermalChemotherapy of Cancer",
+      "path": "Papers/Gold-Aptamer-Modified Metal−Organic Framework Drug Delivery Nanosystems for Combined PhotothermalChemotherapy of Cancer.md"
+    },
+    {
+      "basename": "دیتاست drug loading capacity of MOFs",
+      "path": "Goals/دیتاست drug loading capacity of MOFs.md"
+    },
+    {
+      "basename": "Co-delivery of carboplatin and doxorubicin using ZIF-8 coated chitosan-poly(N-isopropyl acrylamide) nanoparticles through a dual pH thermo responsive strategy to breast cancer cells",
+      "path": "Papers/Co-delivery of carboplatin and doxorubicin using ZIF-8 coated chitosan-poly(N-isopropyl acrylamide) nanoparticles through a dual pH thermo responsive strategy to breast cancer cells.md"
+    },
+    {
+      "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
+      "path": "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md"
+    },
+    {
+      "basename": "ارائه کاربرد مواد در پزشکی",
+      "path": "Goals/ارائه کاربرد مواد در پزشکی.md"
+    },
+    {
+      "basename": "سمینار مهندسی بافت",
+      "path": "Goals/سمینار مهندسی بافت.md"
+    },
+    {
+      "basename": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning",
+      "path": "Papers/Papers files/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.pdf"
+    },
+    {
+      "basename": "تحقیق درباره ML و MOF",
+      "path": "Goals/تحقیق درباره ML و MOF.md"
     },
     {
       "basename": "Metal organic framework coated vesicular nanoaggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin",
@@ -21,20 +77,12 @@
       "path": "Goals/بررسی MOF و CQD برای پروژه ارشد.md"
     },
     {
-      "basename": "automatic data extraction",
-      "path": "Goals/automatic data extraction.md"
-    },
-    {
       "basename": "Metal organic framework coated vesicular nano-aggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin",
       "path": "Papers/Papers files/Metal organic framework coated vesicular nano-aggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin.pdf"
     },
     {
       "basename": "Fe 3 O 4 -Incorporated Metal-Organic Framework for Chemo Ferroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy",
       "path": "Papers/Fe 3 O 4 -Incorporated Metal-Organic Framework for Chemo Ferroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy.md"
-    },
-    {
-      "basename": "Co-delivery of carboplatin and doxorubicin using ZIF-8 coated chitosan-poly(N-isopropyl acrylamide) nanoparticles through a dual pH thermo responsive strategy to breast cancer cells",
-      "path": "Papers/Co-delivery of carboplatin and doxorubicin using ZIF-8 coated chitosan-poly(N-isopropyl acrylamide) nanoparticles through a dual pH thermo responsive strategy to breast cancer cells.md"
     },
     {
       "basename": "(2012-11-09) Pattern Classification",
@@ -45,28 +93,12 @@
       "path": "Books/Books files/Richard O. Duda, Peter E. Hart, David G. Stork - Pattern classification-Wiley (2001).pdf"
     },
     {
-      "basename": "تحقیق درباره ML و MOF",
-      "path": "Goals/تحقیق درباره ML و MOF.md"
-    },
-    {
       "basename": "ارائه استاد مشاور ML",
       "path": "Goals/ارائه استاد مشاور ML.md"
     },
     {
       "basename": "ML project - EEG signals",
       "path": "Goals/ML project - EEG signals.md"
-    },
-    {
-      "basename": "سمینار مهندسی بافت",
-      "path": "Goals/سمینار مهندسی بافت.md"
-    },
-    {
-      "basename": "ارائه کاربرد مواد در پزشکی",
-      "path": "Goals/ارائه کاربرد مواد در پزشکی.md"
-    },
-    {
-      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
-      "path": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
     },
     {
       "basename": "Magnesium-based micromotors for enhanced active and synergistic hydrogen chemotherapy",
@@ -125,20 +157,12 @@
       "path": "Papers/intelligent metallic micro nanomotors From propulsion to application.md"
     },
     {
-      "basename": "(2008-03-13) Introduction to the Thermodynamics of Materials Fifth Edition",
-      "path": "Books/(2008-03-13) Introduction to the Thermodynamics of Materials Fifth Edition.md"
-    },
-    {
       "basename": "Micronanomotors towards in vivo application cell, tissue and biofluid",
       "path": "Papers/Papers files/Micronanomotors towards in vivo application cell, tissue and biofluid.pdf"
     },
     {
       "basename": "Intelligent metallic micronanomotors From propulsion to application",
       "path": "Papers/Papers files/Intelligent metallic micronanomotors From propulsion to application.pdf"
-    },
-    {
-      "basename": "Biomaterials Science  An Introduction to Materials in Medicine",
-      "path": "Books/Biomaterials Science  An Introduction to Materials in Medicine.md"
     },
     {
       "basename": "(2023) Debugging Machine Learning Models with Python",
@@ -175,30 +199,6 @@
     {
       "basename": "راهنما",
       "path": "راهنما.md"
-    },
-    {
-      "basename": "Enzymatic micronanomotors in biomedicine from single motors to swarms",
-      "path": "Papers/Papers files/Enzymatic micronanomotors in biomedicine from single motors to swarms.pdf"
-    },
-    {
-      "basename": "prompt to write academic text based on source",
-      "path": "prompts/prompt to write academic text based on source.md"
-    },
-    {
-      "basename": "prompt for prompts",
-      "path": "prompts/prompt for prompts.md"
-    },
-    {
-      "basename": "Research progress related to thermosensitive hydrogel dressings in wound healing a review",
-      "path": "Papers/Research progress related to thermosensitive hydrogel dressings in wound healing a review.md"
-    },
-    {
-      "basename": "Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing",
-      "path": "Papers/Mesenchymal Stem Cell Spheroids Embedded in an Injectable Thermosensitive Hydrogel An In Situ Drug Formation Platform for Accelerated Wound Healing.md"
-    },
-    {
-      "basename": "Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids",
-      "path": "Papers/Thermosensitive injectable Chitosan Collagen Β-Glycerophosphate composite hydrogels for enhancing wound healing by encapsulating mesenchymal stem cell spheroids.md"
     }
   ],
   "omittedPaths": [],

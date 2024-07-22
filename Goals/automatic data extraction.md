@@ -19,9 +19,10 @@
 
 ---
 
-پاسخ:
 
 
+> [!my work] 
+> [[PaperDataExtractor]] 
 
 
 

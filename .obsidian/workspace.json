@@ -8,19 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01f1c680499c2869",
+            "id": "139e72539d167a8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/پیدا کردن مقالات مناسب برای جمع آوری داده.md",
+                "file": "Goals/مقالات مناسب برای جمع آوری داده.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f53b6fdbb5de478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/automatic data extraction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a83ede882ba88e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/PaperDataExtractor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -94,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/پیدا کردن مقالات مناسب برای جمع آوری داده.md",
+                "file": "Goals/PaperDataExtractor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/پیدا کردن مقالات مناسب برای جمع آوری داده.md"
+                "file": "Goals/PaperDataExtractor.md"
               }
             }
           },
@@ -127,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/پیدا کردن مقالات مناسب برای جمع آوری داده.md",
+                "file": "Goals/PaperDataExtractor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,54 +202,53 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "01f1c680499c2869",
+  "active": "0a83ede882ba88e7",
   "lastOpenFiles": [
+    "Goals/automatic data extraction.md",
+    "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
+    "Goals/PaperDataExtractor.md",
+    "Goals/مقالات مناسب برای جمع آوری داده.md",
+    "media/Pasted image 20240722175440.png",
+    "media/Pasted image 20240722174308.png",
+    "media/82E5E110",
+    "media/7AF8D110",
+    "Books/Books files/biomaterials-science-an-introduction-to-materials-in-medicine.pdf",
+    "Books/(2020) Biomaterials Science  An Introduction to Materials in Medicine.md",
+    "Books/Books files/biomaterials-science-an-introduction-to-materials-in-medicine-4nbsped-012816137x-9780128161371_compress.pdf",
+    "Books/(2008-03-13) Introduction to the Thermodynamics of Materials Fifth Edition.md",
+    "Books/(2020) Biomaterials Science.md",
+    "Books/Books files/William R Wagner (editor), Shelly E. Sakiyama-Elbert (editor), Guigen Zhang (editor), Michael J. Yaszemski (editor) - Biomaterials Science_ An Introduction to Materials in Medicine-Academic Press (202.pdf",
+    "Papers/Gold-Aptamer-Modified Metal−Organic Framework Drug Delivery Nanosystems for Combined PhotothermalChemotherapy of Cancer.md",
+    "Goals/دیتاست drug loading capacity of MOFs.md",
+    "Papers/Co-delivery of carboplatin and doxorubicin using ZIF-8 coated chitosan-poly(N-isopropyl acrylamide) nanoparticles through a dual pH thermo responsive strategy to breast cancer cells.md",
+    "Papers/Papers files/Gold-Aptamer-Modified Metal−Organic Framework Drug Delivery Nanosystems for Combined PhotothermalChemotherapy of Cancer.pdf",
+    "media/~$mof-dataset.xlsx",
+    "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
+    "media/1683A110",
+    "Goals/ارائه کاربرد مواد در پزشکی.md",
+    "Goals/سمینار مهندسی بافت.md",
+    "Papers/Papers files/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.pdf",
+    "Goals/تحقیق درباره ML و MOF.md",
+    "media/6F70CE00",
+    "media/Pasted image 20240721202640.png",
     "Papers/Metal organic framework coated vesicular nanoaggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin.md",
-    "Goals/پیدا کردن مقالات مناسب برای جمع آوری داده.md",
     "Papers/Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks.md",
     "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md",
     "Goals/بررسی MOF و CQD برای پروژه ارشد.md",
-    "media/mof-dataset.xlsx",
-    "Books/William R Wagner (editor), Shelly E. Sakiyama-Elbert (editor), Guigen Zhang (editor), Michael J. Yaszemski (editor) - Biomaterials Science_ An Introduction to Materials in Medicine-Academic Press (202.pdf",
-    "media/mof papers.xlsx",
     "media/Pasted image 20240721120544.png",
-    "Goals/automatic data extraction.md",
     "media/Pasted image 20240721115119.png",
     "media/Pasted image 20240721114634.png",
-    "Papers/Papers files/Metal organic framework coated vesicular nano-aggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin.pdf",
     "Papers/Fe 3 O 4 -Incorporated Metal-Organic Framework for Chemo Ferroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy.md",
-    "Papers/Co-delivery of carboplatin and doxorubicin using ZIF-8 coated chitosan-poly(N-isopropyl acrylamide) nanoparticles through a dual pH thermo responsive strategy to breast cancer cells.md",
-    "Papers/Papers files/Fe3O4 -Incorporated Metal-Organic Framework for ChemoFerroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy.pdf",
-    "Papers/Papers files/temp/Fe3O4 -Incorporated Metal-Organic Framework for ChemoFerroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy.pdf",
-    "Papers/Papers files/temp/10.1002_adhm.202303839_gynx.pdf",
-    "Papers/Papers files/temp/Metal organic framework coated vesicular nano-aggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin.pdf",
-    "Papers/Papers files/temp",
-    "Papers/Papers files/New folder",
     "media/Pasted image 20240719191718.png",
     "Goals/mof-dataset.xlsx.md",
     "Books/(2012-11-09) Pattern Classification.md",
     "Untitled.md",
     "Untitled.canvas",
-    "Goals/تحقیق درباره ML و MOF.md",
     "Goals/ارائه استاد مشاور ML.md",
     "Goals/ML project - EEG signals.md",
-    "Goals/سمینار مهندسی بافت.md",
-    "Goals/ارائه کاربرد مواد در پزشکی.md",
-    "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
     "Papers/Magnesium-based micromotors for enhanced active and synergistic hydrogen chemotherapy.md",
-    "Papers/Magnesium-Based Micromotors as Hydrogen Generators for Precise Rheumatoid Arthritis Therapy.md",
-    "Papers/Cell-Membrane-Coated Synthetic Nanomotors for Effective Biodetoxification.md",
-    "Papers/Water-Powered Cell-Mimicking Janus Micromotor.md",
-    "Papers/Guidable Thermophoretic Janus Micromotors Containing Gold Nanocolorifiers for Infrared Laser Assisted Tissue Welding.md",
-    "Papers/Micro nanomotors towards in vivo application cell, tissue and biofluid.md",
-    "Papers/Photothermal driven micro nanomotors From structural design to potential applications.md",
-    "Papers/Self-Propelled MicroNanomotors for Tumor Targeting Delivery and Therapy.md",
-    "temp note.md",
     "media/Pasted image 20240616164750.png",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/love-512x512.png",
-    "media/Pasted image 20240519145016.png",
-    "media/Pasted image 20240519145002.png",
-    "media/Pasted image 20240519144949.png",
-    "media/Pasted image 20240519144918.png"
+    "media/Pasted image 20240519145016.png"
   ]
 }

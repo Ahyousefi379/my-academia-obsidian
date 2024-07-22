@@ -37,7 +37,7 @@
     {
       "name": "greekLetters",
       "active": true,
-      "visible": true
+      "visible": false
     },
     {
       "name": "colors",

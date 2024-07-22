@@ -12,59 +12,8 @@ article type:
 
 [[Extracting accurate materials data from research papers with conversational language models and prompt engineering.pdf|PDF]]
 
-**<span style="color:#00b0f0">سوال یا هدف:</span>**
 
 
-
-## <span style="color:#64ff61">خلاصه موارد پژوهش</span>
----
-
-## <span style="color:#64ff61">تئوری</span>
----
-
-
-
-## <span style="color:#64ff61">خلاصه materials and methods</span>
----
-
-روش سنتز = 
-
-
-
-## <span style="color:#64ff61"> نتایج و تفسیر</span>
----
-
-
-
-## <span style="color:#64ff61">نتیجه گیری</span>
----
-
-
-
-## <span style="color:#64ff61">پاسخ نهایی</span>
----
-
-
-
-
-## <span style="color:#64ff61">مقالات مرتبط</span>
----
-
-
-
-
-
-> [!question] 
->- [ ] 
->- [ ]  
->- [ ] 
-
-
-> [!idea] 
-> - [ ] 
->- [ ] 
->- [ ] 
-
-
+[[PaperDataExtractor]]
 
 #article_review
