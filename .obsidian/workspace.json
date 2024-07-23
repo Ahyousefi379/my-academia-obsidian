@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "eebb95fdb47f7064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/دیتاست drug loading capacity of MOFs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8f53b6fdbb5de478",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,10 +218,11 @@
   },
   "active": "0a83ede882ba88e7",
   "lastOpenFiles": [
-    "Goals/automatic data extraction.md",
-    "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
-    "Goals/PaperDataExtractor.md",
     "Goals/مقالات مناسب برای جمع آوری داده.md",
+    "Goals/دیتاست drug loading capacity of MOFs.md",
+    "Goals/automatic data extraction.md",
+    "Goals/PaperDataExtractor.md",
+    "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
     "media/Pasted image 20240722175440.png",
     "media/Pasted image 20240722174308.png",
     "media/82E5E110",
@@ -220,7 +234,6 @@
     "Books/(2020) Biomaterials Science.md",
     "Books/Books files/William R Wagner (editor), Shelly E. Sakiyama-Elbert (editor), Guigen Zhang (editor), Michael J. Yaszemski (editor) - Biomaterials Science_ An Introduction to Materials in Medicine-Academic Press (202.pdf",
     "Papers/Gold-Aptamer-Modified Metal−Organic Framework Drug Delivery Nanosystems for Combined PhotothermalChemotherapy of Cancer.md",
-    "Goals/دیتاست drug loading capacity of MOFs.md",
     "Papers/Co-delivery of carboplatin and doxorubicin using ZIF-8 coated chitosan-poly(N-isopropyl acrylamide) nanoparticles through a dual pH thermo responsive strategy to breast cancer cells.md",
     "Papers/Papers files/Gold-Aptamer-Modified Metal−Organic Framework Drug Delivery Nanosystems for Combined PhotothermalChemotherapy of Cancer.pdf",
     "media/~$mof-dataset.xlsx",

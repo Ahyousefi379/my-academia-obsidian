@@ -6,7 +6,7 @@
 - service: Groq (free plan API)\
 
 ```
-groq_api = "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"
+groq = "myapiis'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"
 ```
 
 - LLM: Llama3 70b (instruct)
@@ -23,6 +23,15 @@ groq_api = "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"
 
 
 
+> [!لیست کار ها] 
+>  - [.]  یادگرفتن کار کردن با API LLM
+>  - [ ] کار با PDF تو پایتون
+> 	 - [x] خوندن متن از روی PDF
+> 	 - [ ] تبدیل کل PDF به یک متن بدون شماره صفحات و توضیحات اضافه
+> 	 - [ ] جدا کردن بخش های نتیجه، سنتز و چکیده از متن
+>  - [x] نوشتن شمای کلی برنامه
+>  - [ ] پیاده سازی منطق برنامه بر اساس فلوچارت
+>  - [ ] نوشتن برنامه برای دانلود لیستی از PDF ها
 
 
 

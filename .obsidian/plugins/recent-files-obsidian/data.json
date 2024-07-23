@@ -5,16 +5,20 @@
       "path": "Goals/PaperDataExtractor.md"
     },
     {
+      "basename": "مقالات مناسب برای جمع آوری داده",
+      "path": "Goals/مقالات مناسب برای جمع آوری داده.md"
+    },
+    {
+      "basename": "دیتاست drug loading capacity of MOFs",
+      "path": "Goals/دیتاست drug loading capacity of MOFs.md"
+    },
+    {
       "basename": "automatic data extraction",
       "path": "Goals/automatic data extraction.md"
     },
     {
       "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
       "path": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
-    },
-    {
-      "basename": "مقالات مناسب برای جمع آوری داده",
-      "path": "Goals/مقالات مناسب برای جمع آوری داده.md"
     },
     {
       "basename": "biomaterials-science-an-introduction-to-materials-in-medicine",
@@ -31,10 +35,6 @@
     {
       "basename": "Gold-Aptamer-Modified Metal−Organic Framework Drug Delivery Nanosystems for Combined PhotothermalChemotherapy of Cancer",
       "path": "Papers/Gold-Aptamer-Modified Metal−Organic Framework Drug Delivery Nanosystems for Combined PhotothermalChemotherapy of Cancer.md"
-    },
-    {
-      "basename": "دیتاست drug loading capacity of MOFs",
-      "path": "Goals/دیتاست drug loading capacity of MOFs.md"
     },
     {
       "basename": "Co-delivery of carboplatin and doxorubicin using ZIF-8 coated chitosan-poly(N-isopropyl acrylamide) nanoparticles through a dual pH thermo responsive strategy to breast cancer cells",
