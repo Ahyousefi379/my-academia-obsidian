@@ -78,6 +78,6 @@ groq = "myapiis'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"
 
 
 > [!question] 
->- [ ] به بیشتر از 1 api key نیاز دارم؟ 
+>- [x] به بیشتر از 1 api key نیاز دارم؟ 
 
 #Goal #پروژه_ارشد 
