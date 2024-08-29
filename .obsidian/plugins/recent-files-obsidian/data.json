@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "temp note",
-      "path": "temp note.md"
-    },
-    {
-      "basename": "prompt for prompts",
-      "path": "prompts/prompt for prompts.md"
-    },
-    {
-      "basename": "مقالات مناسب برای جمع آوری داده",
-      "path": "Goals/مقالات مناسب برای جمع آوری داده.md"
-    },
-    {
-      "basename": "(2020) Biomaterials Science  An Introduction to Materials in Medicine",
-      "path": "Books/(2020) Biomaterials Science  An Introduction to Materials in Medicine.md"
-    },
-    {
       "basename": "PaperDataExtractor",
       "path": "Goals/PaperDataExtractor.md"
     },
@@ -25,12 +9,32 @@
       "path": "Goals/دیتاست drug loading capacity of MOFs.md"
     },
     {
+      "basename": "مقالات مناسب برای جمع آوری داده",
+      "path": "Goals/مقالات مناسب برای جمع آوری داده.md"
+    },
+    {
+      "basename": "langchain for data extraction",
+      "path": "Goals/langchain for data extraction.md"
+    },
+    {
+      "basename": "temp note",
+      "path": "temp note.md"
+    },
+    {
       "basename": "automatic data extraction",
       "path": "Goals/automatic data extraction.md"
     },
     {
       "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
       "path": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
+    },
+    {
+      "basename": "prompt for prompts",
+      "path": "prompts/prompt for prompts.md"
+    },
+    {
+      "basename": "(2020) Biomaterials Science  An Introduction to Materials in Medicine",
+      "path": "Books/(2020) Biomaterials Science  An Introduction to Materials in Medicine.md"
     },
     {
       "basename": "biomaterials-science-an-introduction-to-materials-in-medicine",
@@ -195,10 +199,6 @@
     {
       "basename": "Magnesium-based micromotors for enhanced active and synergistic hydrogen chemotherapy",
       "path": "Papers/Papers files/Magnesium-based micromotors for enhanced active and synergistic hydrogen chemotherapy.pdf"
-    },
-    {
-      "basename": "Magnesium-Based Micromotors as Hydrogen Generators for Precise Rheumatoid Arthritis Therapy",
-      "path": "Papers/Papers files/Magnesium-Based Micromotors as Hydrogen Generators for Precise Rheumatoid Arthritis Therapy.pdf"
     }
   ],
   "omittedPaths": [],

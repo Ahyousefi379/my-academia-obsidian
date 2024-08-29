@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1110b7ffc2c876c7",
+            "id": "a1be632c686d191d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp note.md",
+                "file": "Goals/مقالات مناسب برای جمع آوری داده.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35e9e54216e19d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/PaperDataExtractor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temp note.md",
+                "file": "Goals/PaperDataExtractor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp note.md"
+                "file": "Goals/PaperDataExtractor.md"
               }
             }
           },
@@ -127,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temp note.md",
+                "file": "Goals/PaperDataExtractor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,24 +182,25 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "custom-sort:Toggle custom sorting": false,
       "obsidian-importer:Open Importer": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
+      "custom-sort:Toggle custom sorting": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1110b7ffc2c876c7",
+  "active": "35e9e54216e19d00",
   "lastOpenFiles": [
-    "prompts/prompt for prompts.md",
-    "temp note.md",
-    "Goals/مقالات مناسب برای جمع آوری داده.md",
-    "Books/(2020) Biomaterials Science  An Introduction to Materials in Medicine.md",
-    "Goals/PaperDataExtractor.md",
     "Goals/دیتاست drug loading capacity of MOFs.md",
+    "Goals/مقالات مناسب برای جمع آوری داده.md",
+    "media/~$mof-dataset.xlsx",
+    "Goals/langchain for data extraction.md",
+    "Goals/PaperDataExtractor.md",
+    "temp note.md",
     "Goals/automatic data extraction.md",
     "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
-    "media/~$mof-dataset.xlsx",
+    "prompts/prompt for prompts.md",
+    "Books/(2020) Biomaterials Science  An Introduction to Materials in Medicine.md",
     "media/~$mof papers.xlsx",
     "media/Pasted image 20240722175440.png",
     "media/Pasted image 20240722174308.png",
@@ -219,8 +234,6 @@
     "Books/(2012-11-09) Pattern Classification.md",
     "Untitled.md",
     "Untitled.canvas",
-    "Goals/ارائه استاد مشاور ML.md",
-    "Goals/ML project - EEG signals.md",
     "media/Pasted image 20240616164750.png",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/love-512x512.png",
     "media/Pasted image 20240519145016.png"
