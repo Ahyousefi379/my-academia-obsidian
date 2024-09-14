@@ -36,41 +36,42 @@ groq = "myapiis'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"
 # data json 
 ```json
 {
-    "paper details":{
-        "paper title":"",
-        "publication year":0
-    },
-    "data":[
-        {
-            "nanoparticle properties":{
-                "nanoparticle name":"",
-                "name abbrevation":"",
-                "MOF":"",
-                "MOF size(nm) before dox loading":0,
-                "MOF size(nm) after dox loading":0,
-                "nanoparticle size(nm) before dox loading":0,
-                "nanoparticle size(nm) after dox loading":0,
-                "nanoparticle structure":"",
-                "average pore volume(nm3)":0,
-                "surface area per gram(m2/g)":0,
-                "total pore volume per gram(cm3/g)":0,
-                "bjh pore radius(nm)":0,
-                "MOF zeta potential before dox loading (mV)":0,
-                "MOF zeta potential after dox loading (mV)":0,
-                "nanoparticle zeta potential before dox loading (mV)":0,
-                "nanoparticle zeta potential after dox loading (mV)":0,
-                "MOF dox encapsulation efficiency (%)":0,
-                "MOF dox loading capaciy (%)":0
-            },
-            "dox loading parameters":{
-                "stirring time (seconds)":0,
-                "stirring rpm":0,
-                "dox solutoin concentration":0
-            }
-        }
-    ],
-    "data extraction confidence":"",
-    "extra information":""
+  "paper details": {
+    "paper title": "",
+    "publication year": 0
+  },
+  "data": [
+    {
+      "description": "",
+      "nanoparticle properties": {
+        "nanoparticle name": "",
+        "name abbrevation": "",
+        "MOF": "",
+        "MOF size(nm) before dox loading": 0,
+        "MOF size(nm) after dox loading": 0,
+        "nanoparticle size(nm) before dox loading": 0,
+        "nanoparticle size(nm) after dox loading": 0,
+        "nanoparticle structure": "",
+        "average pore volume(nm3)": 0,
+        "surface area per gram(m2/g)": 0,
+        "total pore volume per gram(cm3/g)": 0,
+        "bjh pore radius(nm)": 0,
+        "MOF zeta potential before dox loading (mV)": 0,
+        "MOF zeta potential after dox loading (mV)": 0,
+        "nanoparticle zeta potential before dox loading (mV)": 0,
+        "nanoparticle zeta potential after dox loading (mV)": 0,
+        "MOF dox encapsulation efficiency (%)": 0,
+        "MOF dox loading capaciy (%)": 0
+      },
+      "dox loading parameters": {
+        "stirring time (seconds)": 0,
+        "stirring rpm": 0,
+        "dox solutoin concentration": 0
+      }
+    }
+  ],
+  "data extraction confidence": "",
+  "extra information": ""
 }
 ```
 

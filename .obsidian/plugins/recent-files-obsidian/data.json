@@ -1,36 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "پروپوزال",
+      "path": "Goals/پروپوزال.md"
+    },
+    {
       "basename": "PaperDataExtractor",
       "path": "Goals/PaperDataExtractor.md"
-    },
-    {
-      "basename": "دیتاست drug loading capacity of MOFs",
-      "path": "Goals/دیتاست drug loading capacity of MOFs.md"
-    },
-    {
-      "basename": "مقالات مناسب برای جمع آوری داده",
-      "path": "Goals/مقالات مناسب برای جمع آوری داده.md"
-    },
-    {
-      "basename": "langchain for data extraction",
-      "path": "Goals/langchain for data extraction.md"
-    },
-    {
-      "basename": "temp note",
-      "path": "temp note.md"
     },
     {
       "basename": "automatic data extraction",
       "path": "Goals/automatic data extraction.md"
     },
     {
-      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
-      "path": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
+      "basename": "The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning",
+      "path": "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md"
+    },
+    {
+      "basename": "Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74",
+      "path": "Papers/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.md"
+    },
+    {
+      "basename": "Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach",
+      "path": "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md"
+    },
+    {
+      "basename": "Fe 3 O 4 -Incorporated Metal-Organic Framework for Chemo Ferroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy",
+      "path": "Papers/Fe 3 O 4 -Incorporated Metal-Organic Framework for Chemo Ferroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy.md"
+    },
+    {
+      "basename": "Recent advances in computational modeling of MOFs From molecular simulations to machine learning",
+      "path": "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md"
+    },
+    {
+      "basename": "تحقیق درباره ML و MOF",
+      "path": "Goals/تحقیق درباره ML و MOF.md"
+    },
+    {
+      "basename": "Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs",
+      "path": "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md"
+    },
+    {
+      "basename": "temp note",
+      "path": "temp note.md"
     },
     {
       "basename": "prompt for prompts",
       "path": "prompts/prompt for prompts.md"
+    },
+    {
+      "basename": "مقالات مناسب برای جمع آوری داده",
+      "path": "Goals/مقالات مناسب برای جمع آوری داده.md"
+    },
+    {
+      "basename": "دیتاست drug loading capacity of MOFs",
+      "path": "Goals/دیتاست drug loading capacity of MOFs.md"
+    },
+    {
+      "basename": "Extracting accurate materials data from research papers with conversational language models and prompt engineering",
+      "path": "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md"
     },
     {
       "basename": "(2020) Biomaterials Science  An Introduction to Materials in Medicine",
@@ -69,10 +97,6 @@
       "path": "Papers/Papers files/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.pdf"
     },
     {
-      "basename": "تحقیق درباره ML و MOF",
-      "path": "Goals/تحقیق درباره ML و MOF.md"
-    },
-    {
       "basename": "Metal organic framework coated vesicular nanoaggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin",
       "path": "Papers/Metal organic framework coated vesicular nanoaggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin.md"
     },
@@ -91,10 +115,6 @@
     {
       "basename": "Metal organic framework coated vesicular nano-aggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin",
       "path": "Papers/Papers files/Metal organic framework coated vesicular nano-aggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin.pdf"
-    },
-    {
-      "basename": "Fe 3 O 4 -Incorporated Metal-Organic Framework for Chemo Ferroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy",
-      "path": "Papers/Fe 3 O 4 -Incorporated Metal-Organic Framework for Chemo Ferroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy.md"
     },
     {
       "basename": "(2012-11-09) Pattern Classification",
@@ -175,30 +195,6 @@
     {
       "basename": "(2023) Debugging Machine Learning Models with Python",
       "path": "Books/(2023) Debugging Machine Learning Models with Python.md"
-    },
-    {
-      "basename": "(2016) Algorithms to Live By",
-      "path": "Books/(2016) Algorithms to Live By.md"
-    },
-    {
-      "basename": "love-512x512",
-      "path": "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/love-512x512.png"
-    },
-    {
-      "basename": "Photothermal therapy and photoacoustic imaging via nanotheranostics in fighting cancer",
-      "path": "Papers/Photothermal therapy and photoacoustic imaging via nanotheranostics in fighting cancer.md"
-    },
-    {
-      "basename": "synthetic micro Nanomotors for Drug Delivery",
-      "path": "Papers/synthetic micro Nanomotors for Drug Delivery.md"
-    },
-    {
-      "basename": "Photothermal therapy and photoacoustic imaging via nanotheranostics in fighting cancer",
-      "path": "Papers/Papers files/Photothermal therapy and photoacoustic imaging via nanotheranostics in fighting cancer.pdf"
-    },
-    {
-      "basename": "Magnesium-based micromotors for enhanced active and synergistic hydrogen chemotherapy",
-      "path": "Papers/Papers files/Magnesium-based micromotors for enhanced active and synergistic hydrogen chemotherapy.pdf"
     }
   ],
   "omittedPaths": [],

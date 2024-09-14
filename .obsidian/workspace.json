@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1be632c686d191d",
+            "id": "102aabf8346f6888",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/مقالات مناسب برای جمع آوری داده.md",
+                "file": "Goals/پروپوزال.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,7 +21,33 @@
             }
           },
           {
-            "id": "35e9e54216e19d00",
+            "id": "e86268306bc020d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f6d82bdd0cd6a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ef504355de58e77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/PaperDataExtractor.md",
+                "file": "Goals/پروپوزال.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/PaperDataExtractor.md"
+                "file": "Goals/پروپوزال.md"
               }
             }
           },
@@ -141,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/PaperDataExtractor.md",
+                "file": "Goals/پروپوزال.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +214,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "35e9e54216e19d00",
+  "active": "102aabf8346f6888",
   "lastOpenFiles": [
-    "Goals/دیتاست drug loading capacity of MOFs.md",
+    "Goals/PaperDataExtractor.md",
+    "Goals/automatic data extraction.md",
+    "Goals/langchain for data extraction.md",
+    "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md",
+    "Papers/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.md",
+    "Goals/پروپوزال.md",
+    "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
+    "Papers/Papers files/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.pdf",
+    "Papers/Fe 3 O 4 -Incorporated Metal-Organic Framework for Chemo Ferroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy.md",
+    "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md",
+    "Goals/تحقیق درباره ML و MOF.md",
+    "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md",
+    "temp note.md",
+    "prompts/prompt for prompts.md",
+    "Untitled.canvas",
     "Goals/مقالات مناسب برای جمع آوری داده.md",
     "media/~$mof-dataset.xlsx",
-    "Goals/langchain for data extraction.md",
-    "Goals/PaperDataExtractor.md",
-    "temp note.md",
-    "Goals/automatic data extraction.md",
+    "Goals/دیتاست drug loading capacity of MOFs.md",
     "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
-    "prompts/prompt for prompts.md",
     "Books/(2020) Biomaterials Science  An Introduction to Materials in Medicine.md",
     "media/~$mof papers.xlsx",
     "media/Pasted image 20240722175440.png",
@@ -218,22 +253,13 @@
     "media/1683A110",
     "Goals/ارائه کاربرد مواد در پزشکی.md",
     "Goals/سمینار مهندسی بافت.md",
-    "Papers/Papers files/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.pdf",
-    "Goals/تحقیق درباره ML و MOF.md",
     "media/Pasted image 20240721202640.png",
     "Papers/Metal organic framework coated vesicular nanoaggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin.md",
     "Papers/Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks.md",
-    "Goals/بررسی موضوع مناسب برای تحقیق ارشد.md",
-    "Goals/بررسی MOF و CQD برای پروژه ارشد.md",
     "media/Pasted image 20240721120544.png",
     "media/Pasted image 20240721115119.png",
     "media/Pasted image 20240721114634.png",
-    "Papers/Fe 3 O 4 -Incorporated Metal-Organic Framework for Chemo Ferroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy.md",
     "media/Pasted image 20240719191718.png",
-    "Goals/mof-dataset.xlsx.md",
-    "Books/(2012-11-09) Pattern Classification.md",
-    "Untitled.md",
-    "Untitled.canvas",
     "media/Pasted image 20240616164750.png",
     "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/love-512x512.png",
     "media/Pasted image 20240519145016.png"
