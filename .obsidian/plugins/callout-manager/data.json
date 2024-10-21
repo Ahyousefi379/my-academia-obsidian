@@ -2,7 +2,8 @@
   "callouts": {
     "custom": [
       "question",
-      "idea"
+      "idea",
+      "ایده "
     ],
     "settings": {
       "question": [
@@ -46,7 +47,6 @@
     }
   },
   "calloutDetection": {
-    "obsidianFallbackForced": false,
     "obsidian": true,
     "theme": true,
     "snippet": true

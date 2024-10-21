@@ -4,62 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "9c69cf973c04f610",
+        "id": "7d49796fd99216fb",
         "type": "tabs",
         "children": [
           {
-            "id": "102aabf8346f6888",
+            "id": "917110a72fb1e4ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/پروپوزال.md",
+                "file": "Goals/سه فصل اول پایان نامه.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "سه فصل اول پایان نامه"
             }
           },
           {
-            "id": "e86268306bc020d0",
+            "id": "317cb740b5f2d87f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.md",
+                "file": "Goals/تحقیق نوشتن پروپوزال PDT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "تحقیق نوشتن پروپوزال PDT"
             }
           },
           {
-            "id": "7f6d82bdd0cd6a92",
+            "id": "7d4fd20bd6ce2e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md",
+                "file": "Goals/A predictive model for personalization of nanotechnology-based phototherapy in cancer treatment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0ef504355de58e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/PaperDataExtractor.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "A predictive model for personalization of nanotechnology-based phototherapy in cancer treatment"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +73,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -94,7 +90,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -102,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -110,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -133,10 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/پروپوزال.md",
+                "file": "Goals/سه فصل اول پایان نامه.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from سه فصل اول پایان نامه"
             }
           },
           {
@@ -147,7 +151,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -156,8 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/پروپوزال.md"
-              }
+                "file": "Goals/سه فصل اول پایان نامه.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of سه فصل اول پایان نامه"
             }
           },
           {
@@ -166,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/پروپوزال.md",
+                "file": "Goals/سه فصل اول پایان نامه.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,19 +182,43 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for سه فصل اول پایان نامه"
             }
           },
           {
-            "id": "5a4f1bf33ab4e785",
+            "id": "26e321b2431d1296",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5dc3a348c535a563",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fb7e7940a76d34e6",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -200,7 +232,6 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
@@ -211,57 +242,60 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "custom-sort:Toggle custom sorting": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "callout-manager:Insert Callout": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "102aabf8346f6888",
+  "active": "b1d12392487200a3",
   "lastOpenFiles": [
-    "Goals/PaperDataExtractor.md",
-    "Goals/automatic data extraction.md",
-    "Goals/langchain for data extraction.md",
-    "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md",
-    "Papers/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.md",
-    "Goals/پروپوزال.md",
-    "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
-    "Papers/Papers files/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.pdf",
-    "Papers/Fe 3 O 4 -Incorporated Metal-Organic Framework for Chemo Ferroptosis Synergistic Anti-Tumor via the Enhanced Chemodynamic Therapy.md",
-    "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md",
-    "Goals/تحقیق درباره ML و MOF.md",
-    "Papers/Computational investigation of metal organic frameworks for storage and delivery of anticancer drugs.md",
+    "Papers/Papers files/A predictive model for personalization of nanotechnology-based phototherapy in cancer treatment.pdf",
+    "Goals/تحقیق نوشتن پروپوزال PDT.md",
+    "Goals/A predictive model for personalization of nanotechnology-based phototherapy in cancer treatment.md",
+    "Goals/سه فصل اول پایان نامه.md",
+    "templates/Goal.md",
     "temp note.md",
-    "prompts/prompt for prompts.md",
-    "Untitled.canvas",
-    "Goals/مقالات مناسب برای جمع آوری داده.md",
-    "media/~$mof-dataset.xlsx",
+    "Goals/پروپوزال.md",
+    "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
+    "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md",
+    "Papers/Papers files/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.pdf",
+    "media/Pasted image 20241015162949.png",
+    "media/Pasted image 20241015162916.png",
+    "media/Pasted image 20241015162832.png",
+    "media/Pasted image 20241015162807.png",
+    "media/Pasted image 20241015162730.png",
+    "Papers/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.md",
+    "Papers/Papers files/Optimizing ibuprofen concentration for rapid pharmacokinetics on biocompatible zinc-based MOF-74 and UTSA-74.pdf",
+    "Papers/Papers files/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.pdf",
+    "Papers/Chlorin-Based Nanoscale Metal–Organic Framework Systemically Rejects Colorectal Cancers via Synergistic Photodynamic Therapy and Checkpoint Blockade Immunotherapy.md",
+    "Papers/Nanoscale Metal−Organic Framework for Highly Effective Photodynamic Therapy of Resistant Head and Neck Cancer.md",
+    "Papers/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.md",
+    "Papers/A Nanoscale Metal-Organic Framework Overcomes Hypoxia for Photodynamic Therapy Primed Cancer Immunotherapy.md",
+    "Papers/Papers files/Chlorin-Based Nanoscale Metal–Organic Framework Systemically Rejects Colorectal Cancers via Synergistic Photodynamic Therapy and Checkpoint Blockade Immunotherapy.pdf",
+    "Papers/Papers files/Chlorin-Based Nanoscale Metal–Organic Framework Systemically Rejects Colorectal Cancers via Synergistic Photodynamic Therapy and Checkpoint Blockade (support) .pdf",
+    "media/Pasted image 20241006234728.png",
+    "Papers/Papers files/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.pdf",
+    "Papers/O2-Cu ZIF-8@Ce6 ZIF-8@F127 Composite as a Tumor Microenvironment- esponsive Nanoplatform with Enhanced Photo Chemo-Dynamic Antitumor Efficacy.md",
+    "Papers/Papers files/O2-Cu ZIF-8@Ce6 ZIF-8@F127 Composite as a Tumor Microenvironment- esponsive Nanoplatform with Enhanced Photo Chemo-Dynamic Antitumor Efficacy (supporting info).pdf",
+    "Papers/Papers files/O2-Cu ZIF-8@Ce6 ZIF-8@F127 Composite as a Tumor Microenvironment- esponsive Nanoplatform with Enhanced Photo Chemo-Dynamic Antitumor Efficacy.pdf",
+    "O2-Cu ZIF-8@Ce6 ZIF-8@F127 Composite as a Tumor Microenvironment- esponsive Nanoplatform with Enhanced Photo/Chemo-Dynamic Antitumor Efficacy.md",
+    "O2-Cu ZIF-8@Ce6 ZIF-8@F127 Composite as a Tumor Microenvironment- esponsive Nanoplatform with Enhanced Photo",
+    "O2-Cu/ZIF-8@Ce6/ZIF-8@F127 Composite as a Tumor Microenvironment- esponsive Nanoplatform with Enhanced Photo/Chemo-Dynamic Antitumor Efficacy.md",
+    "O2-Cu/ZIF-8@Ce6/ZIF-8@F127 Composite as a Tumor Microenvironment- esponsive Nanoplatform with Enhanced Photo",
+    "Papers/Cancer Cell Membrane Camouflaged Cascade Bioreactor for Cancer Targeted Starvation and Photodynamic Therapy.md",
+    "Papers/Singlet Oxygen in Photodynamic Therapy.md",
+    "Papers/A Nanoscale Metal–Organic Framework to Mediate Photodynamic Therapy and Deliver CpG Oligodeoxynucleotides to Enhance Antigen Presentation and Cancer Immunotherapy.md",
+    "Papers/intelligent metallic micro nanomotors From propulsion to application.md",
+    "Goals/ارائه کاربرد مواد در پزشکی.md",
     "Goals/دیتاست drug loading capacity of MOFs.md",
-    "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
-    "Books/(2020) Biomaterials Science  An Introduction to Materials in Medicine.md",
-    "media/~$mof papers.xlsx",
+    "Goals/مقالات مناسب برای جمع آوری داده.md",
+    "Papers/Self-Propelled MicroNanomotors for Tumor Targeting Delivery and Therapy.md",
+    "Papers/Co-delivery of carboplatin and doxorubicin using ZIF-8 coated chitosan-poly(N-isopropyl acrylamide) nanoparticles through a dual pH thermo responsive strategy to breast cancer cells.md",
+    "Untitled.canvas",
     "media/Pasted image 20240722175440.png",
     "media/Pasted image 20240722174308.png",
-    "media/82E5E110",
-    "media/7AF8D110",
-    "Books/Books files/biomaterials-science-an-introduction-to-materials-in-medicine.pdf",
-    "Books/Books files/biomaterials-science-an-introduction-to-materials-in-medicine-4nbsped-012816137x-9780128161371_compress.pdf",
-    "Books/(2008-03-13) Introduction to the Thermodynamics of Materials Fifth Edition.md",
-    "Books/(2020) Biomaterials Science.md",
-    "Books/Books files/William R Wagner (editor), Shelly E. Sakiyama-Elbert (editor), Guigen Zhang (editor), Michael J. Yaszemski (editor) - Biomaterials Science_ An Introduction to Materials in Medicine-Academic Press (202.pdf",
-    "Papers/Gold-Aptamer-Modified Metal−Organic Framework Drug Delivery Nanosystems for Combined PhotothermalChemotherapy of Cancer.md",
-    "Papers/Co-delivery of carboplatin and doxorubicin using ZIF-8 coated chitosan-poly(N-isopropyl acrylamide) nanoparticles through a dual pH thermo responsive strategy to breast cancer cells.md",
-    "Papers/Papers files/Gold-Aptamer-Modified Metal−Organic Framework Drug Delivery Nanosystems for Combined PhotothermalChemotherapy of Cancer.pdf",
-    "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
-    "media/1683A110",
-    "Goals/ارائه کاربرد مواد در پزشکی.md",
-    "Goals/سمینار مهندسی بافت.md",
     "media/Pasted image 20240721202640.png",
-    "Papers/Metal organic framework coated vesicular nanoaggregates an intelligent ‘vehicle’ for sustained and leakage proof release of doxorubicin.md",
-    "Papers/Investigating the Parameters Affecting the Stability of Superparamagnetic Iron Oxide-Loaded Nanoemulsion Using Artificial Neural Networks.md",
-    "media/Pasted image 20240721120544.png",
-    "media/Pasted image 20240721115119.png",
-    "media/Pasted image 20240721114634.png",
-    "media/Pasted image 20240719191718.png",
-    "media/Pasted image 20240616164750.png",
-    "media/What Should I Use for Dot Product and Matrix Multiplication__ NumPy multiply vs. dot vs. matmul vs. @ _ Minkyung’s blog_files/love-512x512.png",
-    "media/Pasted image 20240519145016.png"
+    "media/Pasted image 20240721120544.png"
   ]
 }

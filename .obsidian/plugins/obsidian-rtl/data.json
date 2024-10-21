@@ -1,5 +1,7 @@
 {
-  "fileDirections": {},
+  "fileDirections": {
+    "temp note.md": "rtl"
+  },
   "defaultDirection": "auto",
   "rememberPerFile": true,
   "setNoteTitleDirection": true,

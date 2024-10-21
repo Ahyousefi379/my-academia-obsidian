@@ -5,6 +5,12 @@
       "ctime": 1710152195815,
       "items": [
         {
+          "type": "group",
+          "ctime": 1727618299140,
+          "items": [],
+          "title": "smart-chats"
+        },
+        {
           "type": "file",
           "ctime": 1717245124987,
           "path": "tags.md",

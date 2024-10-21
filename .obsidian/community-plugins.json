@@ -15,7 +15,6 @@
   "obsidian-code-block-enhancer",
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-file-color",
-  "obsidian-icon-folder",
   "highlightr-plugin",
   "note-refactor-obsidian",
   "callout-manager",
@@ -29,5 +28,8 @@
   "execute-code",
   "obsidian-importer",
   "pdf-plus",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "smart-connections",
+  "various-complements",
+  "oz-clear-unused-images"
 ]

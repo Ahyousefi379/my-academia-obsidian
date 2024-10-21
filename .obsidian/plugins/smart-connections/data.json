@@ -1,0 +1,34 @@
+{
+  "new_user": false,
+  "legacy_transformers": false,
+  "enable_mobile": false,
+  "actions": {
+    "lookup": true
+  },
+  "smart_notices": {},
+  "system_prompts_folder": "smart prompts",
+  "smart_chat_folder": "smart-chats",
+  "smart_chat_folder_last": "smart-chats",
+  "chat_model_platform_key": "custom_api",
+  "open_router": {},
+  "api_key": "",
+  "excluded_headings": "",
+  "folder_exclusions": "smart-chats",
+  "show_full_path": false,
+  "expanded_view": true,
+  "language": "en",
+  "version": "2.2.82",
+  "env_data_dir": ".smart-env",
+  "env_data_dir_last": ".smart-env",
+  "custom_api": {
+    "model_name": "llama-3.1-70b-versatile",
+    "description": "Custom API (OpenAI format)",
+    "type": "API",
+    "protocol": "https",
+    "path": "/openai/v1/chat/completions",
+    "hostname": "api.groq.com",
+    "streaming": false,
+    "max_input_tokens": 5000,
+    "api_key": "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"
+  }
+}
