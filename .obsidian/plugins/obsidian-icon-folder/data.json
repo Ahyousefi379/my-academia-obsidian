@@ -2,10 +2,16 @@
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
+    "fontSize": 27,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiLayoutTemplate",
+      "FarNoteSticky",
+      "SiBookstack",
+      "RiRobot3Fill",
+      "RiPresentationFill"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -26,5 +32,13 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "Goals": "LiGoal",
+  "media": "IbPhoto",
+  "Papers": "LiNewspaper",
+  "presentations": "RiPresentationFill",
+  "prompts": "RiRobot3Fill",
+  "Books": "SiBookstack",
+  "Concept notes": "FarNoteSticky",
+  "templates": "LiLayoutTemplate"
 }

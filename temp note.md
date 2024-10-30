@@ -1,39 +1,68 @@
 
+> [!summary] Basic Polymer Concepts: Mer, Monomer, Polymer
+
+==tags:== polymer-science, materials-science, chemistry, monomers, mers, polymers
+==difficulty:== Basic
+==field:== materials-science
+
+## Definition
+
+Polymers are large molecules (macromolecules) composed of repeating structural units called monomers, connected by covalent bonds.  These repeating units, when considered within the polymer chain, are referred to as mers.  Understanding the relationship between mers, monomers, and polymers is fundamental to the study of polymer science.
+
+## Key Points
+
+*   **Monomer:** A small molecule that can react to form repeating units in a polymer chain.
+*   **Mer:**  A repeat unit within a polymer chain.  It's derived from the monomer after polymerization.
+*   **Polymer:** A large molecule consisting of many repeating mers linked together.
+*   **Polymerization:** The chemical process by which monomers are linked together to form polymers.
+
+## Detailed Explanation
+
+### Monomers
+
+Monomers are the building blocks of polymers. They are small molecules containing reactive functional groups that allow them to link together during polymerization.  Examples include ethylene (for polyethylene), vinyl chloride (for polyvinyl chloride - PVC), and styrene (for polystyrene).
+
+### Mers
+
+Once a monomer has been incorporated into a polymer chain, it is called a mer.  Think of it this way: the monomer is the raw material, and the mer is the processed unit within the finished product (the polymer).  The chemical structure of a mer is often slightly different from the original monomer due to the rearrangement of bonds during polymerization.
+
+### Polymers
+
+Polymers are long chains, sometimes branched or cross-linked, consisting of many repeating mers. The properties of a polymer depend on several factors, including the type of monomer used, the length of the polymer chain (degree of polymerization), and the arrangement of the mers.
+
+### Subtopic 1: Degree of Polymerization
+
+The degree of polymerization (DP) refers to the number of repeat units (mers) in a polymer chain.  It directly influences the polymer's properties.  Higher DP generally leads to increased strength, melting point, and viscosity.
+
+### Subtopic 2: Types of Polymerization
+
+There are two main types of polymerization:
+
+*   **Addition Polymerization:** Monomers add to each other without the loss of any atoms.  This typically involves a chain reaction initiated by a free radical or an ion.
+*   **Condensation Polymerization:** Monomers react to form a polymer with the elimination of a small molecule, such as water.  Examples include the formation of nylon and polyester.
+
+## Important Formulas
+
+*   **Degree of Polymerization (DP):**  DP = Molecular Weight of Polymer / Molecular Weight of Monomer
 
 
-برای تحلیل _miscibility_ یا _غیر miscibility_ کوپلیمر مورد بحث در مقاله‌ی ارائه‌شده، تمرکز بر شواهد تجربی از آنالیزهای مختلف ضروری است. در ادامع به بررسی کوپلیمر **CN-PPTA/PVP** (پلی‌(2-سیانو-1,4-فنیلن‌ترفتالامید)/پلی‌وینیل‌پیرولیدون) پرداخته، *miscibility* یا عدم *miscibility* این سیستم پلیمری را ثابت خواهد شد. در این مقاله برای این کار از چندین تکنیک تجربی بهره گرفته شده که هر کدام اطلاعات مهمی در مورد تعاملات مولکولی و حالت فازی این دو پلیمر ارائه می‌دهد. این روش‌ها شامل ویسکومتری محلول رقیق، طیف‌سنجی مادون قرمز همبستگی دو بعدی (FTIR)، و طیف‌سنجی رزونانس مغناطیسی هسته‌ای (NMR) است. 
+## Visual Representations
 
-# 1. ویسکومتری محلول رقیق
-ویسکومتری به عنوان یکی از روش‌های استاندارد برای بررسی سازگاری یا *miscibility* پلیمرها استفاده می‌شود. در این روش، ویسکوزیته محلول‌های پلیمری اندازه‌گیری شده و نتایج آن با ویسکوزیته تئوری محاسبه‌شده از روابط تجربی مقایسه می‌شود. برای مخلوط‌های پلیمری، معادله ویسکوزیته به صورت زیر است:
-$$
-[\eta]_m = [\eta]_1 v_1 + [\eta]_2 v_2
-$$
+![[polymer-structure.png|500]]
+_A schematic representation of a polymer chain showing the relationship between monomers and mers.  Monomers (e.g., ethylene) react to form repeating units called mers within the polymer chain (e.g., polyethylene)._
 
-در این معادله:
-- ا$[\eta]_m$ ویسکوزیته ذاتی مخلوط پلیمری است،
-- ‌ا$[\eta]_1$ و $[\eta]_2$ ویسکوزیته ذاتی پلیمرهای 1 و 2 هستند،
-- ا$v_1$ و $v_2$ نسبت وزنی پلیمرهای 1 و 2 در مخلوط هستند.
 
-اگر ویسکوزیته تجربی $[\eta]_{exp}$ که از آزمایش به دست می‌آید بزرگتر از ویسکوزیته تئوری $[\eta]_{theo}$ باشد، این نشان‌دهنده وجود تعاملات جذبی قوی بین زنجیره‌های پلیمری است که منجر به *miscibility* می‌شود. برعکس، اگر $[\eta]_{exp}$ کمتر از $[\eta]_{theo}$ باشد، نشان می‌دهد که پلیمرها تمایلی به مخلوط شدن ندارند و احتمالاً فازهای جداگانه‌ای تشکیل می‌دهند.
+## Examples
 
-در آزمایش‌های مقاله، ویسکوزیته تجربی برای مخلوط‌های CN-PPTA/PVP با نسبت‌های مختلف (75/25، 50/50، و 25/75) در همه حالت‌ها بیشتر از مقدار تئوری بود. این افزایش ویسکوزیته به طور مستقیم به دلیل وجود تعاملات جذبی قوی بین دو پلیمر است. دلیل اصلی این تعاملات، پیوند هیدروژنی بین گروه‌های کربونیل PVP و گروه‌های آمید CN-PPTA است که موجب تقویت سازگاری این مخلوط در سطح مولکولی می‌شود.
-![[Pasted image 20241015162916.png]]
-![[Pasted image 20241015162949.png]]
-# 2. طیف‌سنجی مادون قرمز همبستگی دو بعدی (2D FTIR)
-یکی از روش‌های بسیار قوی برای تحلیل تعاملات بین پلیمرها، استفاده از طیف‌سنجی مادون قرمز همبستگی دو بعدی (2D FTIR) است. این روش می‌تواند جزئیات بیشتری از تعاملات مولکولی را نسبت به طیف‌سنجی ساده FTIR ارائه دهد. در این مطالعه، تمرکز بر روی باند جذبی گروه‌های کربونیل و آمید در CN-PPTA و PVP است.
+*   **Ethylene (Monomer) → Polyethylene (Polymer):**  Ethylene monomers undergo addition polymerization to form polyethylene, a common plastic.  Each mer in polyethylene is a -(CH2-CH2)- unit.
+*   **Vinyl Chloride (Monomer) → Polyvinyl Chloride (PVC) (Polymer):** Vinyl chloride monomers polymerize to form PVC, used in pipes and flooring.
+*   **Styrene (Monomer) → Polystyrene (Polymer):**  Styrene monomers polymerize to form polystyrene, used in packaging and insulation.
 
-در طیف‌های FTIR به‌دست‌آمده از مخلوط‌های CN-PPTA/PVP، مشاهده شده که باند جذبی کربونیل PVP در $1675 \text{cm}^{-1}$ به $1640 \text{cm}^{-1}$ منتقل شده است. این تغییر 35 cm⁻¹ نشان‌دهنده شکل‌گیری پیوند هیدروژنی قوی بین گروه‌های کربونیل PVP و گروه‌های NH (آمید II) در CN-PPTA است. این پیوند هیدروژنی قوی عامل اصلی اختلاط (miscibility) این دو پلیمر در سطح مولکولی است.
+python
+# Example of calculating Degree of Polymerization (DP)
 
-علاوه بر این، در CN-PPTA، باند جذبی کربونیل آمید از $1662 \text{cm}^{-1}$ به $1685 \text{cm}^{-1}$ منتقل شده که نشان می‌دهد برخی از گروه‌های کربونیل در CN-PPTA در حالت آزاد یا غیر پیوندی هستند. این اتفاق زمانی رخ می‌دهد که گروه‌های NH در CN-PPTA با کربونیل PVP پیوند هیدروژنی تشکیل دهند و به این ترتیب، برخی از گروه‌های کربونیل در CN-PPTA دیگر به هیدروژن متصل نباشند. همچنین، تغییرات مشابهی در باندهای خمشی NH (آمید II) CN-PPTA مشاهده شده است که از $1542 \text{cm}^{-1}$ به $1556 \text{cm}^{-1}$ منتقل شده است، که این نیز نشانه‌ای از پیوند هیدروژنی قوی بین CN-PPTA و PVP است.
+polymer_molecular_weight = 100000  # Example value
+monomer_molecular_weight = 104      # Example value for styrene
 
-![[Pasted image 20241015162730.png]]
-![[Pasted image 20241015162807.png]]
-# 3. طیف‌سنجی 13C NMR حالت جامد
-طیف‌سنجی 13C NMR یکی از ابزارهای قدرتمند برای بررسی ساختارهای پلیمری و تشخیص اختلاط در مقیاس مولکولی است. در این روش، تغییرات در جابجایی شیمیایی کربن‌های مختلف می‌تواند به عنوان نشانه‌ای از تعاملات مولکولی در نظر گرفته شود. پیوندهای هیدروژنی بین گروه‌های عملکردی در پلیمرها می‌تواند منجر به تغییراتی در چگالی الکترون اطراف اتم‌های کربن و در نتیجه جابجایی شیمیایی شود.
-
-در مطالعه انجام‌شده، تغییرات جابجایی شیمیایی برای گروه‌های کربونیل و زنجیره‌های آلیفاتیک PVP در مخلوط CN-PPTA/PVP مشاهده شده است. به طور خاص، جابجایی شیمیایی کربونیل PVP به سمت پایین (\(177.346 \text{ppm}\)) منتقل شده است که این نشان‌دهنده کاهش چگالی الکترون در اطراف اتم کربن کربونیل و ایجاد پیوند هیدروژنی بین کربونیل PVP و گروه NH در CN-PPTA است. همچنین، تغییرات مشابهی در گروه‌های CH₂ در PVP مشاهده شده است که باز هم نشان‌دهنده تعاملات قوی بین این دو پلیمر و اختلاط همگن آنها در مقیاس مولکولی است.
-![[Pasted image 20241015162832.png]]
-# 4. نتیجه‌گیری
-تمام شواهد تجربی ارائه‌شده، از جمله ویسکومتری، طیف‌سنجی FTIR و طیف‌سنجی NMR، به وضوح نشان می‌دهند که کوپلیمر CN-PPTA/PVP در سطح مولکولی *miscible* است. پیوندهای هیدروژنی قوی بین گروه‌های کربونیل PVP و گروه‌های آمید CN-PPTA دلیل اصلی این *miscibility* است. این تعاملات موجب می‌شوند که زنجیره‌های پلیمری به طور همگن با یکدیگر ترکیب شوند و ساختاری یکپارچه تشکیل دهند. 
-
-این نتایج نشان می‌دهد که ترکیب CN-PPTA/PVP نه تنها از لحاظ فیزیکی قابل ترکیب است، بلکه در سطح مولکولی نیز پیوندهای قوی‌ای بین دو پلیمر وجود دارد که از فازهای جدا جلوگیری می‌کند. این یافته‌ها می‌توانند به طور بالقوه در توسعه مواد پلیمری جدید با خواص بهبود‌یافته مانند مقاومت حرارتی و مکانیکی یا کاربردهای غشایی استفاده شوند.
+DP = polymer_molecular_weight / monomer_molecular_weight
+print(f"The degree of polymerization is: {DP}")

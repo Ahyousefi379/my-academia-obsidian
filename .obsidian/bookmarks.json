@@ -6,9 +6,9 @@
       "items": [
         {
           "type": "group",
-          "ctime": 1727618299140,
+          "ctime": 1730290318570,
           "items": [],
-          "title": "smart-chats"
+          "title": "presentations"
         },
         {
           "type": "file",
@@ -59,18 +59,6 @@
             }
           ],
           "title": "Papers"
-        },
-        {
-          "type": "group",
-          "ctime": 1717245093163,
-          "items": [],
-          "title": "presentations"
-        },
-        {
-          "type": "group",
-          "ctime": 1717245093163,
-          "items": [],
-          "title": "presentations"
         },
         {
           "type": "group",
@@ -133,6 +121,12 @@
           "ctime": 1713149479389,
           "items": [],
           "title": "prompts"
+        },
+        {
+          "type": "group",
+          "ctime": 1730290318570,
+          "items": [],
+          "title": "presentations"
         },
         {
           "type": "file",
