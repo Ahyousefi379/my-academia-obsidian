@@ -5,12 +5,6 @@
       "ctime": 1710152195815,
       "items": [
         {
-          "type": "group",
-          "ctime": 1730290318570,
-          "items": [],
-          "title": "presentations"
-        },
-        {
           "type": "file",
           "ctime": 1717245124987,
           "path": "tags.md",
@@ -121,6 +115,12 @@
           "ctime": 1713149479389,
           "items": [],
           "title": "prompts"
+        },
+        {
+          "type": "group",
+          "ctime": 1730290318570,
+          "items": [],
+          "title": "presentations"
         },
         {
           "type": "group",

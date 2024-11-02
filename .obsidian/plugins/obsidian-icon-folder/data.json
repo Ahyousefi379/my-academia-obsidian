@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolder",
+      "LiFiles",
+      "📕",
       "LiLayoutTemplate",
-      "FarNoteSticky",
-      "SiBookstack",
-      "RiRobot3Fill",
-      "RiPresentationFill"
+      "FarNoteSticky"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,7 +38,8 @@
   "Papers": "LiNewspaper",
   "presentations": "RiPresentationFill",
   "prompts": "RiRobot3Fill",
-  "Books": "SiBookstack",
+  "Books": "📕",
   "Concept notes": "FarNoteSticky",
-  "templates": "LiLayoutTemplate"
+  "templates": "LiLayoutTemplate",
+  "Papers/Papers files": "LiFolder"
 }
