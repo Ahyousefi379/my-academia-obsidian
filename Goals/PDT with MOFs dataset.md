@@ -1,6 +1,8 @@
  عنوان اصلی:
  مشخصات دیتاست 
 
+> [!caution]
+> برای پروژه فقط MOF هایی مد نظر هستن که حامل PSA هستن، نه اینکه لیگاندشون PSA باشه (exogenous)
 
 
 
@@ -32,8 +34,30 @@ paper doi
 
 
 
+# Scopus Query
+
+## paper for data search query
+
+``` Query
+TITLE-ABS-KEY (( "metal-organic framework*" OR mof* OR ( metal AND organic AND frameworks* )) AND ( "photosensitizing agent*" OR photosensitizers OR "photodynamic therapy" OR pdt )) AND ( LIMIT-TO ( DOCTYPE , "ar" ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
+
+```
+
+1044 results
 
 
+
+
+## similar works search
+
+``` Query
+
+TITLE-ABS-KEY (("metal-organic framework*" OR MOF* OR (metal AND organic AND frameworks*)) AND ("photosensitizing agent*" OR photosensitizers OR "photodynamic therapy" OR PDT) AND ("machine learning" OR "predictive model*" OR "feature selection" OR "data-driven" OR "ai"OR "artificial intelligence" OR "deep learning" OR DL))
+
+
+```
+
+8 results
 
 
 

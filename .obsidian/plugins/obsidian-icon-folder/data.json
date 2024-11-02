@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⭐",
       "LiFolder",
       "LiFiles",
       "📕",
-      "LiLayoutTemplate",
-      "FarNoteSticky"
+      "LiLayoutTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,8 @@
   "Books": "📕",
   "Concept notes": "FarNoteSticky",
   "templates": "LiLayoutTemplate",
-  "Papers/Papers files": "LiFolder"
+  "Papers/Papers files": "LiFolder",
+  "Goals/PDT with MOFs dataset.md": "⭐",
+  "Goals/سمینار مباحث ویژه.md": "⭐",
+  "Goals/سه فصل اول پایان نامه.md": "⭐"
 }
