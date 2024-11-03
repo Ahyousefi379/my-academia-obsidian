@@ -39,11 +39,11 @@ paper doi
 ## paper for data search query
 
 ``` Query
-TITLE-ABS-KEY (( "metal-organic framework*" OR mof* OR ( metal AND organic AND frameworks* )) AND ( "photosensitizing agent*" OR photosensitizers OR "photodynamic therapy" OR pdt )) AND ( LIMIT-TO ( DOCTYPE , "ar" ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
+TITLE-ABS-KEY ( "metal-organic framework*" OR mof* OR ( metal AND organic AND frameworks* ) AND ( "photosensitizing agent*" OR photosensitizers OR "photodynamic therapy" OR pdt ) ) AND ( LIMIT-TO ( DOCTYPE , "ar" ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) ) AND ( EXCLUDE ( EXACTKEYWORD , "CO 2 Reduction" ) )
 
 ```
 
-1044 results
+944 results
 
 
 
