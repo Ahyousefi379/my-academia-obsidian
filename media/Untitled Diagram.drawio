@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2024-11-03T10:30:32.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" etag="etiY6mlmJjglv2BaNEMg" version="23.1.5" type="device">
+  <diagram name="Page-1" id="_IHnZRuvhCsKwlGpZOwc">
+    <mxGraphModel dx="913" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-5" target="_3KNEBU_1-2QcZh1F1ab-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-5" value="all PDFs" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="381" y="30" width="88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-6" target="_3KNEBU_1-2QcZh1F1ab-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-6" target="_3KNEBU_1-2QcZh1F1ab-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-6" value="&lt;b&gt;paper_checker()&lt;br&gt;&lt;/b&gt;to check if the paper is related to our work and contains useful data&amp;nbsp;&lt;br&gt;based on title, abstract &amp;amp; conclusion" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-10" target="_3KNEBU_1-2QcZh1F1ab-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-10" value="remove irrelevant data:&lt;br&gt;introduction, references, paper metadata" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-12" target="_3KNEBU_1-2QcZh1F1ab-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-12" value="splitting text&lt;br&gt;1-abstract, 2- conclusion&lt;br&gt;3-chunked materials and methods&lt;br&gt;4-chunked results and discussions" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="369" width="210" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-15" target="_3KNEBU_1-2QcZh1F1ab-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-15" value="extract figures" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-18" target="_3KNEBU_1-2QcZh1F1ab-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-18" value="adding context to each chunk" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-20" target="_3KNEBU_1-2QcZh1F1ab-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-20" value="detecting nanoparticles names and quantity" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="255" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-22" target="_3KNEBU_1-2QcZh1F1ab-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-22" value="constructing Json for nps" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="660" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-24" target="_3KNEBU_1-2QcZh1F1ab-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-24" value="filling jsons with data from chunks" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="255" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-26" target="_3KNEBU_1-2QcZh1F1ab-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-26" value="check json data with the paper text&lt;br&gt;(agentic or recursive)" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="255" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-28" target="_3KNEBU_1-2QcZh1F1ab-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-28" value="combining data" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="485" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_3KNEBU_1-2QcZh1F1ab-31" target="_3KNEBU_1-2QcZh1F1ab-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-31" value="extract valid data points from figs" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="485" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3KNEBU_1-2QcZh1F1ab-35" value="inserting data to dataset" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=29;" vertex="1" parent="1">
+          <mxGeometry x="485" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

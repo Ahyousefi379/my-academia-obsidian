@@ -60,6 +60,14 @@ TITLE-ABS-KEY (("metal-organic framework*" OR MOF* OR (metal AND organic AND fra
 8 results
 
 
+# flowchart
+
+
+![[Untitled Diagram.drawio.png]]
+
+[[Untitled Diagram.drawio|xml file]]
+
+
 
 
 
