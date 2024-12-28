@@ -84,8 +84,7 @@
               "title": "temp note"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.50499725341797
+    "width": 368.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -194,10 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp note.md"
+                "file": "Goals/سه فصل اول پایان نامه.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of temp note"
+              "title": "Outline of سه فصل اول پایان نامه"
             }
           },
           {
@@ -258,12 +258,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ed55a55a6792892f",
+  "active": "1f376811e3d0f552",
   "lastOpenFiles": [
     "Papers/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.md",
-    "Goals/سه فصل اول پایان نامه.md",
-    "temp note.md",
     "masters thesis papers.canvas",
+    "temp note.md",
+    "Goals/سه فصل اول پایان نامه.md",
     "Papers/Singlet Oxygen in Photodynamic Therapy.md",
     "Concept notes/Agentic LLM/notes.md",
     "Concept notes/polymers/Polymers, macromolecules, monomers and oligomers, degree of polymerization.md",
