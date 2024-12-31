@@ -21,7 +21,7 @@ year = {2024}
 
 ```
 
-[[Poly(N-isopropylacrylamide) and Its Copolymers A Review on Recent Advances in the Areas of Sensing and Biosensing|PDF]]
+[[Poly(N-isopropylacrylamide) and Its Copolymers A Review on Recent Advances in the Areas of Sensing and Biosensing.pdf|PDF]]
 
 **<span style="color:#00b0f0">سوال یا هدف:</span>**
 

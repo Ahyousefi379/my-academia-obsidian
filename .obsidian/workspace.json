@@ -23,84 +23,22 @@
             }
           },
           {
-            "id": "9bb62298e65bdbbe",
+            "id": "d941057fa8ce3b39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.md",
+                "file": "Goals/سمینار مباحث ویژه.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies"
-            }
-          },
-          {
-            "id": "1311a763a4ac4875",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "masters thesis papers.canvas",
-                "viewState": {
-                  "x": 134.94027600432997,
-                  "y": -272.4626444769207,
-                  "zoom": -1.0000000762939483
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "masters thesis papers"
-            }
-          },
-          {
-            "id": "97e22a569e97ff37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Singlet Oxygen in Photodynamic Therapy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Singlet Oxygen in Photodynamic Therapy"
-            }
-          },
-          {
-            "id": "ed55a55a6792892f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "temp note"
-            }
-          },
-          {
-            "id": "a61eafd33dd2bb98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp note 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "temp note 2"
+              "title": "سمینار مباحث ویژه"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.50499725341797,
-    "collapsed": true
+    "width": 368.50499725341797
   },
   "right": {
     "id": "5b40515f099dc931",
@@ -210,10 +147,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp note 2.md"
+                "file": "Goals/سمینار مباحث ویژه.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of temp note 2"
+              "title": "Outline of سمینار مباحث ویژه"
             }
           },
           {
@@ -274,14 +211,34 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "a61eafd33dd2bb98",
+  "active": "d941057fa8ce3b39",
   "lastOpenFiles": [
+    "Papers/Papers files/Photodynamic Therapy.pdf",
+    "Papers/Papers files/Mechanisms of photodynamic therapy .pdf",
+    "Papers/Papers files/Photodynamic Therapy in the Treatment of Cancer—The Selection of Synthetic Photosensitizers.pdf",
+    "Papers/Papers files/Translation and Innovation of Photosensitizers.pdf",
+    "Papers/Papers files/Image-Guided Photodynamic Cancer Therapy.pdf",
+    "Papers/Papers files/Photodynamic Therapy From Theory to Application.pdf",
+    "Papers/Papers files/Photodynamic therapy – mechanisms, photosensitizers and combinations.pdf",
+    "Papers/Papers files/Photodynamic Therapy Review Principles, Photosensitizers, Applications, and Future Directions.pdf",
+    "Goals/Thermally induced sign change of Soret coefficient for dilute and semidilute solutions of poly(N-isopropylacrylamide) in ethanol.md",
+    "Papers/Poly(N-isopropylacrylamide) and Its Copolymers A Review on Recent Advances in the Areas of Sensing and Biosensing.md",
+    "Goals/Bottom-up approach to assess the molecular structure of aqueous poly(N‑isopropylacrylamide) at room temperature via infrared spectroscopy.md",
+    "Goals/سمینار مباحث ویژه.md",
+    "Papers/Papers files/Bottom-up approach to assess the molecular structure of aqueous poly(N‑isopropylacrylamide) at room temperature via infrared spectroscopy.pdf",
     "Goals/سه فصل اول پایان نامه.md",
-    "temp note.md",
-    "temp note 2.md",
     "Papers/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.md",
     "masters thesis papers.canvas",
     "Papers/Singlet Oxygen in Photodynamic Therapy.md",
+    "Goals/Mechanisms of photodynamic therapy.md",
+    "Goals/Photodynamic Therapy in the Treatment of Cancer—The Selection of Synthetic Photosensitizers.md",
+    "Goals/Photodynamic therapy  mechanisms, photosensitizers and combinations.md",
+    "Goals/Photodynamic Therapy Review Principles, Photosensitizers, Applications, and Future Directions.md",
+    "temp note 2.md",
+    "temp note.md",
+    "Goals/Translation and Innovation of Photosensitizers.md",
+    "Goals/Image-guided photodynamic cancer therapy.md",
+    "Goals/Photodynamic Therapy From Theory to Application.md",
     "Concept notes/Agentic LLM/notes.md",
     "Concept notes/polymers/Polymers, macromolecules, monomers and oligomers, degree of polymerization.md",
     "Goals/PDT with MOFs dataset.md",
@@ -292,28 +249,8 @@
     "Concept notes/Agentic LLM",
     "Concept notes/Python/python for data science.md",
     "Concept notes/Python/ML reading list.md",
-    "prompts/translate.md",
     "media/Untitled Diagram.drawio",
     "media/Untitled Diagram.drawio.png",
-    "Concept notes/polymers",
-    "Papers/Papers files/A metal-organic cage-based nanoagent for enhanced photodynamic antitumor therapy.pdf",
-    "Papers/A metal-organic cage-based nanoagent for enhanced photodynamic antitumor therapy.pdf",
-    "Goals/سمینار مباحث ویژه.md",
-    "Papers/Poly(N-isopropylacrylamide) and Copolymers A Review on Recent Progresses in Biomedical Applications.md",
-    "Goals/تحقیق نوشتن پروپوزال PDT.md",
-    "Goals/دیتاست drug loading capacity of MOFs.md",
-    "Papers/Papers files/Poly(N-isopropylacrylamide) and Copolymers A Review on Recent Progresses in Biomedical Applications.pdf",
-    "Papers/Poly(N-isopropylacrylamide) and Its Copolymers A Review on Recent Advances in the Areas of Sensing and Biosensing.md",
-    "Papers/Papers files/Poly(N-isopropylacrylamide) and Its Copolymers A Review on Recent Advances in the Areas of Sensing and Biosensing.pdf",
-    "media/~$mof-dataset.xlsx",
-    "templates/Concept.md",
-    "Goals/مقالات مناسب برای جمع آوری داده.md",
-    "templates/Goal.md",
-    "Ideas.md",
-    "Papers/A predictive model for personalization of nanotechnology-based phototherapy in cancer treatment.md",
-    "prompts/prompt for prompts.md",
-    "Papers/Papers files/A predictive model for personalization of nanotechnology-based phototherapy in cancer treatment.pdf",
-    "Papers/Papers files/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.pdf",
     "media/Pasted image 20241015162949.png",
     "media/Pasted image 20241015162916.png",
     "media/Pasted image 20241015162832.png",
