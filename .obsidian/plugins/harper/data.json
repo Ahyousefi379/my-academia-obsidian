@@ -1,0 +1,6 @@
+{
+  "useWebWorker": true,
+  "lintSettings": {
+    "spell_check": false
+  }
+}
