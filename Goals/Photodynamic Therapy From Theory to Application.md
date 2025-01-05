@@ -19,7 +19,7 @@
 
 ```
 
-[[|PDF]]
+[[Photodynamic Therapy From Theory to Application.pdf|PDF]]
 
 **<span style="color:#00b0f0">سوال یا هدف:</span>**
 
