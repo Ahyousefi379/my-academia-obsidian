@@ -99,3 +99,234 @@
         * 2.3.5.2. تفسیرپذیری مدل های یادگیری ماشین
         * 2.3.5.3. اعتبارسنجی و تعمیم پذیری مدل ها
         * 2.3.5.4. نیاز به دانش تخصصی در هر دو زمینه علوم مواد و یادگیری ماشین
+
+
+
+# منابع
+
+
+```
+@article {pdt-theory-to-application,
+	editor = {International Institute of Anticancer Research},
+	title = {Photodynamic Therapy. From Theory to Application},
+	volume = {35},
+	number = {2},
+	pages = {1223--1223},
+	year = {2015},
+	publisher = {International Institute of Anticancer Research},
+	issn = {0250-7005},
+	URL = {https://ar.iiarjournals.org/content/35/2/1223.4},
+	eprint = {https://ar.iiarjournals.org/content/35/2/1223.4.full.pdf},
+	journal = {Anticancer Research}
+}
+
+```
+
+
+```
+
+@article{pdt-Correia2021PhotodynamicTR, title={Photodynamic Therapy Review: Principles, Photosensitizers, Applications, and Future Directions}, author={Jos{\'e} Higino Gomes Correia and Jos{\'e} A. Rodrigues and Sara Pimenta and Tao Dong and Zhaochu Yang}, journal={Pharmaceutics}, year={2021}, volume={13}, url={https://api.semanticscholar.org/CorpusID:237935290} }
+
+
+```
+
+```
+@ARTICLE{Hu20155860,
+	author = {Hu, Jun and Tang, Yong'An and Elmenoufy, Ahmed H. and Xu, Huibi and Cheng, Zhen and Yang, Xiangliang},
+	title = {Nanocomposite-Based Photodynamic Therapy Strategies for Deep Tumor Treatment},
+	year = {2015},
+	journal = {Small},
+	volume = {11},
+	number = {44},
+	pages = {5860 – 5887},
+	doi = {10.1002/smll.201501923},
+	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84954563210&doi=10.1002%2fsmll.201501923&partnerID=40&md5=c8178d32767206f61ccd96570bab40a3},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+}
+
+```
+
+```
+@article{Dougherty_Gomer_Henderson_Jori_Kessel_Korbelik_Moan_Peng_1998, title={Photodynamic therapy}, volume={90}, url={https://pubmed.ncbi.nlm.nih.gov/9637138/}, DOI={[10.1093/jnci/90.12.889](https://doi.org/10.1093/jnci/90.12.889)}, number={12}, journal={JNCI Journal of the National Cancer Institute}, author={Dougherty, T. J. and Gomer, C. J. and Henderson, B. W. and Jori, G. and Kessel, D. and Korbelik, M. and Moan, J. and Peng, Q.}, year={1998}, month=jun, pages={889–905} }
+```
+
+```
+
+@BOOK{Lu2009581,
+	author = {Lu, Zheng Rong and Vaidya, Anagha},
+	title = {Image-guided photodynamic cancer therapy},
+	year = {2009},
+	journal = {Pharmaceutical Perspectives of Cancer Therapeutics},
+	pages = {581 – 599},
+	doi = {10.1007/978-1-4419-0131-6_18},
+	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84900138684&doi=10.1007%2f978-1-4419-0131-6_18&partnerID=40&md5=c241713d103468541b36903e0a37a826},
+	type = {Book chapter},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 0}
+}
+
+
+```
+
+```
+
+@article{pdt-KWIATKOWSKI20181098,
+title = {Photodynamic therapy – mechanisms, photosensitizers and combinations},
+journal = {Biomedicine & Pharmacotherapy},
+volume = {106},
+pages = {1098-1107},
+year = {2018},
+issn = {0753-3322},
+doi = {https://doi.org/10.1016/j.biopha.2018.07.049},
+url = {https://www.sciencedirect.com/science/article/pii/S0753332218341611},
+author = {Stanisław Kwiatkowski and Bartosz Knap and Dawid Przystupski and Jolanta Saczko and Ewa Kędzierska and Karolina Knap-Czop and Jolanta Kotlińska and Olga Michel and Krzysztof Kotowski and Julita Kulbacka},
+keywords = {Photodynamic therapy, Photosensitizers, Anticancer therapy, PDT modification},
+}
+
+
+```
+
+```
+
+@article{KARBASI2024101315,
+title = {Photodynamic therapy based on metal-organic framework in cancer treatment: A comprehensive review of integration strategies for synergistic combination therapies},
+journal = {Nano-Structures & Nano-Objects},
+volume = {40},
+pages = {101315},
+year = {2024},
+issn = {2352-507X},
+doi = {https://doi.org/10.1016/j.nanoso.2024.101315},
+url = {https://www.sciencedirect.com/science/article/pii/S2352507X24002269},
+author = {Maryam Karbasi and Mohammad Varzandeh and Minoo Karbasi and Amirali {Iranpour Mobarakeh} and Mahtab Falahati and Michael R. Hamblin},
+keywords = {Photodynamic therapy, Metal-organic framework, Photosensitizer, Cancer, Combination therapy},
+
+}
+
+
+```
+``
+
+```
+
+@Article{ph17101274,
+AUTHOR = {Cui, Shengdong and Guo, Xingran and Wang, Sen and Wei, Zhe and Huang, Deliang and Zhang, Xianzeng and Zhu, Timothy C. and Huang, Zheng},
+TITLE = {Singlet Oxygen in Photodynamic Therapy},
+JOURNAL = {Pharmaceuticals},
+VOLUME = {17},
+YEAR = {2024},
+NUMBER = {10},
+ARTICLE-NUMBER = {1274},
+URL = {https://www.mdpi.com/1424-8247/17/10/1274},
+PubMedID = {39458915},
+ISSN = {1424-8247},
+DOI = {10.3390/ph17101274}
+}
+
+
+
+
+```
+
+```
+
+
+
+
+@article{ WOS:000566575200006,
+Author = {Chong, Sanggyu and Lee, Sangwon and Kim, Baekjun and Kim, Jihan},
+Title = {Applications of machine learning in metal-organic frameworks},
+Journal = {COORDINATION CHEMISTRY REVIEWS},
+Year = {2020},
+Volume = {423},
+Month = {NOV 15},
+DOI = {10.1016/j.ccr.2020.213487},
+Article-Number = {213487},
+ISSN = {0010-8545},
+EISSN = {1873-3840},
+ResearcherID-Numbers = {Kim, Jihan/AAE-6280-2021
+   },
+ORCID-Numbers = {Chong, Sanggyu/0000-0002-6948-1602},
+Unique-ID = {WOS:000566575200006},
+}
+
+```
+
+```
+
+
+@article{ WOS:001152946700001,
+Author = {Pouyanfar, Niki and Ahmadi, Mahnaz and Ayyoubzadeh, Seyed Mohammad and
+   Ghorbani-Bidkorpeh, Fatemeh},
+Title = {Drug delivery system tailoring via metal-organic framework property
+   prediction using machine learning: A disregarded approach},
+Journal = {MATERIALS TODAY COMMUNICATIONS},
+Year = {2024},
+Volume = {38},
+Month = {2024 MAR},
+DOI = {10.1016/j.mtcomm.2023.107938},
+EarlyAccessDate = {JAN 2024},
+Article-Number = {107938},
+EISSN = {2352-4928},
+ORCID-Numbers = {pouyanfar, niki/0000-0001-6896-682X},
+Unique-ID = {WOS:001152946700001},
+}
+
+```
+
+```
+
+@article{article,
+author = {Liu, Yue and Zhao, Tianlu and Ju, Wangwei and Shi, Siqi},
+year = {2017},
+month = {08},
+pages = {},
+title = {Materials discovery and design using machine learning},
+volume = {3},
+journal = {Journal of Materiomics},
+doi = {10.1016/j.jmat.2017.08.002}
+}
+
+
+```
+
+```
+
+@article{doi:10.1021/acs.chemmater.0c01907,
+author = {Wang, Anthony Yu-Tung and Murdock, Ryan J. and Kauwe, Steven K. and Oliynyk, Anton O. and Gurlo, Aleksander and Brgoch, Jakoah and Persson, Kristin A. and Sparks, Taylor D.},
+title = {Machine Learning for Materials Scientists: An Introductory Guide toward Best Practices},
+journal = {Chemistry of Materials},
+volume = {32},
+number = {12},
+pages = {4954-4965},
+year = {2020},
+doi = {10.1021/acs.chemmater.0c01907},
+URL = { 
+    
+        https://doi.org/10.1021/acs.chemmater.0c01907
+
+},
+eprint = { 
+    
+        https://doi.org/10.1021/acs.chemmater.0c01907 
+
+}
+}
+
+
+
+
+```
+
+
+```
+
+@article{Polak_Morgan_2024, title={Extracting accurate materials data from research papers with conversational language models and prompt engineering}, volume={15}, url={https://www.nature.com/articles/s41467-024-45914-8#citeas}, DOI={[10.1038/s41467-024-45914-8](https://doi.org/10.1038/s41467-024-45914-8)}, number={1}, journal={Nature Communications}, author={Polak, Maciej P. and Morgan, Dane}, year={2024}, month=feb }
+
+
+```
+
+# new
+

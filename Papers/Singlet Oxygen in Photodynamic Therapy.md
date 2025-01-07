@@ -3,6 +3,24 @@
 
 
 
+@Article{ph17101274,
+AUTHOR = {Cui, Shengdong and Guo, Xingran and Wang, Sen and Wei, Zhe and Huang, Deliang and Zhang, Xianzeng and Zhu, Timothy C. and Huang, Zheng},
+TITLE = {Singlet Oxygen in Photodynamic Therapy},
+JOURNAL = {Pharmaceuticals},
+VOLUME = {17},
+YEAR = {2024},
+NUMBER = {10},
+ARTICLE-NUMBER = {1274},
+URL = {https://www.mdpi.com/1424-8247/17/10/1274},
+PubMedID = {39458915},
+ISSN = {1424-8247},
+ABSTRACT = {Photodynamic therapy (PDT) is a therapeutic modality that depends on the interaction of light, photosensitizers, and oxygen. The photon absorption and energy transfer process can lead to the Type II photochemical reaction of the photosensitizer and the production of singlet oxygen (1O2), which strongly oxidizes and reacts with biomolecules, ultimately causing oxidative damage to the target cells. Therefore, 1O2 is regarded as the key photocytotoxic species accountable for the initial photodynamic reactions for Type II photosensitizers. This article will provide a comprehensive review of 1O2 properties, 1O2 production, and 1O2 detection in the PDT process. The available 1O2 data of regulatory-approved photosensitizing drugs will also be discussed.},
+DOI = {10.3390/ph17101274}
+}
+
+
+
+
 
 ```
 

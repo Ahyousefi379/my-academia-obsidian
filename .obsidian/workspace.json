@@ -8,6 +8,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8cc76400142c62a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/ارائه روش تحقیق.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ارائه روش تحقیق"
+            }
+          },
+          {
             "id": "1f376811e3d0f552",
             "type": "leaf",
             "state": {
@@ -23,63 +38,63 @@
             }
           },
           {
-            "id": "525559a8a502ac0c",
+            "id": "18b5d718f43d8b0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Nanocomposite-Based Photodynamic Therapy Strategies for Deep Tumour Treatment.md",
+                "file": "Papers/A predictive model for personalization of nanotechnology-based phototherapy in cancer treatment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nanocomposite-Based Photodynamic Therapy Strategies for Deep Tumour Treatment"
+              "title": "A predictive model for personalization of nanotechnology-based phototherapy in cancer treatment"
             }
           },
           {
-            "id": "fab2863ddb77d7f1",
+            "id": "2fbcd06af4f37534",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp note 2.md",
+                "file": "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temp note 2"
+              "title": "The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning"
             }
           },
           {
-            "id": "77a8fab707b850f5",
+            "id": "b8e0a8e3d8f8f4e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Photodynamic Therapy From Theory to Application.md",
+                "file": "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Photodynamic Therapy From Theory to Application"
+              "title": "Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning"
             }
           },
           {
-            "id": "d941057fa8ce3b39",
+            "id": "8e0d5b31c299a6a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/سمینار مباحث ویژه.md",
+                "file": "Goals/تحقیق نوشتن پروپوزال PDT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "سمینار مباحث ویژه"
+              "title": "تحقیق نوشتن پروپوزال PDT"
             }
           }
         ],
@@ -192,10 +207,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/Nanocomposite-Based Photodynamic Therapy Strategies for Deep Tumour Treatment.md"
+                "file": "Goals/سه فصل اول پایان نامه.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Nanocomposite-Based Photodynamic Therapy Strategies for Deep Tumour Treatment"
+              "title": "Outline of سه فصل اول پایان نامه"
             }
           },
           {
@@ -228,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -256,45 +271,45 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "525559a8a502ac0c",
+  "active": "1f376811e3d0f552",
   "lastOpenFiles": [
+    "Goals/ارائه روش تحقیق.md",
+    "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md",
+    "Papers/A predictive model for personalization of nanotechnology-based phototherapy in cancer treatment.md",
+    "Goals/سه فصل اول پایان نامه.md",
+    "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
+    "Goals/تحقیق نوشتن پروپوزال PDT.md",
+    "Papers/Materials discovery and design using machine learning.md",
+    "Papers/Machine Learning for Materials Scientists An introductory guide towards best practices.md",
+    "Papers/Applications of machine learning in metal-organic frameworks.md",
+    "Papers/Mechanisms of photodynamic therapy.md",
+    "Papers/Photodynamic therapy  mechanisms, photosensitizers and combinations.md",
+    "Papers/Papers files/Mechanisms of photodynamic therapy .pdf",
+    "temp note.md",
+    "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
+    "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
+    "Papers/Singlet Oxygen in Photodynamic Therapy.md",
+    "Papers/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.md",
+    "Papers/Image-guided photodynamic cancer therapy.md",
+    "Goals/Photodynamic Therapy.md",
+    "Papers/Nanocomposite-Based Photodynamic Therapy Strategies for Deep Tumour Treatment.md",
+    "Papers/Photodynamic Therapy Review Principles, Photosensitizers, Applications, and Future Directions.md",
+    "Papers/Photodynamic Therapy From Theory to Application.md",
+    "Papers/Papers files/Materials discovery and design using machine learning.pdf",
+    "Papers/Papers files/Machine Learning for Materials Scientists An introductory guide towards best practices.pdf",
+    "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf",
+    "Goals/تحقیق درباره ML و MOF.md",
+    "Papers/Recent advances in computational modeling of MOFs From molecular simulations to machine learning.md",
+    "Papers/Thermally induced sign change of Soret coefficient for dilute and semidilute solutions of poly(N-isopropylacrylamide) in ethanol.md",
     "Papers/Papers files/Nanocomposite-Based Photodynamic Therapy Strategies for Deep Tumor Treatment.pdf",
     "Papers/Papers files/hu2015.pdf",
-    "Goals/سه فصل اول پایان نامه.md",
-    "Goals/Nanocomposite-Based Photodynamic Therapy Strategies for Deep Tumour Treatment.md",
     "temp note 2.md",
-    "Goals/Photodynamic Therapy From Theory to Application.md",
     "Goals/سمینار مباحث ویژه.md",
-    "Papers/Poly(N-isopropylacrylamide) and Its Copolymers A Review on Recent Advances in the Areas of Sensing and Biosensing.md",
     "Papers/Papers files/Photodynamic Therapy.pdf",
-    "Papers/Papers files/Mechanisms of photodynamic therapy .pdf",
     "Papers/Papers files/Photodynamic Therapy in the Treatment of Cancer—The Selection of Synthetic Photosensitizers.pdf",
     "Papers/Papers files/Translation and Innovation of Photosensitizers.pdf",
     "Papers/Papers files/Image-Guided Photodynamic Cancer Therapy.pdf",
-    "Papers/Papers files/Photodynamic Therapy From Theory to Application.pdf",
-    "Papers/Papers files/Photodynamic therapy – mechanisms, photosensitizers and combinations.pdf",
-    "Papers/Papers files/Photodynamic Therapy Review Principles, Photosensitizers, Applications, and Future Directions.pdf",
-    "Goals/Thermally induced sign change of Soret coefficient for dilute and semidilute solutions of poly(N-isopropylacrylamide) in ethanol.md",
-    "Goals/Bottom-up approach to assess the molecular structure of aqueous poly(N‑isopropylacrylamide) at room temperature via infrared spectroscopy.md",
-    "Papers/Papers files/Bottom-up approach to assess the molecular structure of aqueous poly(N‑isopropylacrylamide) at room temperature via infrared spectroscopy.pdf",
-    "Papers/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.md",
     "masters thesis papers.canvas",
-    "Papers/Singlet Oxygen in Photodynamic Therapy.md",
-    "Goals/Mechanisms of photodynamic therapy.md",
-    "Goals/Photodynamic Therapy in the Treatment of Cancer—The Selection of Synthetic Photosensitizers.md",
-    "Goals/Photodynamic therapy  mechanisms, photosensitizers and combinations.md",
-    "Goals/Photodynamic Therapy Review Principles, Photosensitizers, Applications, and Future Directions.md",
-    "temp note.md",
-    "Goals/Translation and Innovation of Photosensitizers.md",
-    "Goals/Image-guided photodynamic cancer therapy.md",
-    "Concept notes/Agentic LLM/notes.md",
-    "Concept notes/polymers/Polymers, macromolecules, monomers and oligomers, degree of polymerization.md",
-    "Goals/PDT with MOFs dataset.md",
-    "راهنما.md",
-    "Papers/A metal-organic cage-based nanoagent for enhanced photodynamic antitumor therapy.md",
-    "prompts/prompt for writing notes.md",
-    "Concept notes/شروط استفاده از ML.md",
-    "Concept notes/Python/python for data science.md",
     "media/Untitled Diagram.drawio.png",
     "media/Pasted image 20241015162949.png",
     "media/Pasted image 20241015162916.png",

@@ -48,7 +48,7 @@
 
 - [?] [[Leveraging Machine Learning for Metal-Organic Frameworks A Perspective]]
 
-- [?] [[Recent advances in computational modeling of MOFs From molecular simulations to machine learning]]
+- [p] [[Recent advances in computational modeling of MOFs From molecular simulations to machine learning]]
 
 - [p] [[MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks]]
 
