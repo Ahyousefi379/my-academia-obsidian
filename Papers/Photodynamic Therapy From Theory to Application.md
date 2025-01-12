@@ -24,8 +24,8 @@
 **<span style="color:#00b0f0">سوال یا هدف:</span>**
 
 
+## <span style="font-size: 250%;color:#64ff61;",>خلاصه موارد پژوهش</span>
 
-## <span style="color:#64ff61">خلاصه موارد پژوهش</span>
 ---
 
 ## <span style="color:#64ff61">تئوری</span>

@@ -2,7 +2,7 @@
   "accentColor": "#a265b8",
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "baseFontSize": 20,
+  "baseFontSize": 15,
   "nativeMenus": false,
   "baseFontSizeAction": true
 }

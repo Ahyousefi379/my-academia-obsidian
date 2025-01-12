@@ -11,79 +11,80 @@
             "id": "0728921b76617c83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/سمینار مباحث ویژه.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "سمینار مباحث ویژه"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "1b6bca01a23fad0e",
+            "id": "b362d3a2669fc995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Coil-Globule Transition Thermodynamics of Poly(N-isopropylacrylamide).md",
+                "file": "templates/Goal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coil-Globule Transition Thermodynamics of Poly(N-isopropylacrylamide)"
+              "title": "Goal"
             }
           },
           {
-            "id": "c4a49480bfa95af1",
+            "id": "a99e7f2c308b2d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Molecular dynamics simulations evidence the thermoresponsive behavior of PNIPAM and PDEA in glycerol solutions.md",
+                "file": "temp note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Molecular dynamics simulations evidence the thermoresponsive behavior of PNIPAM and PDEA in glycerol solutions"
+              "title": "temp note"
             }
           },
           {
-            "id": "7d7b56fd26810080",
+            "id": "47c821592f96433b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Tunable LCST behavior of poly(N-isopropylacrylamideionic liquid) copolymers.md",
+                "file": "Goals/مقالات مناسب برای جمع آوری داده.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tunable LCST behavior of poly(N-isopropylacrylamideionic liquid) copolymers"
-            }
-          },
-          {
-            "id": "8b8ff49d319d5183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Bottom-up approach to assess the molecular structure of aqueous poly(N‑isopropylacrylamide) at room temperature via infrared spectroscopy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bottom-up approach to assess the molecular structure of aqueous poly(N‑isopropylacrylamide) at room temperature via infrared spectroscopy"
+              "title": "مقالات مناسب برای جمع آوری داده"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "8b0e2caa3ef2b063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b4686f0d92eeb9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp note 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "temp note 2"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,10 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/Coil-Globule Transition Thermodynamics of Poly(N-isopropylacrylamide).md"
+                "file": "temp note 2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Coil-Globule Transition Thermodynamics of Poly(N-isopropylacrylamide)"
+              "title": "Outline of temp note 2"
             }
           },
           {
@@ -257,46 +258,46 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "1b6bca01a23fad0e",
+  "active": "7b4686f0d92eeb9b",
   "lastOpenFiles": [
-    "Papers/Papers files/Coil-Globule Transition Thermodynamics of Poly(N-isopropylacrylamide).pdf",
-    "Papers/Papers files/podewitz2019.pdf",
+    "temp note.md",
+    "temp note 2.md",
+    "Papers/Photodynamic Therapy From Theory to Application.md",
+    "templates/Goal.md",
+    "Goals/سه فصل اول پایان نامه.md",
+    "maghale.md",
     "Goals/سمینار مباحث ویژه.md",
-    "Goals/Coil-Globule Transition Thermodynamics of Poly(N-isopropylacrylamide).md",
-    "Papers/Bottom-up approach to assess the molecular structure of aqueous poly(N‑isopropylacrylamide) at room temperature via infrared spectroscopy.md",
-    "media/Pasted image 20250107164600.png",
-    "Goals/Molecular dynamics simulations evidence the thermoresponsive behavior of PNIPAM and PDEA in glycerol solutions.md",
+    "Goals/مقالات مناسب برای جمع آوری داده.md",
+    "Books/(2020) Biomaterials Science  An Introduction to Materials in Medicine.md",
+    "Books/(2008-03-13) Introduction to the Thermodynamics of Materials Fifth Edition.md",
+    "Papers/Poly(N-isopropylacrylamide) and Its Copolymers A Review on Recent Advances in the Areas of Sensing and Biosensing.md",
+    "To-Do.md",
+    "masters thesis papers.canvas",
+    "Papers/reading list.md",
+    "Papers/Materials discovery and design using machine learning.md",
+    "Papers/Applications of machine learning in metal-organic frameworks.md",
+    "Papers/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.md",
+    "templates/Concept.md",
+    "Papers/Molecular dynamics simulations evidence the thermoresponsive behavior of PNIPAM and PDEA in glycerol solutions.md",
     "Papers/Papers files/Molecular dynamics simulations evidence the thermoresponsive behavior of PNIPAM and PDEA in glycerol solutions.pdf",
     "Papers/Tunable LCST behavior of poly(N-isopropylacrylamideionic liquid) copolymers.md",
+    "Papers/Bottom-up approach to assess the molecular structure of aqueous poly(N‑isopropylacrylamide) at room temperature via infrared spectroscopy.md",
+    "Papers/Coil-Globule Transition Thermodynamics of Poly(N-isopropylacrylamide).md",
+    "Papers/Papers files/Coil-Globule Transition Thermodynamics of Poly(N-isopropylacrylamide).pdf",
+    "Papers/Papers files/podewitz2019.pdf",
+    "media/Pasted image 20250107164600.png",
     "Papers/Papers files/Tunable LCST behavior of poly(N-isopropylacrylamideionic liquid) copolymers.pdf",
     "Papers/Papers files/jain2015.pdf",
     "Tunable LCST behavior of poly(N-isopropylacrylamide",
     "Goals/ارائه روش تحقیق.md",
     "Papers/A predictive model for personalization of nanotechnology-based phototherapy in cancer treatment.md",
-    "Goals/سه فصل اول پایان نامه.md",
     "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md",
     "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
     "Goals/تحقیق نوشتن پروپوزال PDT.md",
-    "Papers/Materials discovery and design using machine learning.md",
-    "Papers/Machine Learning for Materials Scientists An introductory guide towards best practices.md",
-    "Papers/Applications of machine learning in metal-organic frameworks.md",
-    "Papers/Mechanisms of photodynamic therapy.md",
-    "Papers/Photodynamic therapy  mechanisms, photosensitizers and combinations.md",
     "Papers/Papers files/Mechanisms of photodynamic therapy .pdf",
-    "temp note.md",
-    "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
-    "Papers/Drug delivery system tailoring via metal-organic framework property prediction using machine learning A disregarded approach.md",
-    "Papers/Singlet Oxygen in Photodynamic Therapy.md",
-    "Papers/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.md",
-    "Papers/Image-guided photodynamic cancer therapy.md",
-    "Papers/Photodynamic Therapy.md",
-    "Papers/Nanocomposite-Based Photodynamic Therapy Strategies for Deep Tumour Treatment.md",
-    "Papers/Photodynamic Therapy Review Principles, Photosensitizers, Applications, and Future Directions.md",
     "Papers/Papers files/Materials discovery and design using machine learning.pdf",
     "Papers/Papers files/Machine Learning for Materials Scientists An introductory guide towards best practices.pdf",
     "Papers/Papers files/Drug Delivery System Tailoring via Metal-organic Framework Property Prediction using Machine.pdf",
-    "Papers/Papers files/Nanocomposite-Based Photodynamic Therapy Strategies for Deep Tumor Treatment.pdf",
-    "masters thesis papers.canvas",
     "media/Untitled Diagram.drawio.png",
     "media/Pasted image 20241015162949.png",
     "media/Pasted image 20241015162916.png",

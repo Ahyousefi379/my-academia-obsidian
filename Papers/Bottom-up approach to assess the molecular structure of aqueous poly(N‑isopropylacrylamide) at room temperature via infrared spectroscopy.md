@@ -4,6 +4,44 @@
 
 
 
+
+
+
+
+
+
+@article{doi:10.1021/acs.jpcb.0c08424,
+author = {Gobeze, Habtom B. and Ma, Jianbo and Leonik, Fedra M. and Kuroda, Daniel G.},
+title = {Bottom-Up Approach to Assess the Molecular Structure of Aqueous Poly(N-Isopropylacrylamide) at Room Temperature via Infrared Spectroscopy},
+journal = {The Journal of Physical Chemistry B},
+volume = {124},
+number = {51},
+pages = {11699-11710},
+year = {2020},
+doi = {10.1021/acs.jpcb.0c08424},
+    note ={PMID: 33306373},
+
+URL = { 
+    
+        https://doi.org/10.1021/acs.jpcb.0c08424
+    
+    
+
+},
+eprint = { 
+    
+        https://doi.org/10.1021/acs.jpcb.0c08424
+    
+    
+
+}
+
+}
+
+
+
+
+
 ```
 
 [[Bottom-up approach to assess the molecular structure of aqueous poly(N‑isopropylacrylamide) at room temperature via infrared spectroscopy.pdf|PDF]]
