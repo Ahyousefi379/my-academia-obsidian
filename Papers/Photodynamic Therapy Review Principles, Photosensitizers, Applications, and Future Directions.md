@@ -6,7 +6,7 @@
 
 ```
 
-[[|PDF]]
+[[Photodynamic Therapy Review Principles, Photosensitizers, Applications, and Future Directions.pdf|PDF]]
 
 **<span style="color:#00b0f0">سوال یا هدف:</span>**
 
