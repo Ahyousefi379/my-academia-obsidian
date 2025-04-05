@@ -17,7 +17,7 @@ doi = {10.1021/acs.langmuir.3c01964},
 }
 ```
 
-[[|PDF]]
+[[Leveraging Machine Learning for Metal−Organic Frameworks A Perspective.pdf|PDF]]
 
 **<span style="color:#00b0f0">سوال یا هدف:</span>**
 

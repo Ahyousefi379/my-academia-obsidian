@@ -10,16 +10,8 @@ number = {12},
 pages = {4954-4965},
 year = {2020},
 doi = {10.1021/acs.chemmater.0c01907},
-URL = { 
-    
-        https://doi.org/10.1021/acs.chemmater.0c01907
-
-},
-eprint = { 
-    
-        https://doi.org/10.1021/acs.chemmater.0c01907 
-
-}
+URL = {https://doi.org/10.1021/acs.chemmater.0c01907},
+eprint = {https://doi.org/10.1021/acs.chemmater.0c01907 }
 }
 
 
