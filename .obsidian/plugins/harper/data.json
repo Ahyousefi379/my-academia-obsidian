@@ -1,6 +1,27 @@
 {
   "useWebWorker": true,
   "lintSettings": {
+    "spelled_numbers": null,
+    "an_a": null,
+    "sentence_capitalization": null,
+    "unclosed_quotes": null,
+    "wrong_quotes": null,
+    "long_sentences": null,
+    "repeated_words": null,
+    "spaces": null,
+    "matcher": null,
+    "correct_number_suffix": null,
+    "number_suffix_capitalization": null,
+    "multiple_sequential_pronouns": null,
+    "linking_verbs": null,
+    "avoid_curses": null,
+    "terminating_conjunctions": null,
+    "ellipsis_length": null,
+    "dot_initialisms": null,
+    "boring_words": null,
+    "use_genitive": null,
+    "that_which": null,
+    "capitalize_personal_pronouns": null,
     "spell_check": false
   }
 }

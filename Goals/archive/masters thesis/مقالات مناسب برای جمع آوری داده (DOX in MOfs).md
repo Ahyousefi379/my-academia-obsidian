@@ -8,7 +8,7 @@
 - [ ] چجوری فیلترشون کنم (keyword های ایندکس ؟)
 
 > [!attention] 
-> درصورت زیاد بودن مقالات باید از روش های [[automatic data extraction]] استفاده کنم 
+> درصورت زیاد بودن مقالات باید از روش های [[using LLMs for accurate scientific data from literature]] استفاده کنم 
 
 
 

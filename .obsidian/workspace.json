@@ -8,57 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ceea9702981218a",
+            "id": "8ae011abf8d42fa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/تحقیق نوشتن پروپوزال PDT.md",
+                "file": "Goals/using LLMs for accurate scientific data from literature.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "تحقیق نوشتن پروپوزال PDT"
+              "title": "using LLMs for accurate scientific data from literature"
             }
           },
           {
-            "id": "15ccaeb946c09f0d",
+            "id": "a1371b250d839a8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/automatic data extraction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "automatic data extraction"
-            }
-          },
-          {
-            "id": "3e0070a38517b565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Agent-based Learning of Materials Datasets from Scientific Literature.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Agent-based Learning of Materials Datasets from Scientific Literature"
-            }
-          },
-          {
-            "id": "cf43f75e0a33a1d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting.md",
+                "file": "Papers/Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -68,18 +38,18 @@
             }
           },
           {
-            "id": "1fd3ac3d4fdc40e3",
+            "id": "d28a95d16a9debe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Enzyme Co-Scientist Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Enzyme Co-Scientist Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature"
+              "title": "README"
             }
           }
         ],
@@ -193,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/automatic data extraction.md",
+                "file": "Papers/Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of automatic data extraction"
+              "title": "Outline of Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting"
             }
           },
           {
@@ -260,12 +230,24 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "15ccaeb946c09f0d",
+  "active": "a1371b250d839a8f",
   "lastOpenFiles": [
-    "Goals/Agent-based Learning of Materials Datasets from Scientific Literature.md",
-    "Goals/Enzyme Co-Scientist Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature.md",
-    "Goals/Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting.md",
-    "Goals/automatic data extraction.md",
+    "Papers/Papers files/Automating Intervention Discovery from Scientific Literature A Progressive Ontology Prompting and Dual-LLM Framework.pdf",
+    "Papers/Papers files/Automating Intervention Discovery from Scientific Literature A Progressive Ontology Prompting and Dual-LLM Framework.pdf.crdownload",
+    "README.md",
+    "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
+    "Papers/Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting.md",
+    "Goals/using LLMs for accurate scientific data from literature.md",
+    "Papers/Agent-based Learning of Materials Datasets from Scientific Literature.md",
+    "media/Pasted image 20250522172957.png",
+    "Papers/Enzyme Co-Scientist Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature.md",
+    "Papers/Papers files/Agent-based Learning of Materials Datasets from Scientific Literature.pdf",
+    "Papers/Papers files/Agent-based Learning of Materials Datasets from Scientific Literature.pdf.crdownload",
+    "media/Pasted image 20250522164529.png",
+    "Papers/Papers files/Enzyme Co-Scientist Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature.pdf",
+    "Papers/Papers files/Enzyme Co-Scientist Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature.pdf.crdownload",
+    "Papers/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md",
+    "Papers/Automating data extraction in systematic reviews a systematic review.md",
     "Goals/archive/masters thesis/مقالات مناسب برای جمع آوری داده (DOX in MOfs).md",
     "Goals/PaperDataExtractor.md",
     "Papers/Metal-organic frameworks for drug delivery part b.md",
@@ -286,18 +268,8 @@
     "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md",
     "Papers/Applications of machine learning in metal-organic frameworks.md",
     "Papers/Leveraging Machine Learning for Metal-Organic Frameworks A Perspective.md",
-    "Papers/MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks.md",
-    "Papers/Research progress and perspective of machine learning in material design.md",
-    "Papers/Scope of machine learning in materials research—A review.md",
-    "Papers/How Machine Learning Aids Material Selection.md",
-    "Papers/Materials discovery and design using machine learning.md",
     "Papers/Papers files/Leveraging Machine Learning for Metal−Organic Frameworks A Perspective.pdf",
     "Papers/Papers files/Machine Learning - Search Methodologies Introductory Tutorials in Optimization and Decision Support Techniques.pdf",
-    "Papers/Papers files/Scope of machine learning in materials research—A review.pdf",
-    "Papers/Papers files/Climate friendly MOFs synthesis for drug delivery systems by integrating AI, intelligent manufacturing, and quantum solutions in industry 6.0 sustainable approach.pdf",
-    "Papers/Papers files/Metal organic frameworks in biomedicine Innovations in drug delivery.pdf",
-    "Papers/Papers files/Metal organic frameworks an effective application in drug delivery systems.pdf",
-    "Papers/Papers files/Reactive oxygen species in photodynamic therapy.pdf",
     "masters thesis papers.canvas",
     "media/Pasted image 20250107164600.png",
     "media/Untitled Diagram.drawio.png",
@@ -306,8 +278,6 @@
     "media/Pasted image 20241015162832.png",
     "media/Pasted image 20241015162807.png",
     "media/Pasted image 20241015162730.png",
-    "media/Pasted image 20241006234728.png",
-    "media/Pasted image 20240722175440.png",
-    "media/Pasted image 20240722174308.png"
+    "media/Pasted image 20241006234728.png"
   ]
 }
