@@ -88,7 +88,7 @@ For loading DOX into a MOF, chemical interactions like π-π stacking and hydrog
 # مقالات
 
 ## لیست مقالات
-مربوط به سرچ [[مقالات مناسب برای جمع آوری داده#^9bdea8| همه نوع دارو، ماف و نوع ماف باهم]]
+مربوط به سرچ [[مقالات مناسب برای جمع آوری داده (DOX in MOfs)#^9bdea8| همه نوع دارو، ماف و نوع ماف باهم]]
 
 
 > [!important] 
