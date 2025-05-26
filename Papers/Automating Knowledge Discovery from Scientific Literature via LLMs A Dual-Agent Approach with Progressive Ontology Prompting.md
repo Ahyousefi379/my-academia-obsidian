@@ -14,7 +14,7 @@
 [[Automating Intervention Discovery from Scientific Literature A Progressive Ontology Prompting and Dual-LLM Framework.pdf|PDF]]
 
 **<span style="color:#00b0f0">سوال یا هدف:</span>**
-
+progressive ontology prompting 
 
 
 ## <span style="color:#64ff61">خلاصه موارد پژوهش</span>

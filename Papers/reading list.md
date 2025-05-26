@@ -1,1 +1,3 @@
 - Nanoparticle synthesis assisted by machine learning (10.1038/s41578-021-00337-5)
+- HoneyComb: A Flexible LLM-Based Agent System for Materials Science
+- 

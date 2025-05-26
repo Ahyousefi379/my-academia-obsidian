@@ -21,39 +21,8 @@
               "icon": "lucide-file",
               "title": "using LLMs for accurate scientific data from literature"
             }
-          },
-          {
-            "id": "a1371b250d839a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting"
-            }
-          },
-          {
-            "id": "d28a95d16a9debe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,13 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting.md",
+                "file": "Goals/using LLMs for accurate scientific data from literature.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting"
+              "title": "Outline of using LLMs for accurate scientific data from literature"
             }
           },
           {
@@ -230,22 +199,31 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "a1371b250d839a8f",
+  "active": "8ae011abf8d42fa4",
   "lastOpenFiles": [
+    "Goals/Automatically Extracting Numerical Results from Randomized Controlled Trials with Large Language Models.md",
+    "Goals/using LLMs for accurate scientific data from literature.md",
+    "Goals/Data extraction from polymer literature using large language models.md",
+    "Papers/Papers files/Data extraction from polymer literature using large language models.pdf",
+    "Papers/Papers files/Data extraction from polymer literature using large language models.pdf.crdownload",
+    "Papers/Papers files/Automatically Extracting Numerical Results from Randomized Controlled Trials with Large Language Models.pdf",
+    "Papers/Papers files/Automatically Extracting Numerical Results from Randomized Controlled Trials with Large Language Models.pdf.crdownload",
+    "Goals/Using Machine Learning and Data Mining to Leverage Community Knowledge for the Engineering of Stable Metal-Organic Frameworks.md",
+    "Papers/reading list.md",
+    "Papers/Enzyme Co-Scientist Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature.md",
+    "Goals/An Autonomous Large Language Model Agent for Chemical Literature Data Mining.md",
+    "Papers/Papers files/An Autonomous Large Language Model Agent for Chemical Literature Data Mining.pdf",
+    "Papers/Papers files/An Autonomous Large Language Model Agent for Chemical Literature Data Mining.pdf.crdownload",
+    "Papers/Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting.md",
     "Papers/Papers files/Automating Intervention Discovery from Scientific Literature A Progressive Ontology Prompting and Dual-LLM Framework.pdf",
     "Papers/Papers files/Automating Intervention Discovery from Scientific Literature A Progressive Ontology Prompting and Dual-LLM Framework.pdf.crdownload",
     "README.md",
     "Papers/Extracting accurate materials data from research papers with conversational language models and prompt engineering.md",
-    "Papers/Automating Knowledge Discovery from Scientific Literature via LLMs A Dual-Agent Approach with Progressive Ontology Prompting.md",
-    "Goals/using LLMs for accurate scientific data from literature.md",
     "Papers/Agent-based Learning of Materials Datasets from Scientific Literature.md",
     "media/Pasted image 20250522172957.png",
-    "Papers/Enzyme Co-Scientist Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature.md",
     "Papers/Papers files/Agent-based Learning of Materials Datasets from Scientific Literature.pdf",
     "Papers/Papers files/Agent-based Learning of Materials Datasets from Scientific Literature.pdf.crdownload",
     "media/Pasted image 20250522164529.png",
-    "Papers/Papers files/Enzyme Co-Scientist Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature.pdf",
-    "Papers/Papers files/Enzyme Co-Scientist Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature.pdf.crdownload",
     "Papers/ReviewerGPT An Exploratory Study on Using Large Language Models for Paper Reviewing.md",
     "Papers/Automating data extraction in systematic reviews a systematic review.md",
     "Goals/archive/masters thesis/مقالات مناسب برای جمع آوری داده (DOX in MOfs).md",
@@ -253,9 +231,6 @@
     "Papers/Metal-organic frameworks for drug delivery part b.md",
     "Papers/Deep Learning Insights into the Dynamic Effects of Photodynamic Therapy on Cancer Cells.md",
     "Papers/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.md",
-    "Goals/archive/masters thesis",
-    "Goals/archive/courses",
-    "Goals/archive",
     "temp note 2.md",
     "Goals/archive/masters thesis/تحقیق نوشتن پروپوزال PDT.md",
     "Goals/archive/masters thesis/سه فصل اول پایان نامه.md",
@@ -263,13 +238,6 @@
     "Papers/Metal-Organic Frameworks for Drug Delivery A Design Perspective.md",
     "Papers/Computational analysis of controlled drug release from porous polymeric carrier with the aid of Mass transfer and Artificial Intelligence modeling.md",
     "Papers/A predictive model for personalization of nanotechnology-based phototherapy in cancer treatment.md",
-    "Papers/Machine learning integrated with in vitro experiments for study of drug release from PLGA nanoparticles.md",
-    "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
-    "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md",
-    "Papers/Applications of machine learning in metal-organic frameworks.md",
-    "Papers/Leveraging Machine Learning for Metal-Organic Frameworks A Perspective.md",
-    "Papers/Papers files/Leveraging Machine Learning for Metal−Organic Frameworks A Perspective.pdf",
-    "Papers/Papers files/Machine Learning - Search Methodologies Introductory Tutorials in Optimization and Decision Support Techniques.pdf",
     "masters thesis papers.canvas",
     "media/Pasted image 20250107164600.png",
     "media/Untitled Diagram.drawio.png",
