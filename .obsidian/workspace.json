@@ -37,7 +37,8 @@
               "title": "Accurate Prediction of Experimental Band Gaps from Large Language Model-Based Data Extraction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/using LLMs for accurate scientific data from literature.md",
+                "file": "Papers/Accurate Prediction of Experimental Band Gaps from Large Language Model-Based Data Extraction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of using LLMs for accurate scientific data from literature"
+              "title": "Outline of Accurate Prediction of Experimental Band Gaps from Large Language Model-Based Data Extraction"
             }
           },
           {
@@ -214,10 +215,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "8ae011abf8d42fa4",
+  "active": "aec2c5e22d65502d",
   "lastOpenFiles": [
-    "Papers/Accurate Prediction of Experimental Band Gaps from Large Language Model-Based Data Extraction.md",
     "Goals/using LLMs for accurate scientific data from literature.md",
+    "Papers/Accurate Prediction of Experimental Band Gaps from Large Language Model-Based Data Extraction.md",
     "Goals/PDT with MOFs dataset.md",
     "Papers/GPTArticleExtractor An automated workflow for magnetic material database construction.md",
     "Papers/Papers files/Accurate Prediction of Experimental Band Gaps from Large Language Model-Based Data Extraction.pdf",
