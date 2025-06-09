@@ -1,3 +1,4 @@
 - Nanoparticle synthesis assisted by machine learning (10.1038/s41578-021-00337-5)
 - HoneyComb: A Flexible LLM-Based Agent System for Materials Science
-- 
+- 14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon
+- Using Machine Learning and Data Mining to Leverage Community Knowledge for the Engineering of Stable Metal-Organic Frameworks
