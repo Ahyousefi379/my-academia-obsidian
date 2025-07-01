@@ -1,158 +1,269 @@
-### Push Days
 
-#### Push Day 1
+selecting attributes
+- attributes
+   - features
+      - MOFs properties
+         - structural descriptors
+            - metal nodes (Zr, Fe, Zn, etc.)
+            - organic linkers (BDC, TCPP, etc.)
+            - topology (UiO, MIL, ZIF series)
+         - electronic properties
+            - band gap
+            - HOMO-LUMO levels
+            - photocatalytic activity
+         - stability metrics
+            - thermal stability
+            - pH stability
+            - photostability
+         - drug loading capacity (%)
+         - loading efficiency (%)
+         - release kinetics parameters
+            - release rate constants
+            - burst vs sustained release profiles
+      - PAs
+         - chemical structure
+            - porphyrins
+            - chlorins
+            - phthalocyanines
+            - BODIPY
+         - photophysical properties
+            - absorption maxima
+            - extinction coefficients
+            - quantum yields
+         - singlet oxygen generation efficiency
+         - dark toxicity levels
+         - hydrophobicity/hydrophilicity (LogP values)
+      - synthesis parameters
+         - MOF synthesis
+            - temperature
+            - time
+            - pH
+            - solvent type
+            - modulators
+            - metal:linker ratio
+         - loading method
+            - impregnation
+            - post-synthetic modification
+            - one-pot synthesis
+         - loading conditions
+            - concentration
+            - temperature
+            - time
+            - solvent
+         - post-processing
+            - washing procedures
+            - drying conditions
+            - storage conditions
+   - targets
+      - cell viability
+      - ROS generation
+      - phototoxicity indices (PI50/IC50 ratios)
+      - selectivity indices (cancer vs normal cells)
+      - biodistribution data
+      - in vivo efficacy metrics
+         - tumor volume reduction
+         - survival rates
+- challenges
+   - ROS generation is measured with different methods
+   - synthesis & loading methods differ variously
+   - cell viability most of the times is reported as diagrams
+   - incomplete reporting
+      - missing experimental details
+      - unclear methodologies
+   - nomenclature inconsistencies
+      - different naming conventions for same MOFs/PAs
+   - scale variations
+      - lab-scale vs pilot-scale synthesis differences
+   - publication bias
+      - tendency to report only positive results
 
-- **Overhead Dumbbell Press (Deltoids, Triceps)**
-    - Alternative: Seated Shoulder Press (Machine)
-- **Incline Dumbbell Bench Press (Upper Chest, Triceps)**
-    - Alternative: Incline Push-Ups
-- **Chest Fly (Pectorals)**
-    - Alternative: Dumbbell Pec Deck (Machine)
-- **Dips (Triceps, Chest, Shoulders)**
-    - Alternative: Bench Dips
-- **Push-Up Plus (Chest, Serratus Anterior)**
-    - Alternative: Wall Push-Ups
-- **Side Plank with Hip Dips (Obliques, Shoulders)**
-    - Alternative: Standard Side Plank
-- **Hanging Knee Raises (Core, Hip Flexors)**
-    - Alternative: Bent-Knee Hanging Raises
+- agentic data extraction via LLMs
+   - workflow
+      - pre-processing steps
+         - literature search strategy
+            - database selection (PubMed, Web of Science, Scopus)
+            - keyword optimization
+         - paper screening criteria
+            - publication date range
+            - journal quality
+            - study type filters
+         - data validation workflow
+            - cross-referencing with multiple sources
+            - expert review checkpoints
+      - LLM reads the abstract, title and conclusion to decide if the paper is related to the work
+         - LLM extract datapoints form abstract, materials and methods, results and discussion, conclusion, tables, figures and supplementary data
+      - enhanced extraction pipeline
+         - multi-modal extraction
+            - OCR for figures
+            - table parsing
+            - chemical structure recognition
+         - standardization modules
+            - unit conversion
+            - nomenclature standardization
+         - quality scoring system
+            - confidence levels for extracted data
+   - challenges
+      - LLM
+         - LLM model
+         - context window
+            - input
+            - output
+         - LLM parameters
+            - temperature
+            - top p
+         - LLM API
+      - papers
+         - downloading papers
+         - get supplementary data of papers
+         - accurately transform PDFs into text
+      - extraction
+         - appropriate agentic flow
+         - accurate extraction from papers with multiple np reports
+         - LLMs hallucination
+         - LLMs precision
+         - working with figures
+      - data quality issues
+         - incomplete reporting
+         - nomenclature inconsistencies
+         - scale variations
+         - publication bias
+      - technical challenges
+         - chemical structure parsing
+            - converting SMILES/InChI to descriptors
+         - image analysis complexity
+            - extracting quantitative data from graphs and microscopy images
+         - batch processing reliability
+            - handling processing failures and retries
 
-#### Push Day 2
+- feature engineering
+   - descriptor categories
+      - chemical descriptors
+         - molecular fingerprints
+            - ECFP
+            - MACCS keys for organic linkers
+         - quantum chemical descriptors
+            - DFT-calculated properties
+         - drug-likeness descriptors
+            - Lipinski's rule parameters
+      - energy based
+      - topological
+      - geometric
+      - advanced descriptors
+         - network topology descriptors
+            - persistent homology
+            - graph neural network embeddings
+         - machine learning-derived features
+            - autoencoder representations
+         - composite descriptors
+            - MOF-PA interaction parameters
+      - costume
+   - challenges
+      - choosing descriptors
+         - chemcial
+         - energy based
+         - topological
+         - geometric
+         - costume
+      - overfitting in case of little number of datapoints compared to number of features
+      - choosing an appropriate dimensinallity reduction strategy
+      - feature selection
+      - feature correlation analysis
+         - identifying and handling multicollinearity
+      - scale standardization
+         - handling features with vastly different ranges
+      - missing data imputation strategies
+      - feature importance validation
+         - experimental verification of predicted key features
 
-- **Arnold Press (Deltoids, Triceps)**
-    - Alternative: Lateral Raises (Deltoids)
-- **Flat Bench Dumbbell Press (Chest, Triceps)**
-    - Alternative: Push-Ups
-- **Cable Chest Fly (Pectorals)**
-    - Alternative: Dumbbell Fly
-- **Overhead Triceps Extension (Triceps)**
-    - Alternative: Triceps Kickbacks
-- **Diamond Push-Ups (Triceps, Chest)**
-    - Alternative: Narrow-Grip Push-Ups
-- **Hollow Body Hold (Core, Hip Flexors)**
-    - Alternative: Bent-Knee Hollow Body Hold
-- **Russian Twists (Obliques, Core)**
-    - Alternative: Seated Torso Twists
+- modelling
+   - preprocessing
+   - fitting
+   - fine tunning
+   - model architecture considerations
+      - algorithm selection
+         - ensemble methods
+            - Random Forest
+            - Gradient Boosting for non-linear relationships
+         - deep learning options
+            - graph neural networks for MOF structures
+         - hybrid approaches
+            - combining physics-based and ML models
+   - challenges
+      - can we use NN?
+      - semi-supervised learning
+      - data augmentation
+      - cross-validation strategies
+         - stratified sampling
+         - leave-one-cluster-out
+      - model uncertainty quantification
+         - confidence intervals
+         - prediction reliability
+      - transfer learning potential
+         - leveraging models from related domains
+      - active learning implementation
+         - guiding future experimental design
 
-#### Push Day 3
+- analysing
+   - interpretability methods
+      - SHAP (SHapley Additive exPlanations) values for feature importance
+      - LIME (Local Interpretable Model-agnostic Explanations) for local interpretability
+      - attention mechanisms in neural networks
+      - feature interaction analysis
+   - challenges
+      - can we apply dimensinallity reduction and still get to know the contribution of the original features to the model?
+      - what methods and tools to use?
+      - interpretebility
+      - generallity
+      - statistical significance testing
+         - ensuring robust conclusions
+      - external validation
+         - testing on independent datasets
+      - mechanistic interpretation
+         - connecting ML insights to physical/chemical principles
+      - uncertainty propagation
+         - how data extraction uncertainties affect final conclusions
 
-- **Pike Push-Ups (Shoulders, Triceps)**
-    - Alternative: Kneeling Pike Push-Ups
-- **Decline Dumbbell Bench Press (Chest, Triceps)**
-    - Alternative: Decline Push-Ups
-- **Chest Press (Machine, Pectorals, Triceps)**
-    - Alternative: Push-Up Variations
-- **Triceps Dips (Triceps, Chest)**
-    - Alternative: Bench Dips
-- **Lateral Raises (Shoulders)**
-    - Alternative: Front Raises
-- **Plank with Shoulder Taps (Core, Shoulders)**
-    - Alternative: Standard Plank
-- **Flutter Kicks (Lower Abs, Hip Flexors)**
-    - Alternative: Bicycle Crunches
+- data management
+   - database design
+      - relational vs NoSQL for heterogeneous data
+   - version control
+      - tracking data updates and model iterations
+   - reproducibility
+      - ensuring computational reproducibility
+   - data sharing protocols
+      - preparing datasets for community use
+   - challenges
+      - handling heterogeneous data types
+      - ensuring data integrity
+      - backup and recovery strategies
 
-### Pull Days
+- validation strategy
+   - experimental validation plan
+      - designing experiments to test ML predictions
+   - literature validation
+      - comparing predictions with recent publications not in training set
+   - expert consultation
+      - materials scientists and PDT researchers for domain validation
+   - challenges
+      - cost and time constraints for experimental validation
+      - availability of expert reviewers
+      - bias in validation datasets
 
-#### Pull Day 1
+- ethical and practical considerations
+   - bias detection
+      - ensuring diverse representation in training data
+   - computational resource requirements
+      - GPU/CPU needs
+      - cloud vs local processing
+   - intellectual property
+      - patent landscape analysis for novel MOF-PA combinations
+   - regulatory considerations
+      - FDA/EMA approval pathways for identified candidates
+   - challenges
+      - computational cost optimization
+      - ethical use of published data
+      - regulatory compliance complexity
 
-- **Pull-Ups (Lats, Biceps)**
-    - Alternative: Assisted Pull-Ups or Lat Pulldown (Machine)
-- **Bent-Over Dumbbell Rows (Upper Back, Lats, Biceps)**
-    - Alternative: Single-Arm Row (Machine)
-- **Face Pulls (Rear Deltoids, Traps)**
-    - Alternative: Reverse Fly
-- **Dumbbell Shrugs (Traps)**
-    - Alternative: Shoulder Blade Squeezes
-- **Towel Rows (Lats, Rhomboids)**
-    - Alternative: TRX Rows or Band Rows
-- **Leg Raises (Lower Abs, Hip Flexors)**
-    - Alternative: Bent-Knee Leg Raises
-- **Mountain Climbers (Core, Hip Flexors)**
-    - Alternative: Slow Mountain Climbers
+- feature names:
+   - np: اسم نانوذره - mof np size (nm) before loading: شعاع نانوذره نهایی قبل از لود دارو - np size (nm) after loading: شعاع نانوذره نهایی بعد از لود دارو - np structure: ساختار - average pore volume(nm3): میانگین حجم تخلخل ها - specific surface area (m2/g): سطح ویژه - total pore volume(cm3/g): حجم تخلخل ها - bjh pore radius (nm): شعاع تخلخل ها - zeta potential (mV) before loading: پتانسیل زتا قبل از لود دارو - zeta potential (mV) after loading: پتانسیل زتا بعد از لود دارو (loading process)
 
-#### Pull Day 2
-
-- **Chin-Ups (Lats, Biceps)**
-    - Alternative: Close-Grip Lat Pulldown
-- **Barbell Rows (Upper Back, Biceps, Lats)**
-    - Alternative: Supported T-Bar Row
-- **Reverse Fly (Rear Deltoids)**
-    - Alternative: Band Pull-Apart
-- **Upright Rows (Traps, Biceps, Shoulders)**
-    - Alternative: Dumbbell High Pull
-- **Seated Rows (Lats, Biceps)**
-    - Alternative: Resistance Band Rows
-- **Russian Twists (Obliques, Core)**
-    - Alternative: Seated Torso Twists
-- **Plank-to-Knee Tucks (Core, Hip Flexors)**
-    - Alternative: Standard Plank
-
-#### Pull Day 3
-
-- **Lat Pulldown (Lats, Biceps)**
-    - Alternative: Assisted Pull-Ups
-- **Single-Arm Dumbbell Rows (Lats, Rear Delts, Biceps)**
-    - Alternative: Inverted Rows
-- **Face Pulls (Traps, Rear Delts)**
-    - Alternative: Resistance Band Face Pulls
-- **Reverse Shrugs (Traps)**
-    - Alternative: Isometric Trap Hold
-- **Dumbbell Deadlifts (Hamstrings, Glutes, Lower Back)**
-    - Alternative: Barbell Deadlifts
-- **Hanging Knee Raises (Core, Hip Flexors)**
-    - Alternative: Bent-Knee Hanging Raises
-- **Flutter Kicks (Lower Abs, Hip Flexors)**
-    - Alternative: Bicycle Crunches
-
-### Leg Days
-
-#### Leg Day 1
-
-- **Back Squats (Quads, Glutes, Hamstrings)**
-    - Alternative: Goblet Squats
-- **Walking Lunges (Quads, Glutes)**
-    - Alternative: Stationary Lunges
-- **Romanian Deadlifts (Hamstrings, Glutes)**
-    - Alternative: Hip Thrusts
-- **Standing Calf Raises (Calves)**
-    - Alternative: Seated Calf Raises
-- **Plank with Leg Lifts (Core, Glutes)**
-    - Alternative: Standard Plank
-- **Side Plank with Hip Dips (Obliques, Shoulders)**
-    - Alternative: Standard Side Plank
-- **Flutter Kicks (Lower Abs, Hip Flexors)**
-    - Alternative: Bicycle Crunches
-
-#### Leg Day 2
-
-- **Front Squats (Quads, Glutes)**
-    - Alternative: Dumbbell Squats
-- **Step-Ups (Quads, Glutes)**
-    - Alternative: Box Jumps (Low Height)
-- **Single-Leg Romanian Deadlifts (Hamstrings, Glutes)**
-    - Alternative: Glute Bridges
-- **Seated Calf Raises (Calves)**
-    - Alternative: Standing Calf Raises
-- **Mountain Climbers (Core, Hip Flexors)**
-    - Alternative: Slow Mountain Climbers
-- **Donkey Kicks (Glutes)**
-    - Alternative: Fire Hydrants
-- **Hollow Body Hold (Core, Hip Flexors)**
-    - Alternative: Bent-Knee Hollow Body Hold
-
-#### Leg Day 3
-
-- **Sumo Deadlifts (Hamstrings, Glutes, Adductors)**
-    - Alternative: Dumbbell Deadlifts
-- **Bulgarian Split Squats (Quads, Glutes)**
-    - Alternative: Split Squats
-- **Leg Curls (Hamstrings)**
-    - Alternative: Stability Ball Hamstring Curls
-- **Donkey Kicks (Glutes)**
-    - Alternative: Fire Hydrants
-- **Plank-to-Knee Tucks (Core, Hip Flexors)**
-    - Alternative: Standard Plank
-- **Side Plank with Hip Dips (Obliques, Shoulders)**
-    - Alternative: Standard Side Plank
-- **Leg Raises (Lower Abs, Hip Flexors)**
-    - Alternative: Bent-Knee Leg Raises

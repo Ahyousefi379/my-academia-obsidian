@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "using LLMs for accurate scientific data from literature"
             }
-          },
-          {
-            "id": "c718ee5d4dbcb579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Language models for data extraction and risk of bias assessment in complementary medicine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Language models for data extraction and risk of bias assessment in complementary medicine"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,13 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/Language models for data extraction and risk of bias assessment in complementary medicine.md",
+                "file": "Goals/using LLMs for accurate scientific data from literature.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Language models for data extraction and risk of bias assessment in complementary medicine"
+              "title": "Outline of using LLMs for accurate scientific data from literature"
             }
           },
           {
@@ -215,13 +199,20 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "c718ee5d4dbcb579",
+  "active": "8ae011abf8d42fa4",
   "lastOpenFiles": [
-    "Goals/Language models for data extraction and risk of bias assessment in complementary medicine.md",
+    "Goals/archive/masters thesis/ارائه استاد مشاور ML.md",
     "Goals/using LLMs for accurate scientific data from literature.md",
+    "temp note.md",
+    "Papers/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.md",
+    "Papers/The drug loading capacity prediction and cytotoxicity analysis of metal–organic frameworks using stacking algorithms of machine learning.md",
+    "Goals/archive/masters thesis/سه فصل اول پایان نامه.md",
+    "Papers/Prediction of the Ibuprofen Loading Capacity of MOFs by Machine Learning.md",
+    "Goals/PDT with MOFs dataset.md",
+    "Papers/Papers files/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.pdf",
+    "Papers/Language models for data extraction and risk of bias assessment in complementary medicine.md",
     "Papers/reading list.md",
     "Papers/Accurate Prediction of Experimental Band Gaps from Large Language Model-Based Data Extraction.md",
-    "Goals/PDT with MOFs dataset.md",
     "Papers/GPTArticleExtractor An automated workflow for magnetic material database construction.md",
     "Papers/Papers files/Accurate Prediction of Experimental Band Gaps from Large Language Model-Based Data Extraction.pdf",
     "Papers/Papers files/Accurate Prediction of Experimental Band Gaps from Large Language Model-Based Data Extraction.pdf.crdownload",
@@ -235,7 +226,6 @@
     "Papers/Papers files/Data extraction from polymer literature using large language models.pdf",
     "Papers/Papers files/Data extraction from polymer literature using large language models.pdf.crdownload",
     "Papers/Papers files/Automatically Extracting Numerical Results from Randomized Controlled Trials with Large Language Models.pdf",
-    "Papers/Papers files/Automatically Extracting Numerical Results from Randomized Controlled Trials with Large Language Models.pdf.crdownload",
     "Papers/Using Machine Learning and Data Mining to Leverage Community Knowledge for the Engineering of Stable Metal-Organic Frameworks.md",
     "Papers/Enzyme Co-Scientist Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature.md",
     "Papers/An Autonomous Large Language Model Agent for Chemical Literature Data Mining.md",
@@ -249,12 +239,6 @@
     "Papers/Automating data extraction in systematic reviews a systematic review.md",
     "Goals/archive/masters thesis/مقالات مناسب برای جمع آوری داده (DOX in MOfs).md",
     "Goals/PaperDataExtractor.md",
-    "Papers/Metal-organic frameworks for drug delivery part b.md",
-    "Papers/Deep Learning Insights into the Dynamic Effects of Photodynamic Therapy on Cancer Cells.md",
-    "Papers/Photodynamic therapy based on metal-organic framework in cancer treatment A comprehensive review of integration strategies for synergistic combination therapies.md",
-    "temp note 2.md",
-    "Goals/archive/masters thesis/تحقیق نوشتن پروپوزال PDT.md",
-    "Goals/archive/masters thesis/سه فصل اول پایان نامه.md",
     "masters thesis papers.canvas",
     "media/Pasted image 20250107164600.png",
     "media/Untitled Diagram.drawio.png",
