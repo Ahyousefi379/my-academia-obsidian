@@ -1,4 +1,6 @@
- عنوان اصلی:
+[[paper data extraction with LangExtract]]
+ 
+ 
  مشخصات دیتاست 
 
 > [!caution]
@@ -60,7 +62,7 @@ TITLE-ABS-KEY (("metal-organic framework*" OR MOF* OR (metal AND organic AND fra
 8 results
 
 
-# flowchart
+# flowchart V1.0
 
 
 ![[Untitled Diagram.drawio.png]]
@@ -70,5 +72,5 @@ TITLE-ABS-KEY (("metal-organic framework*" OR MOF* OR (metal AND organic AND fra
 
 
 
-
  #پروژه_ارشد #Goal
+ 
