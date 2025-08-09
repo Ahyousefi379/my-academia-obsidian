@@ -41,25 +41,15 @@ LangExtract uses JSON schemas to define the exact structure of data you want to 
 ```python
 
 from langextract import LangExtract
-
 from pydantic import BaseModel
-
 from typing import List, Optional  
-
 class ScientificPaper(BaseModel):
-
 title: str
-
 authors: List[str]
-
 abstract: str
-
 methodology: Optional[str]
-
 results: List[str]
-
 conclusions: str
-
 ```
 
 2. Few-Shot Learning

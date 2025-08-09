@@ -1,269 +1,57 @@
+np: اسم نانوذره
+mof	np size (nm) before loading: شعاع نانوذره نهایی قبل از لود دارو
+np size (nm) after loading:  شعاع نانوذره نهایی بعد از لود دارو
+np structure: ساختار
+photosensitizer
+average pore volume(nm3): میانگین حجم تخلخل ها
+surface area (m2/g): سطح ویژه
+total pore volume(cm3/g): حجم تخلخل ها
+bjh pore radius (nm): شعاع تخلخل ها
+zeta potential (mV) before loading: پتانسیل زتا قبل از لود دارو
+zeta potential (mV) after loading: پتانسیل زتا بعد از لود دارو
+(loading process)
+description
 
-selecting attributes
-- attributes
-   - features
-      - MOFs properties
-         - structural descriptors
-            - metal nodes (Zr, Fe, Zn, etc.)
-            - organic linkers (BDC, TCPP, etc.)
-            - topology (UiO, MIL, ZIF series)
-         - electronic properties
-            - band gap
-            - HOMO-LUMO levels
-            - photocatalytic activity
-         - stability metrics
-            - thermal stability
-            - pH stability
-            - photostability
-         - drug loading capacity (%)
-         - loading efficiency (%)
-         - release kinetics parameters
-            - release rate constants
-            - burst vs sustained release profiles
-      - PAs
-         - chemical structure
-            - porphyrins
-            - chlorins
-            - phthalocyanines
-            - BODIPY
-         - photophysical properties
-            - absorption maxima
-            - extinction coefficients
-            - quantum yields
-         - singlet oxygen generation efficiency
-         - dark toxicity levels
-         - hydrophobicity/hydrophilicity (LogP values)
-      - synthesis parameters
-         - MOF synthesis
-            - temperature
-            - time
-            - pH
-            - solvent type
-            - modulators
-            - metal:linker ratio
-         - loading method
-            - impregnation
-            - post-synthetic modification
-            - one-pot synthesis
-         - loading conditions
-            - concentration
-            - temperature
-            - time
-            - solvent
-         - post-processing
-            - washing procedures
-            - drying conditions
-            - storage conditions
-   - targets
-      - cell viability
-      - ROS generation
-      - phototoxicity indices (PI50/IC50 ratios)
-      - selectivity indices (cancer vs normal cells)
-      - biodistribution data
-      - in vivo efficacy metrics
-         - tumor volume reduction
-         - survival rates
-- challenges
-   - ROS generation is measured with different methods
-   - synthesis & loading methods differ variously
-   - cell viability most of the times is reported as diagrams
-   - incomplete reporting
-      - missing experimental details
-      - unclear methodologies
-   - nomenclature inconsistencies
-      - different naming conventions for same MOFs/PAs
-   - scale variations
-      - lab-scale vs pilot-scale synthesis differences
-   - publication bias
-      - tendency to report only positive results
+targets (cell viability + ROS generation intensity)
 
-- agentic data extraction via LLMs
-   - workflow
-      - pre-processing steps
-         - literature search strategy
-            - database selection (PubMed, Web of Science, Scopus)
-            - keyword optimization
-         - paper screening criteria
-            - publication date range
-            - journal quality
-            - study type filters
-         - data validation workflow
-            - cross-referencing with multiple sources
-            - expert review checkpoints
-      - LLM reads the abstract, title and conclusion to decide if the paper is related to the work
-         - LLM extract datapoints form abstract, materials and methods, results and discussion, conclusion, tables, figures and supplementary data
-      - enhanced extraction pipeline
-         - multi-modal extraction
-            - OCR for figures
-            - table parsing
-            - chemical structure recognition
-         - standardization modules
-            - unit conversion
-            - nomenclature standardization
-         - quality scoring system
-            - confidence levels for extracted data
-   - challenges
-      - LLM
-         - LLM model
-         - context window
-            - input
-            - output
-         - LLM parameters
-            - temperature
-            - top p
-         - LLM API
-      - papers
-         - downloading papers
-         - get supplementary data of papers
-         - accurately transform PDFs into text
-      - extraction
-         - appropriate agentic flow
-         - accurate extraction from papers with multiple np reports
-         - LLMs hallucination
-         - LLMs precision
-         - working with figures
-      - data quality issues
-         - incomplete reporting
-         - nomenclature inconsistencies
-         - scale variations
-         - publication bias
-      - technical challenges
-         - chemical structure parsing
-            - converting SMILES/InChI to descriptors
-         - image analysis complexity
-            - extracting quantitative data from graphs and microscopy images
-         - batch processing reliability
-            - handling processing failures and retries
+---
 
-- feature engineering
-   - descriptor categories
-      - chemical descriptors
-         - molecular fingerprints
-            - ECFP
-            - MACCS keys for organic linkers
-         - quantum chemical descriptors
-            - DFT-calculated properties
-         - drug-likeness descriptors
-            - Lipinski's rule parameters
-      - energy based
-      - topological
-      - geometric
-      - advanced descriptors
-         - network topology descriptors
-            - persistent homology
-            - graph neural network embeddings
-         - machine learning-derived features
-            - autoencoder representations
-         - composite descriptors
-            - MOF-PA interaction parameters
-      - costume
-   - challenges
-      - choosing descriptors
-         - chemcial
-         - energy based
-         - topological
-         - geometric
-         - costume
-      - overfitting in case of little number of datapoints compared to number of features
-      - choosing an appropriate dimensinallity reduction strategy
-      - feature selection
-      - feature correlation analysis
-         - identifying and handling multicollinearity
-      - scale standardization
-         - handling features with vastly different ranges
-      - missing data imputation strategies
-      - feature importance validation
-         - experimental verification of predicted key features
+MOF_System_name: string
+MOF_Base_Name: string
+System_Type: string {intrinsic, extrinsic, else}
+Metal_Node: string
+Organic_Linker: string
+Particle_Morphology: string
+MOF_Topology: string
+Particle_Diameter(nm): numeric
+Zeta_Potential(mV): numeric
+MOF_BET_Surface_Area(m2/g): numeric
+MOF_Pore_Size(np): numeric, average diameter of pores
+Surface_Functionalisation_Agent: string
 
-- modelling
-   - preprocessing
-   - fitting
-   - fine tunning
-   - model architecture considerations
-      - algorithm selection
-         - ensemble methods
-            - Random Forest
-            - Gradient Boosting for non-linear relationships
-         - deep learning options
-            - graph neural networks for MOF structures
-         - hybrid approaches
-            - combining physics-based and ML models
-   - challenges
-      - can we use NN?
-      - semi-supervised learning
-      - data augmentation
-      - cross-validation strategies
-         - stratified sampling
-         - leave-one-cluster-out
-      - model uncertainty quantification
-         - confidence intervals
-         - prediction reliability
-      - transfer learning potential
-         - leveraging models from related domains
-      - active learning implementation
-         - guiding future experimental design
+PS_Chemical_Name: string
+PS_Locus: string {Linker, Encapsulated, Surface-Covalent, Surface-Adsorbed}
+Absorption_Q_Band_Max(nm): Wavelength of the lowest-energy absorption peak used for PDT.
+Molar_Extinction_Coefficient(1/M.cm): numeric, Light absorption strength at the Q-band
+Loading_capacity(wt%): numeric Weight percentage of loaded PS in ==extrinsic== systems.
 
-- analysing
-   - interpretability methods
-      - SHAP (SHapley Additive exPlanations) values for feature importance
-      - LIME (Local Interpretable Model-agnostic Explanations) for local interpretability
-      - attention mechanisms in neural networks
-      - feature interaction analysis
-   - challenges
-      - can we apply dimensinallity reduction and still get to know the contribution of the original features to the model?
-      - what methods and tools to use?
-      - interpretebility
-      - generallity
-      - statistical significance testing
-         - ensuring robust conclusions
-      - external validation
-         - testing on independent datasets
-      - mechanistic interpretation
-         - connecting ML insights to physical/chemical principles
-      - uncertainty propagation
-         - how data extraction uncertainties affect final conclusions
+Excitation_Wavelength(nm): numeric
+Power_Density(mW/cm2): numeric
+Total_Light_Dose(J/cm): numeric, Power Density × Time
+Cell_Line: string
+Assay_Type: string {in vitro, in vivo}
+Animal_Model: string
+Administration_Route: string {intravenous, intratumoral}
 
-- data management
-   - database design
-      - relational vs NoSQL for heterogeneous data
-   - version control
-      - tracking data updates and model iterations
-   - reproducibility
-      - ensuring computational reproducibility
-   - data sharing protocols
-      - preparing datasets for community use
-   - challenges
-      - handling heterogeneous data types
-      - ensuring data integrity
-      - backup and recovery strategies
+ROS_1O2: singlet oxygen
+ROS_OH: hydroxyl radical
+ROS_O2: superoxide anion radical
+ROS_H2O2: hydrogen peroxide
 
-- validation strategy
-   - experimental validation plan
-      - designing experiments to test ML predictions
-   - literature validation
-      - comparing predictions with recent publications not in training set
-   - expert consultation
-      - materials scientists and PDT researchers for domain validation
-   - challenges
-      - cost and time constraints for experimental validation
-      - availability of expert reviewers
-      - bias in validation datasets
+Singlet_Oxygen_Quantum_Yield(%): numeric
 
-- ethical and practical considerations
-   - bias detection
-      - ensuring diverse representation in training data
-   - computational resource requirements
-      - GPU/CPU needs
-      - cloud vs local processing
-   - intellectual property
-      - patent landscape analysis for novel MOF-PA combinations
-   - regulatory considerations
-      - FDA/EMA approval pathways for identified candidates
-   - challenges
-      - computational cost optimization
-      - ethical use of published data
-      - regulatory compliance complexity
 
-- feature names:
-   - np: اسم نانوذره - mof np size (nm) before loading: شعاع نانوذره نهایی قبل از لود دارو - np size (nm) after loading: شعاع نانوذره نهایی بعد از لود دارو - np structure: ساختار - average pore volume(nm3): میانگین حجم تخلخل ها - specific surface area (m2/g): سطح ویژه - total pore volume(cm3/g): حجم تخلخل ها - bjh pore radius (nm): شعاع تخلخل ها - zeta potential (mV) before loading: پتانسیل زتا قبل از لود دارو - zeta potential (mV) after loading: پتانسیل زتا بعد از لود دارو (loading process)
+IC50_Light(uM): numeric, Concentration for 50% cell growth inhibition with light.
+IC50_Dark(um): numeric, Concentration for 50% cell growth inhibition without light (dark toxicity).
+Tumor_Growth_inhibition(%): numeric, TGI%; percentage reduction in tumor volume vs. control
 
