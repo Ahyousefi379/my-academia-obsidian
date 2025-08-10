@@ -38,13 +38,13 @@ targets (cell viability + ROS generation intensity)
 ### **Particle Characterization**
 
 - ✅ **`Particle_SystemName`**: string
+- ✅ **`System_VariantDescriptor`**: string — short text summarizing how this variant differs from the base system.  
 - ✅ **`Particle_Morphology`**: string
 - 🟨 **`Particle_DiameterBeforeLoading_nm`** (nm): numeric
 - 🟨 **`Particle_DiameterAfterLoading_nm`** (nm): numeric
 - 🟨 **`ZetaPotential_BeforeLoading_mV`** (mV): numeric
 - 🟨 **`ZetaPotential_AfterLoading_mV`** (mV): numeric
 - ✅ **`Particle_SurfaceFunctionalizationAgents`**: string list
-
 
 ###  **MOF Framework Properties**
 
@@ -58,7 +58,9 @@ targets (cell viability + ROS generation intensity)
 - 🟨 **`MOF_BJH_PoreRadius_nm`** (nm): numeric
 - ✅ **`MOF_Photosensitizer_SystemType`**: string {intrinsic, extrinsic}
 
-
+###  **MOF Synthesis Properties and conditions**
+- **`MOF_SynthesisMethod`**: string
+- 
 ###  **Photosensitizer (PS) Properties**
 
 
@@ -70,7 +72,9 @@ targets (cell viability + ROS generation intensity)
 
 ### **Light Treatment Parameters**
 
-
+- **`surface area`**
+- **`laser type`**
+- **`laser FWHM`**
 - ✅ **`Treatment_ExcitationWavelength_nm`** (nm): numeric
 - 🟨 **`Treatment_PowerDensity_mW_per_cm2`** (mW/cm²): numeric
 - 🟨 **`Treatment_IrradiationTime_s`** (s): numeric
@@ -79,20 +83,20 @@ targets (cell viability + ROS generation intensity)
 ### **Biological Testing Conditions**
 
 
-- 🟨 **`Treatment_DosingConcentration_ug_per_mL`**: numeric, µg/mL for in vitro, mg/kg for in vivo
--  🟨 **`Treatment_DosingConcentration_mg_per_kg`**: numeric, µg/mL for in vitro, mg/kg for in vivo
+- 🟨 **`Treatment_DosingConcentration_ug_per_mL`**: numeric, µg/mL 
+-  ❌ **`Treatment_DosingConcentration_mg_per_kg`**:  mg/kg for in vivo
 - 🟨 **`Treatment_CellularUptake_percent`**: numeric
 - 🟨 **`Treatment_CellLine`**: string
-- ✅ **`Treatment_AssayType`**: string {in vitro, in vivo}
-- 🟨 **`Treatment_AnimalModel`**: string
-- 🟨 **`Treatment_AdministrationRoute`**: string {intravenous, intratumoral}
+- ✅ **`Treatment_AssayType`**: string {MTT, ...}
+- ❌ **`Treatment_AnimalModel`**: string
+- ❌ **`Treatment_AdministrationRoute`**: string {intravenous, intratumoral}
 
 ### **Target Variables - Photophysical Response**
 
 
 
 - ✅ **`SingletOxygenQuantumYield_DPBF_percent`** (%): numeric, Fraction of absorbed photons that produce ¹O₂
-- ✅ **`SingletOxygenQuantumYield_SOSG_percent`** (%): numeric, Fraction of absorbed photons that produce ¹O₂
+- ✅ **`SingletOxygenQuantumYield_SensoryGreen_SOSG_percent`** (%): numeric, Fraction of absorbed photons that produce ¹O₂
 - 🟨 **`ReactiveOxygenSpecies_HydroxylRadical_Concentration`**: string, hydroxyl radical
 - 🟨 **`ReactiveOxygenSpecies_SuperoxideAnion_Concentration`**: string, superoxide anion radical
 - 🟨 **`ReactiveOxygenSpecies_HydrogenPeroxide_Concentration`**: string, hydrogen peroxide
@@ -101,11 +105,14 @@ targets (cell viability + ROS generation intensity)
 
 - ✅ **`IC50_WithLight_μM`** (μM): numeric, IC50 light, Concentration for 50% cell growth inhibition with light
 - ✅ **`IC50_WithoutLight_μM`** (μM): numeric, IC50 dark, Concentration for 50% cell growth inhibition without light (dark toxicity)
-- ✅ **`CellViability_AreaUnderCurve`**: numeric
-- 🟨 **`TumorGrowthInhibition_percent`** (%): numeric; percentage reduction in tumor volume vs. control
+- ❌ **`CellViability_AreaUnderCurve`**: numeric
+- ❌ **`TumorGrowthInhibition_percent`** (%): numeric; percentage reduction in tumor volume vs. control
 
 ### **Metadata**
 
+- ✅ **`System_ID`**: string — unique identifier generated during extraction (e.g., `SYS_001`)
+- ✅ **`System_Label`**: string — concise, human-readable name (include metal node, PS, modifications if mentioned)
+- ✅ **`System_Description`**: string — short variant synthesis/structure description from paper (50–150 words)
 
 - **`Paper_DATE`**: date
 - **`Paper_Title`**: string
@@ -244,8 +251,8 @@ targets (cell viability + ROS generation intensity)
 
 - [ ] مقادیری که به شکل بازه هستن مثل اندازه نانوذره 
 - [ ] مقادیری که به روش های مختلف اندازه گیری میشن مثل اندازه نانوذره 
-- [ ] نحوه گزارش cellular uptake
-- [ ] گزارش جداگانه میزان اکسیژن یگانه از SOSG و DPBF
+- [-] نحوه گزارش cellular uptake
+- [x] گزارش جداگانه میزان اکسیژن یگانه از SOSG و DPBF
 - [ ] استفاده از داده های cell viability 
 - [ ] in vivo Vs in vitro
 - [ ] Tumor_Growth_inhibition روز های 
